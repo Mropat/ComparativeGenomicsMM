@@ -1,7 +1,6 @@
 # this script takes the output of a blast run
 # and outputs a file with the best hits between genomes in the format:
-#>reference proteome target proteom ORF in target proteome
-#sequence in reference proteomoe sequence in target proteome
+#reference_proteome ref_seq target_proteome ORF in target proteome target-seq
 
 
 import sys
@@ -26,5 +25,5 @@ for aSingleBlastRecord in listOfBlastRecords:
 		alignment = aSingleBlastRecord.alignments [i]
 		title = re.compile ("gnl\|BL_ORD_ID\|\d* ").sub ("", description.title)
 		
-		print ">" + referenceProteome + ' ' + targetProteome + ' ' + title
-		print alignment.hsps [0].query + ' ' + alignment.hsps [0].sbjct
+		print  referenceProteome + ' ' + alignment.hsps [0].query + ' '+ targetProteome + title + ' ' + alignment.hsps [0].sbjct
+		#print alignment.hsps [0].query + ' ' + alignment.hsps [0].sbjct
