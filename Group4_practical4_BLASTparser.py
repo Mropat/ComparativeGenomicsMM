@@ -22,6 +22,8 @@ for aSingleBlastRecord in listOfBlastRecords:
 	for i in range (len (aSingleBlastRecord.alignments)):
 
 		description = aSingleBlastRecord.descriptions [i]
-		alignment = aSingleBlastRecord.alignments [i]		
-		print  referenceProteome + ' ' + alignment.hsps [0].query + ' '+ targetProteome +  ' ' + alignment.hsps [0].sbjct
-
+		alignment = aSingleBlastRecord.alignments [i]
+		reftitle = aSingleBlastRecord.query
+		title = re.compile ("gnl\|BL_ORD_ID\|\d* ").sub ("", description.title)		
+		print  reftitle + ' ' + alignment.hsps [0].query + ' '+ title +  ' ' + alignment.hsps [0].sbjct
+		break
