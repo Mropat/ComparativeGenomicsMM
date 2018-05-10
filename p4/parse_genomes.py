@@ -25,8 +25,8 @@ def genomes(filename):
             seq4, seq5, seq8, seq16 = dict4[id4].seq, dict5[id5].seq, dict8[id8].seq, dict16[id16].seq
             counter += 1
             with open("p4/clusters/"+str(counter)+".fasta", "w") as wh:
-                wh.write("Bradyrhizobium_"+id4 + "\n" + str(seq4) + "\n" + "Chlamydia_"+id5 + "\n" + str(seq5) + "\n" +
-                         "Dictyoglomus_"+id8 + "\n" + str(seq8) + "\n" + "Rhodopirellula_"+id16 + "\n" + str(seq16) + "\n")
+                wh.write(">Bradyrhizobium_"+id4 + "\n" + str(seq4) + "\n" + ">Chlamydia_"+id5 + "\n" + str(seq5) + "\n" +
+                         ">Dictyoglomus_"+id8 + "\n" + str(seq8) + "\n" + ">Rhodopirellula_"+id16 + "\n" + str(seq16) + "\n")
 
 
 if __name__ == "__main__":
