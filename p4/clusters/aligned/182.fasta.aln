@@ -1,0 +1,45 @@
+Kalign (2.0) alignment in ClustalW format
+
+
+Bradyrhizobium_orf01     MS--GKSLAGRKALVTG-GARGIG--AAIAQALARAGASIMI--ADI--LE-ETGRASAA
+Chlamydia_orf00326_r     MS--GL-LVNKTAIVTG-GSRGIG--FSIAKLFAEQGANV-----QIWGINGEAGQAAAQ
+Dictyoglomus_orf0222     MNFKGK-VV----LITGAGS-GIGRKTAI--MFAERGAKVAV--NDI--SE-EKGKETVE
+Rhodopirellula_orf02     MN--------RKAIITG-GSTGIGRATAVA--LARSGHDVAITYAH--G-E-DDAKRTSE
+
+
+Bradyrhizobium_orf01     AIAKEDVATG----FVQ-L-DVT--DDAQWERAVAKTVAT-LGGY---DILINNAGI--E
+Chlamydia_orf00326_r     TLSEQ---TGRQVSFAL-V-DVSK-NDM-----VSAQVQNFLSEYNTIDVIVNNAGITRD
+Dictyoglomus_orf0222     IIKNNG---GEAI-FI--LGDVSSPKDA--ER-IIKEV---VENFGKIDILVNNAGI---
+Rhodopirellula_orf02     MVQAE----GRAC-VIKHL-DLFNPETA--NP-VVDEM---VDELGGLDVFVNNAGM---
+
+
+Bradyrhizobium_orf01     ITSLI-SE------VKAEDARRMCD---VN--IVGTVLG------MKHAFR---A---MR
+Chlamydia_orf00326_r     --ALL---------M------RMSEEEWSS--VINTNLG---S--I---YNVCSAV--IR
+Dictyoglomus_orf0222     ---VVYGK------V--EDT---SEEDFDKTMLVNVK-G---PFFLSK-Y----AVLEMK
+Rhodopirellula_orf02     ---MV-NQTMPHLDI--ETAQRI----F-N---VNT-IGATLA--IQR------AVHHML
+
+
+Bradyrhizobium_orf01     P---GGPAGKG------GAVVNIASVAATIAF---PSIAVYSGTKSAVDRMTRVG---AM
+Chlamydia_orf00326_r     PMIKA----RS------GAIINISSI---VGLRGSPGQTNYAAAKAGI-----IGFSKAL
+Dictyoglomus_orf0222     K--QG-----G------GVIVNVSS---EVALKAIPERCVYSMSKGAL-----ISLTKSM
+Rhodopirellula_orf02     P---GGL--DGEPKSTPGRIIVVTSVHEAIA---SPVDTLYTMTKHALG-----GLVKCL
+
+
+Bradyrhizobium_orf01     ------EAG-KLGFGVRVN--CIYPG--L---IPTDMGMQLAN-DIVKVGLAAD-VNAAV
+Chlamydia_orf00326_r     S----KEVGSK---NIRVN--CIAPG--F---IDTDMTKSL-N-D----NLKNEWLK---
+Dictyoglomus_orf0222     AIDYARE-------NIRVNAVC--PGTTFTQGLAERL-KKLPNAD--EV-LKQ--MS---
+Rhodopirellula_orf02     AL----DLT-PL--NITVN--SVAPG----E-IATPM-----N-D-----MDPD------
+
+
+Bradyrhizobium_orf01     GSVVEQT-------PLGR--LAEVTDIGDATV-FL-CSNEARFITG-IGLPVDGGMGM--
+Chlamydia_orf00326_r     G--V----------PLGRVGMPE--EIAKAAL-FL-ASDGSSYITGQV-LSVDGGMA---
+Dictyoglomus_orf0222     ----ERR-------PIGRLGKEE--EIAFAIL-FAAC-DEAGYMTGSI-ISIDGGFTA--
+Rhodopirellula_orf02     ----DAKSSPREAIPVRRVGHPD--EVA-AVINFL-AGEQAGFVTGAR-WPIDGGFEAAT
+
+
+Bradyrhizobium_orf01     --------------
+Chlamydia_orf00326_r     --------------
+Dictyoglomus_orf0222     --------------
+Rhodopirellula_orf02     PLAASAFREDYLAQ
+
+

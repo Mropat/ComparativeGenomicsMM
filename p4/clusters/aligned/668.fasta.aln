@@ -1,0 +1,21 @@
+Kalign (2.0) alignment in ClustalW format
+
+
+Bradyrhizobium_orf13     MSVVIRLARAGTKKRPVYHVVVAD--SRFPRDGRFIERLGYFNPLLPKDNE-ARLKLDMD
+Chlamydia_orf00040       VALKIRLRQQGRKNHVVYRLVLADVES--PRDGKYVELLGWYDP----HSE-QNYQLKSE
+Dictyoglomus_orf0193     L-VKIRLTRVGAKNKPAYRIVAMD--SREPRDGKHLEILGFYDP----KTDPATIQLKEE
+Rhodopirellula_orf09     --------------------V--D--QRNPRDGRVIEELGTYDPMCP-ETD-ARTTLKAD
+
+
+Bradyrhizobium_orf13     KVKAWVAKGAQPSDRV----ARFL--DAAGV-----KKREARNNPQKAVPR-KERKA---
+Chlamydia_orf00040       RIFYWLNQGAELTEKA----GALVRQGAPGVYAELMAKKVAR----RAVVR-QKRRAYRQ
+Dictyoglomus_orf0193     RILYWLSQGAQPTDTVLSILKRY------GVWDKFL-----------AM-----KKS---
+Rhodopirellula_orf09     RVDYWIGVGAQPSDKVAVLIKKY---GTDG--SHL----EAQ---KAAVERLGRRKDYT-
+
+
+Bradyrhizobium_orf13     -----QA-------------------EAAAKA-------------
+Chlamydia_orf00040       RLAARKA-------------------EAAAK--------------
+Dictyoglomus_orf0193     ------A-------------------KSSA---------------
+Rhodopirellula_orf09     --PPPEAPAPKAAPVAEAPAEEAPAEEAAAEASTDDAPAAEATTE
+
+

@@ -1,0 +1,45 @@
+Kalign (2.0) alignment in ClustalW format
+
+
+Bradyrhizobium_orf01     -----------------------------LITGASAGIGTELARV-FAANGHRLAL--TA
+Chlamydia_orf00326_r     M--------SGL----L-------VNKTAIVTGGSRGIGFSIAKL-FAEQGANVQIWGIN
+Dictyoglomus_orf0055     M--------RS-----L-------ENKIALITGASRGIGEEIAKR-LAKEKVNLAL--IA
+Rhodopirellula_orf04     MSFLVKARSRAFSFRRLNGHPSMTQHNTALITGASSGIGRELA-IHFANGGNDVVL--VA
+
+
+Bradyrhizobium_orf01     RR--ADRLEALANELAAKGGKKPI---VIACDL-QEADAG-EKIAAALAAEGV-----EL
+Chlamydia_orf00326_r     GEAGQAAAQTLSEQT----GRQ-VS-FAL-VDV-SK-N---DMVSAQV--QNFLSEYNTI
+Dictyoglomus_orf0055     RD--EKRLRELKEKL----EKENINVFILSIDLREK-NAPKTVIGEVI--RHF--E--RL
+Rhodopirellula_orf04     RS--EDKLRELATEIESQSGRSAT---VITSDL-SRIESV-DQLCNELTQRSI-----TI
+
+
+Bradyrhizobium_orf01     DHLVNNAGF--GVFGD---AIERDRVEQ-VGIVDVNVRAL-TDLSLRFADQLI------R
+Chlamydia_orf00326_r     DVIVNNAGITRDAL---L--MRMSE-EEWSSVINTNLGSI-YNVC-S-A--VIRP-MI-K
+Dictyoglomus_orf0055     DILINNAG-T--ALSKPI--IETSE-EEWDEIMTIN-AKVPYFLC-KYA--I--P-YL-K
+Rhodopirellula_orf04     NTLVNNAGF--GALGK-FSELSADR--Q-TDMVMVNVVAL-TRLT-R---QLL-PSMLQQ
+
+
+Bradyrhizobium_orf01     NKGG---LLNVGSVAGFLPG-PGMAVYYASKAYVISLTEALRAELAPRG---VRVTVLC-
+Chlamydia_orf00326_r     ARSG--AIINISSIVGLR-GSPGQTNYAAAKAGIIGFSKALSKEV---GSKNIRVN--CI
+Dictyoglomus_orf0055     -NSEIPTIINISSVVGYK-GYVNQSAYTASKHALHGFTKVLAQEVHEYG---IRVH--LI
+Rhodopirellula_orf04     NRGG---ILNVGSIAAYQAG-PNMAVYYATKAYVLSFTEALREELS--G---TKLHVTCL
+
+
+Bradyrhizobium_orf01     -PGPVPTE--FQARAG--VGSGH-D----TALLNVPAADVAQQAYRGLMAN---KRA-V-
+Chlamydia_orf00326_r     AP-------------G----------FIDTDM----TKSL----------NDNLKNEWLK
+Dictyoglomus_orf0055     SPG------------G-----------VATDL-------V----------N---K---VR
+Rhodopirellula_orf04     EPG--PTETGF----GEDSGMGKLDMFSSTAM---TAKAVALAGYEGYLNN---EDV-V-
+
+
+Bradyrhizobium_orf01     -LP-----G----L------GIKIVPFALRFFPR-G--FILSATSR---F--QR----QR
+Chlamydia_orf00326_r     GVP-LGRVG----M---PE---EIAKAAL-FLASDGSSY----------ITGQVLSV---
+Dictyoglomus_orf0055     --PDLEK-A----LLIQPS---EIAEIIV-FLLK----F------RNNAVIDEI-QVRRK
+Rhodopirellula_orf04     -IP-----GWKNRLMV-TSAG---------FLPR----F---ATRK---LVGKM----QS
+
+
+Bradyrhizobium_orf01     H------
+Chlamydia_orf00326_r     DGGMA--
+Dictyoglomus_orf0055     D-NIPWR
+Rhodopirellula_orf04     A------
+
+

@@ -1,0 +1,111 @@
+Kalign (2.0) alignment in ClustalW format
+
+
+Bradyrhizobium_orf03     --------M---QV--------------TRDF-S-H------YVRAAG-----E----GI
+Chlamydia_orf01026_r     --------MSP-QL--------FS-SPFSRELLS--N-----F---------FES---GM
+Dictyoglomus_orf0199     ------------------------------------------------------------
+Rhodopirellula_orf09     MPSSQANAMNPTEIQAIDPVCGMSVAP-AKSLSSQHNGRTFYFC-SAGCQKNFDSDPDGV
+
+
+Bradyrhizobium_orf03     ------KHIDLAVEG-------VHCAG---------------------C-M-AKIER-GL
+Chlamydia_orf01026_r     --------AE---ENS---------------------------------PL---------
+Dictyoglomus_orf0199     ------------------------------------------------------------
+Rhodopirellula_orf09     LESRKKKNAE--SESSECCSTQTTCCGGGSHGKPQTSQQSDDPEAVYTCPMHPEVEQVG-
+
+
+Bradyrhizobium_orf03     SAIP-DVTLARVNLTDRRVALEWKQGT-LDPARFIDRLEELGYKAYPYETESAEATEVAE
+Chlamydia_orf01026_r     ----------------------------LSQ-K-------------------------N-
+Dictyoglomus_orf0199     ------------------------------------------------------------
+Rhodopirellula_orf09     ---PGDCPIC---------------GMDLEP-KFVD----------P--TSSGDEAQYND
+
+
+Bradyrhizobium_orf03     --SRF---L-LRC--LGVAAFATMNV-MM-L---SI---PV--W--S---GNVSDMLPEQ
+Chlamydia_orf01026_r     --RRLSQNLTLKSAYISLA----L---YL----GSL----LSHWI-----G---------
+Dictyoglomus_orf0199     ------------------------------------------------------------
+Rhodopirellula_orf09     MKRRF---------WIGVA----LSVPLLILSMGPMVGLPINRWISSGMDG---------
+
+
+Bradyrhizobium_orf03     RDFFHW----LSA-LIALPAAAY--AGQP-F------F-----RSAWRALSAKTTNMDV-
+Chlamydia_orf01026_r     -----Y-Q-ALSSLLLIL---TFFLAGTPALI---KSFEDILDRT-V--------NIDI-
+Dictyoglomus_orf0199     ------------------------------------------------------------
+Rhodopirellula_orf09     -----WLQFALATPVV------FW-CGWPLLVRGAKSF-----RS-W--------NLNMF
+
+
+Bradyrhizobium_orf03     PI----SIGVCLA-L-GMSVVE-TI----------HHAEHA--YF---DAAIMLLTFLLV
+Chlamydia_orf01026_r     -LMTSAAFG-SI--FIG-GALEGALLL---V-----------L-FAISES---------L
+Dictyoglomus_orf0199     ------------------------------------------------------------
+Rhodopirellula_orf09     SLI---ALG-SLAAF-GFSVL--AILLPDWIPTAFYEADRPPLYF---EAAAVIITLVLL
+
+
+Bradyrhizobium_orf03     GRVLDQNMRRRTRAVAGN----LAALK--AETAAKFV-----GPDE----ISQVPVAAIH
+Chlamydia_orf01026_r     GAMV-----------SGKAKSTLASLKHLAPTVA-WVVQQ-DG------SLQKVLVQNVK
+Dictyoglomus_orf0199     ------------------------------------------------------------
+Rhodopirellula_orf09     GQVLE--LRARQQ--TGGA---IRELMQLTPDIA----HRIEGEDERDVSLDE--VQS--
+
+
+Bradyrhizobium_orf03     PGDIVLLRPGERCAVDGTVIEGRSEIDQSL--ITGETL---Y-VTAEQGTAVYAGSMNIS
+Chlamydia_orf01026_r     VGEIIRVKSGEVVPLDGKIIQGASSIN--LMHLTGEKIPKSCGI----GDTIPAGAHNLE
+Dictyoglomus_orf0199     ------MR----IPVDGEIIDGTSYIDESM--LTGES-----------------------
+Rhodopirellula_orf09     -GDRLRIRPGEKIPVDGEVIRGSSRVDESM--LTGEPVP----VEKNEGDALTGGTLNQS
+
+
+Bradyrhizobium_orf03     GTLRV---RVSAASEATLLAEITRLLDNALQARSR--YM--RLADRASRLYA-PV--VHA
+Chlamydia_orf01026_r     GSFDLQVLRIGA--ESTIAH-IINLVVQA-Q-SSK-PKLQQRL-DRYSSTYALTIFAI--
+Dictyoglomus_orf0199     --------------------------------TTK---------EK--K--------V--
+Rhodopirellula_orf09     GSLEMTATQVGG--D-TVLHRIVQMVADA-Q-RSQAP-IQ-KLVDQVAQ-Y----F-V--
+
+
+Bradyrhizobium_orf03     TALI----TIFG------WVIAGAGWHD-AI----VTGVAVLIITCPCALGL-AIPT--V
+Chlamydia_orf01026_r     SACIAIGGSLFTTLPFL-----GP---DSAF-Y---RALAFLIAASPCAL-IIAIPIAYL
+Dictyoglomus_orf0199     ----------------------G----D--------------------------------
+Rhodopirellula_orf09     PAVI-LS-SI---LAFIVWSIVGP---EPALAYAFVSAIAVLIIACPCALGL-ATPMSVM
+
+
+Bradyrhizobium_orf03     QTVASGAMFKAGVLLNSG---DAIERLAEADHVIFDKTGTLTL--PDLEVMN-AA--DI-
+Chlamydia_orf01026_r     SAINACA--KHGVLLKGG-V--VLDRLVSCNSVVMDKTGTLTTG--DLTC---SGCEDFG
+Dictyoglomus_orf0199     ------------------------E--------VYE--GTI-----NI---------N--
+Rhodopirellula_orf09     VGVGRGA--KEGVLIRDAEILEIMEKV---DTIVVDKTGTLTKGRPAVTAIETQG--DWS
+
+
+Bradyrhizobium_orf03     P-ADIF-E-LAGRLAL------SSHHPVAAAVA--L-AAGARSPIVGAV--EEA----GQ
+Chlamydia_orf01026_r     PESPLFYSCV---LAM----EQSSSHPIAQAIVNYL----TEKQV-QSLPATQCTTIPGE
+Dictyoglomus_orf0199     ------------------------------AVI----------KI-------KA------
+Rhodopirellula_orf09     -ESD-----V---LAIAAAVEQSSEHPLGRAIVEYAEASDTQKRVAKDF---QSTT--GK
+
+
+Bradyrhizobium_orf03     GVRAVVDGVELR---LGR--------PSFCRAEAL--VGSATL-DP-E------ASIV--
+Chlamydia_orf01026_r     GVSGEFNG-E-Q-AFVGRVSTALRYVPE----E-YR----EQLRERAQQAQ---------
+Dictyoglomus_orf0199     ------N----R---IGQ----------------------ETL-----------------
+Rhodopirellula_orf09     GVVAEVDG-K-HVA-IGN--------PNWL-AD-LNVTGLESVRDPAEQHQASAATVVYV
+
+
+Bradyrhizobium_orf03     AFSKGNE-RF--I---LSVRQGL---R--P---DAQAVIAALKARNIGIEI--LSGD-R-
+Chlamydia_orf01026_r     --ERGDTCSIACLGKRVS----LFYFRDVP-RHDAADIVSYLK--KNGYPVCMLTGDHRI
+Dictyoglomus_orf0199     ----------------LS--------R-----------I--IK--K-----C------R-
+Rhodopirellula_orf09     AVDR----SLAAI---IA----I---KD-PIKSSTPDAIQALH--SLGLRVVMLTGDARS
+
+
+Bradyrhizobium_orf03     --EPAVLAAAHALGIAE-WRAGVTPADK--IARIEELKRRGAKVLMVGDGMNDAPSLAAA
+Chlamydia_orf01026_r     SAE----NTARLLGIDEVFY-DLTPDNK--LSKIQELAK-SRQIMMIGDGINDAPALAQA
+Dictyoglomus_orf0199     ---------------------------K---------------VVMVGDGINDAPALARA
+Rhodopirellula_orf09     TAE----AVAKQLGIDD-FRANVSPEAKHDF--VQQLKQEGKTVAMCGDGINDAPALAAS
+
+
+Bradyrhizobium_orf03     HVSMSPI----SAAHLSQATADLVFL--G--RP-LAP-VVAAIDS--AREAL-HLMRQNL
+Chlamydia_orf01026_r     TVGIA-MGEAGSATAI-EA-ADVVLLNQG-LSS-L-PWL---IDK--AKKT-RRIVSQNL
+Dictyoglomus_orf0199     DLGIA-MG-SGTDIAI-ES-GDIVLVN-GDLRGGL-----RALE--LTEKTFKTI-KWNL
+Rhodopirellula_orf09     NVGIA-MG-TGTSVAM-ES-AGVTLVG-GDLRG-V---V---AAKQLSQKTMRNI-RQNL
+
+
+Bradyrhizobium_orf03     WLAIG---YNVL-AVPVAISGVVTPL---------IAAA-AMSGSSI-LVMLNSLRAR--
+Chlamydia_orf01026_r     ALALAIILF--ISG-PASM-GVI-PLWLAVILH----EG-----STV-IVGLNALRL--L
+Dictyoglomus_orf0199     FWAF--I-YNII-GIPIAS-GALYPFF-GVLLNPMF-AGIAMAFSSVFVVT-NSLRLKKF
+Rhodopirellula_orf09     FFAFA---YNAL-GIPIAA-GLLYPFF-GILLSPMIAAA-AMSFSSVSVIG-NALRLRTI
+
+
+Bradyrhizobium_orf03     -----NASREIV
+Chlamydia_orf01026_r     K----NT-----
+Dictyoglomus_orf0199     KVS--------I
+Rhodopirellula_orf09     QLSAPN------
+
+

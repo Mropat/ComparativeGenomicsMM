@@ -1,0 +1,33 @@
+Kalign (2.0) alignment in ClustalW format
+
+
+Bradyrhizobium_orf01     M--------TEVLVVAD------------CWQ--R-EP------DSEAV-I-----QRAV
+Chlamydia_orf00589       -----------LLIL-D-----------------RSSPQIFISNEQQDVSIDLQSAQRLV
+Dictyoglomus_orf0168     M--------S-VNIF-D---------LYGCFD--K--------KEEDRV-------KNFV
+Rhodopirellula_orf01     MEQPSTNLTADVLI--DEEAEPDLSIWFGCLETAR--------TE-----L----AQAAI
+
+
+Bradyrhizobium_orf01     AAAAESV---D-ED--VA---DAE--VAV-MLTDDAGIRTL-NSNW-RGIDKP--TNVLS
+Chlamydia_orf00589       ------VLFLELQK--VST--D-Q--VYVYFL-DDTALAQLHDEQF-S--D-PSLTDTIT
+Dictyoglomus_orf0168     ---KE-V-F-K-KEGFLPNKYD----ISV-VLVDDEKIREL-NSKY-RGKDTP--TDVLS
+Rhodopirellula_orf01     -AAAS-V------EG-----CD-RGSVGV-RICDDATIHPI-NREFLQ-HDYP--TDVIS
+
+
+Bradyrhizobium_orf01     FP-AL-Q-PEG--EWKEGDAPRML-GDIAIAYETV--R---R--E-A-DE--------EQ
+Chlamydia_orf00589       LP--IDK-P-GIASF-----PHVL-GE---AF--VSPKAAMRFLE-QYTE--------DQ
+Dictyoglomus_orf0168     FS--LGKDPKG----------RIV-GEI---Y--ISIDTA-K-IQ-A-KENNKTLI--DE
+Rhodopirellula_orf01     FPYEL-E-P-----------P-MVEGELVASF-----ETA---IENA-SEPSNPLSPREE
+
+
+Bradyrhizobium_orf01     KPFDHHLSHLAVHGFLHLIGYDHENDGDAEE---MEALE----RE---I-LSHLDIP---
+Chlamydia_orf00589       L-Y-HEISRYVVHSLLHMLGYDDQTD---EDKRIMQ--E----QE--DVSLSFL------
+Dictyoglomus_orf0168     VAF---LT---LHGLLHILGYDHEND---EE---YEKME----KETKKL-IS-L------
+Rhodopirellula_orf01     L-L---L--YVVHGTLHIVGHDDQSP---EPRAAMRRAEIAAMK----L-IG-IELPLSN
+
+
+Bradyrhizobium_orf01     DPYAD-----RP--------------------GTH
+Chlamydia_orf00589       ---AEHQALLRP--------------------AV-
+Dictyoglomus_orf0168     --W-------R------------------------
+Rhodopirellula_orf01     D---EDSA---PEQDDSFDDDASDSSGGIMSGGVS
+
+

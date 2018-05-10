@@ -1,0 +1,75 @@
+Kalign (2.0) alignment in ClustalW format
+
+
+Bradyrhizobium_orf16     MN--------EKL------R-VIE-------Y----------------------I--KEA
+Chlamydia_orf00485       MS---I--VLDKIGKTLGTRVLFD--DVSVVFN---------------PGNRYGLTGPNG
+Dictyoglomus_orf0221     M---------D------GSKILFKLVDVSF-YYVSERLALNSISLEIKEGESIGILGPNG
+Rhodopirellula_orf07     MAGQFIYQITD-LTKKHGQRKILE--NVNLAFY---------------PGAKIGVLGPNG
+
+
+Bradyrhizobium_orf16     A------EVI----HTS-DGT-------TITAAQMLE-R---------------------
+Chlamydia_orf00485       AGKSTLLKIITGLVEPS-RGTISLPK--KI---GILR-QN--I------DS---------
+Dictyoglomus_orf0221     SGKSTLLKILDGLLFPQ-EG--------KV----FFEGRE--LREKSFEDPNFNRYFRKK
+Rhodopirellula_orf07     AGKSTLLKIMAGM-DTEFEGTARLGKGFTV---GYLE-QEPPL------DPT------KT
+
+
+Bradyrhizobium_orf16     ----F-------------------------L----FPP--------------------Y-
+Chlamydia_orf00485       ----FGDVIVLDCVIMGNSRLWEAMQRRDALYAEEFTDAI-GM-ELGEIEEIIGEEDGYR
+Dictyoglomus_orf0221     VVLLFQNV---DAILFS-----PTV--RDEL-A--F-----GLLQLG-----------Y-
+Rhodopirellula_orf07     V---FENV-----------Q--EAVAERQAI-VDRYNE-ISGL--LGEVT----DDD---
+
+
+Bradyrhizobium_orf16     ---------M---------Q----WTL------------------------ISRLSGGEK
+Chlamydia_orf00485       AESE--AEEL--LLGIGIPE-----EF---FSQ-KMA--TI----P-----L-DL-----
+Dictyoglomus_orf0221     SDSE-------------I-E-RKIYECSRKF---RIE--NLLKRSP-----F-QLSEGEK
+Rhodopirellula_orf07     -EMQKLCDEMATLQDI-I-DANNLWELDR-FVEMSMAVMNL----PPKDAEITNLSGGEK
+
+
+Bradyrhizobium_orf16     R-RLYLLRTLMGEPNVLLLDEPTNDLDIQTL-TILEDYLEQFP--G-AVITVSHDRYFLD
+Chlamydia_orf00485       QFRVLLCQALFGHPEALLLDEPTNHLDLHSI-NWLGSFLKDYN--G-TVIVVSHDRHFLN
+Dictyoglomus_orf0221     K-KVALASLLIIEPDIILLDEPTNELDPRSVRELL-SYIKELRAAGKTIITATHD---LQ
+Rhodopirellula_orf07     R-RVALCQLLIRQPDLLLLDEPTNHLDAESV-SWLEQHLANYK--G-TVVAVTHDRYFLD
+
+
+Bradyrhizobium_orf16     RTV-DHLFAFE-GEGTI--RQFTGNYSEYLEL----R---QQEQAE-EAAVQQK--A---
+Chlamydia_orf00485       -TITTHIADIDYDT--IIIYP--GNYDAMVEMKTASR---EQEKADIKS--KEKKIA-QL
+Dictyoglomus_orf0221     ------M---------V-----NG-F----------------------------------
+Rhodopirellula_orf07     -NVAQWILEVDRGRG-I---PFEGNYSAWLE-NRAKRMALE-ERQQ-KA--REKNLAREL
+
+
+Bradyrhizobium_orf16     -E------------KTAA--------SPTSDE-D----ERTA--------SGR--GQ---
+Chlamydia_orf00485       REFVAKFGAGSRASQVQSRLREIKKLQP--QELKKSNIQRP--Y-IRFPVSDKASGKVVF
+Dictyoglomus_orf0221     ------F-------------------------------DR-----I--------------
+Rhodopirellula_orf07     -EWI-RMSPKARQAKSKARIKSYEQMSA--EQFE----DRPDDLEIQIP-SGKHLGSLV-
+
+
+Bradyrhizobium_orf16     -------NRTRKFSYKEQ---KE--WE---QIE---------------AK------IAAL
+Chlamydia_orf00485       SIEG--ISKT----YDADPL-----FK-PFSLEIYQGDKIGVIGNNGLGKTTLMKLLAGV
+Dictyoglomus_orf0221     --------------F----VMNE---------E----------------K----KIL---
+Rhodopirellula_orf07     -IEAQHVNKA----FGEKTLMTDMNFRLP------PGGIVGIIGPNGAGKTTLFKMLTG-
+
+
+Bradyrhizobium_orf16     EE--RSTQLK-------------KE---------I-ADA--GSD--F-------------
+Chlamydia_orf00485       EQP-SQGQVKLGHNVAFSYF--------PQNHADILKDC--GEETLFEWLRRRKTGITDQ
+Dictyoglomus_orf0221     ---------KVGD-----Y------------KT-IFSD----KE--F-------------
+Rhodopirellula_orf07     QEPVDSGEIKIGETVDLGYVDQSRDKLDP-NKT-IYQEISGGHDS-FE-M-----G----
+
+
+Bradyrhizobium_orf16     ------AKVEKL----------YA--ED--QKVSA-------------------------
+Chlamydia_orf00485       EVRSVLGKM--L----------FGG-DDAFKQVKALSGGETARLLMAGMMLENHNMLILD
+Dictyoglomus_orf0221     -----------L------------------KEV---------------------N-LI--
+Rhodopirellula_orf07     ------GRV--MHARTYVSRFNFKGPDQE-KKVGVLSGGERNRVHLASLLRKGCNVLLLD
+
+
+Bradyrhizobium_orf16     ------DLEA------AV------------ERWAELSALIEE----I---E-QSK-----
+Chlamydia_orf00485       EANNHLDLESVSALAWAINDYPGTAIFVSHDRT-----LIDECATKLLIFD-KGTISF--
+Dictyoglomus_orf0221     ------------------------------------------------------------
+Rhodopirellula_orf07     EPTNDLDVDTLRALEEAIANFAGCVVVTSHDRW-----FLDRLATHILAFEGDGKVVWCE
+
+
+Bradyrhizobium_orf16     ------------------------------------
+Chlamydia_orf00485       --FD----------G-------PMSEY--L-ASQKK
+Dictyoglomus_orf0221     ------------------------------------
+Rhodopirellula_orf07     GNFDTYERNRRERMGEDADDDSPKSRYKSIHAG---
+
+

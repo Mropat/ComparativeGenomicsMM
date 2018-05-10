@@ -1,0 +1,75 @@
+Kalign (2.0) alignment in ClustalW format
+
+
+Bradyrhizobium_orf01     VEM------SAKTL-R----------Y-LI------VI-GLIAL--W---EL----L--P
+Chlamydia_orf01208_r     --M------K-KFI-S----------Y-LL------IILPLIGL--W---EFCAQNY--P
+Dictyoglomus_orf0074     --M------G-TIINS----------N-LILPPPHKVLYKVLDL--FKHKDF----Y--S
+Rhodopirellula_orf06     --MSNEVQQGSKSI-RGNRSEWAWTAFAVI------VV-AALGIAAW-H--FIVKLFDLP
+
+
+Bradyrhizobium_orf01     RTGLI--PELFLPS--LSSTLIAGWTDAAEY-------G-HALAVTLYEVVVSMAF-AC-
+Chlamydia_orf01208_r     NFGFICPP----PSKVLTT-------------------GIHSFPV-LFQ------H-SCY
+Dictyoglomus_orf0074     HL-FI----TF-----IRSTL-----------------G-------LF---IAL-F-S--
+Rhodopirellula_orf06     KL-LL--P-T--PWQ-VAE---AGW----QHRDVLLKSG---W-ITLWTATVSL-FVAV-
+
+
+Bradyrhizobium_orf01     ---G--GG----ILLGAI---V--GS-L---P------R----P-RVL-I--MPMVSSLY
+Chlamydia_orf01208_r     TAQGILGGFFLALLL-AI---LFSAT-MLLFPSTQGLLH----PFCVL-VQCLPM----F
+Dictyoglomus_orf0074     -------GF----LLGYIKNKFFYST-I----------R------NIIDI---------F
+Rhodopirellula_orf06     ----IIGG---AV---SI---LFSQSRLL---------RRALFPYVVF-LQTVPIV----
+
+
+Bradyrhizobium_orf01     AV-PLVI---LYPVFTVWLGIGSESKI---AFASIY--GFLPTM-LA--TAAGIQTIDP-
+Chlamydia_orf01208_r     TLAPLIV---L------WFGWGTRAVIIPTAL-SIF---F-P-LALT--IHQGIKN-SPE
+Dictyoglomus_orf0074     QSNPLIVWITI-ALF--WFGFGNKTII----F-TVFIVLF-PNFYLV--TYNAINNI-PK
+Rhodopirellula_orf06     AIAPLLV---I------WSGYEFRTAV----IATVIICLF-P---IVNNVTTGLTSVRPE
+
+
+Bradyrhizobium_orf01     --QLLLAARSMGATL----S-QR--LIRVIIP--AA--IPTV----LSGLRV-----G--
+Chlamydia_orf01208_r     --ELL---EQF--TLYQATTWQK--LFKLRIP--NG--LPHI----FSGLKIAMSAAGFA
+Dictyoglomus_orf0074     --EYL---ELF--KIYPI-S-RKNYLIKFLIPYLKPFILPNLANSTISSLKI--TA----
+Rhodopirellula_orf06     HNDLL--------RMYGATRWQR--LCRAQIP--TA--IPFLV---L-GARI--SS-GLA
+
+
+Bradyrhizobium_orf01     ---G----ALVI----VGVVV--S----EMLISSAG--------IG--Y---LISR----
+Chlamydia_orf01208_r     TIAG----EWVATQSGLGILIVESRRNYDMAMALAGLFVLTMLTLSLFYSVLLLERSTFF
+Dictyoglomus_orf0074     -M-A----EFLS-----G----------E-----SG--------IG--F---LLS-----
+Rhodopirellula_orf06     VI-GAIVAEFFVSN---G-----A--DYE------G--------LG----A-VMTG----
+
+
+Bradyrhizobium_orf01     -YR--------------------TIL--------DS------P---------------HV
+Chlamydia_orf01208_r     FFRMEKTSKRSFGKKWVFALIPITVLPCLFYLKDDSKLAAPVPTKSFTLLLDWTPNPNHI
+Dictyoglomus_orf0074     -YA------KAF-------------L--------N---------------IE------EV
+Rhodopirellula_orf06     -WQ----A-RTMTDA-LMAALAVSTL-----------LG-----------L--------I
+
+
+Bradyrhizobium_orf01     --FAGV--------------------------LLV------LF--LAIAFNAAIR-----
+Chlamydia_orf01208_r     PLYVGVEKGFFVDEGISLTLQKNTDTCSSIPHLLLEKVDYTLYHSLGV-LKTAVRGAPVQ
+Dictyoglomus_orf0074     --YA------YA---------------------VI------LF----I-LS---------
+Rhodopirellula_orf06     -LFGGV----------------N----------LLSR----LF------LK---R-----
+
+
+Bradyrhizobium_orf01     --------------W-----IE---------------------------RK---------
+Chlamydia_orf01208_r     VAGRLIDSSLQGLIYRKNEGIEKLEDLNGRVLGFCLNDSKNLPNLLEALRKHHVVPSEIK
+Dictyoglomus_orf0074     ---KILE-----LIF-----IK-----SG-------------------------------
+Rhodopirellula_orf06     --------------Y-----L--L--VN--------------------------------
+
+
+Bradyrhizobium_orf01     --AA--I-----WQ--------------T----GTRA-GQA--NDD----------IAS-
+Chlamydia_orf01208_r     NVSADMISPMLTYQIDFLYGGFYNVEGVTIALKGTPT-G-CFLSDTYGSPTGPQLLICGK
+Dictyoglomus_orf0074     ------I------------------------LKGDKNYG--F-SE---------------
+Rhodopirellula_orf06     ------------------------------------------------------------
+
+
+Bradyrhizobium_orf01     -G--AMQPAT--------------------------------------------------
+Chlamydia_orf01208_r     KGSPAMTPQTLQSLQKALSRSLDFCREYPQEAFAIYVEATKDSPKVLSDERAQWEVTLPL
+Dictyoglomus_orf0074     -G----------------------------------------------------------
+Rhodopirellula_orf06     ------------------------------------------------------------
+
+
+Bradyrhizobium_orf01     --------------------------------------------------
+Chlamydia_orf01208_r     LAKTQEPLSRELLESLLVTLSTTCPDLRTSIDTFSIETLISDASETIASS
+Dictyoglomus_orf0074     --------------------------------------------------
+Rhodopirellula_orf06     --------------------------------------------------
+
+

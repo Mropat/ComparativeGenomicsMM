@@ -1,0 +1,75 @@
+Kalign (2.0) alignment in ClustalW format
+
+
+Bradyrhizobium_orf02     M--SD-------------------A----VVPH---K--VEGR---GAHA---A---P--
+Chlamydia_orf00671_r     M--KE-----PQTSYQR----FFRAYNRRVLPSIALKFFI-GLMLIGIYAPLFASSKPIL
+Dictyoglomus_orf0110     MMRTENFCQKP-T--RR----MF----KKFLRH---K--T-G--LLG------S------
+Rhodopirellula_orf12     M---N-L---PDS--RKNEEAL-----TKLLEE-SRK--IRG--V--------S-----L
+
+
+Bradyrhizobium_orf02     ----G-W----F---K---------RALDSDLFYSFRRSKITMVAAAVTL-LF-------
+Chlamydia_orf00671_r     VRWHGEWYSPLF---RYLLFPGFYTKSI--DLFFN-----VLML----TLPFFILGFRYL
+Dictyoglomus_orf0110     -----------F-------------------LLFS-----------------FI------
+Rhodopirellula_orf12     --WKDAWRR--LSRNR----P-----AM-ASLVF--------LI----SL-----GL--I
+
+
+Bradyrhizobium_orf02     -------FL-------LAIFASL-LS--VQNP----------------------------
+Chlamydia_orf00671_r     SGVWKKLFLGVVTGIHIAVF-SFALSGRVQDPCRDEL---LKQKRAKHLQQELKTTPKTE
+Dictyoglomus_orf0110     -------FL--------AI-----LA-----P----I---I--------------TP---
+Rhodopirellula_orf12     A------FL---T----PM-----LP--LQSP----LDKDLNNRR--FL------SP-S-
+
+
+Bradyrhizobium_orf02     F-------------------------------------D---------------P-----
+Chlamydia_orf00671_r     FLPTIAKRTRTWESERAYMSKYEQLGMLVKAKYRKMQHDHLEKQREAYELCKQSPMPTLR
+Dictyoglomus_orf0110     Y-------------------------------------D---------------P-----
+Rhodopirellula_orf12     FEP-ITMGSR--DG----L-KFAD-GKL-TSQLALFEAE-IAAETAE-ALATQDP-----
+
+
+Bradyrhizobium_orf02     --------AQLQLMNSRIS------P--L---WTADG-----------------------
+Chlamydia_orf00671_r     FLEMKNETASLRFFKNKINKLKASYPEGFEG-W---GTLLEDYRPYLMARARSEYALNMA
+Dictyoglomus_orf0110     Y------TQNL---TERL--L----P----------------------------------
+Rhodopirellula_orf12     ---LK-QAEQFKSIQDRIR-VE--HP--FNQLWNQLGSV--SFK---MVQIR------IA
+
+
+Bradyrhizobium_orf02     --------------------QSPF------------------------------------
+Chlamydia_orf00671_r     IYEQHPQEELRAAFEALEEKEAPFREQLAFVRSLLEEREALNNSITFIMDKRNWIETESE
+Dictyoglomus_orf0110     ----------------------P-------------------SS-------KH-------
+Rhodopirellula_orf12     IF---------GDY-AI-----P--------------------S----------------
+
+
+Bradyrhizobium_orf02     --------LLGT----DEQG-------------------RDVLSAILYGMRISLLVGVLG
+Chlamydia_orf00671_r     QVQMVLNPLLSSFHWEDDAGGSREMNKYVHWWQLTRINRKDLLASLIFGIRIAIVVGGLG
+Dictyoglomus_orf0110     --------LFGT----DYAG-------------------RDIFTRIIYGARISLIIGFIS
+Rhodopirellula_orf12     --------IFGT----DKLG-------------------RDLLARVFWGARVSLVVGLVA
+
+
+Bradyrhizobium_orf02     --V---VFSGAL--GILLGLTAGYFGGAV-DGLIM-RIADV-QL-SFPAILIALLINGIA
+Chlamydia_orf00671_r     --VSIAVF---I--GIIVGLLSGYFGGKV-D-MLLSRVTEIWE--TMPMLFILMLV--VA
+Dictyoglomus_orf0110     --V---FF--ALSFGVFLGLISGYFGG-VWDVVIM-RLIDI-ML-AFPTILLAI---GIV
+Rhodopirellula_orf12     TLVS--LM---I--GVSYGAIAGYFGGWI-DAAMM-RIVDM--LYSIPFIFVVIYL--VT
+
+
+Bradyrhizobium_orf02     ----KSV------FGNKLDEMSMLGVLVF--AIG-LSFWV---QYARTVRGSVMVE--KN
+Chlamydia_orf00671_r     ITQKKSL------I---LDSV-LLG--CF----G----WVSISRY---VR----IETLKQ
+Dictyoglomus_orf0110     -----AV------LGPKLENT-MIAV-------G-I---VSIPTFARVVRASV-LS-IKE
+Rhodopirellula_orf12     FLGEESVKAWLESYG--IDQI-MI----FYIIIGAI-YWLTMS---RVVRGQV-LS-LRQ
+
+
+Bradyrhizobium_orf02     KD--YV-AAAQLIGLPAPV-----IMLRHVLPNTMGPILVIATINLALAIIT-E-ATLSF
+Chlamydia_orf00671_r     RNLGYVLAATNL------CYSHYHIMVHQILPNVIVPVISLLPFSM-MAMISCE-AGLTF
+Dictyoglomus_orf0110     KD--FI-AAAKAVGVST---GK--ILLKHILPNIVAPIIVQATLGIASAIL--EAAGLSF
+Rhodopirellula_orf12     EQ--FV-ESARTIG-ASPM--R--IVFRHLVPNVLGIVIVYLTLTIPAVMLF-E-AFLSF
+
+
+Bradyrhizobium_orf02     LGSGM-PETMP--SLGTLI---RIGNNYL--FAG-E----WWIVAFPGIALAVLILSINL
+Chlamydia_orf00671_r     LGLG--EESSA--SWGNLL---REG---VTAFPS-ESAILW---P-PAIMLTLLLMAIAV
+Dictyoglomus_orf0110     LGLGAKPPT-P--EWGAMLSESR---QYLRSAP-------W-TVVFPGLAIMLLVLAFNL
+Rhodopirellula_orf12     LGLGVAP---PDVSWGLLLND---G---VEALSSVK--LFWWVVIFPGAALATTLFALNF
+
+
+Bradyrhizobium_orf02     LGDWLRDALNPK-LR--
+Chlamydia_orf00671_r     IGDGIQDALDPK-MQD-
+Dictyoglomus_orf0110     FGDALRDVFDPKSYR--
+Rhodopirellula_orf12     LGDGLRDALDPK-MKNR
+
+

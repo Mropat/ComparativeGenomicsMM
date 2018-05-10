@@ -1,0 +1,75 @@
+Kalign (2.0) alignment in ClustalW format
+
+
+Bradyrhizobium_orf16     MANDTL--RVREF------API-ER--QALDHVWIH--S---ARWLDLAERDGLHVIVRG
+Chlamydia_orf00289       MSH--LFSKACQYFPGGVNSPV--RACRAVN---IT--PPIVAR----ASKE---VFV--
+Dictyoglomus_orf0224     MKED----R---FF------PVYKR---------FK--P----------------VFVRG
+Rhodopirellula_orf00     MMNS-VW-R-----------PY----CQ------MKTAPP--S--LKIAATEGCHLI--G
+
+
+Bradyrhizobium_orf16     DGST-LYDAHGRTFLDGL-AGL---Y--LVN-VGHGRKEIGEAMAKQAAD-IAYVSSAD-
+Chlamydia_orf00289       D--S-L-D---KTFID-F-CGS---WGSLIH--GHSHPKICTAI-RQGLE-----RGSS-
+Dictyoglomus_orf0224     EG-VWLFDDQGKKYLD-LTSGI----G--VNALGHSHPEIVKRV-KEQIEKLSHV--SNL
+Rhodopirellula_orf00     Q------N--GERWID----GMASWWSA-CH--GYNHPQVRDAV-TEQLHRMPHV-----
+
+
+Bradyrhizobium_orf16     -YTCLPAVQLG-----E----V---L-AQ-----LTPGDL--N---R--FFFCSGGSEAV
+Chlamydia_orf00289       -Y--------GLTSEQE----I---LFAEEIFSYL--G-LETNYKIR--FM--STGSEAT
+Dictyoglomus_orf0224     FYN-LP--QF------E----L---L--ER----L--ASL-TK---REAFFLCNSGAEAV
+Rhodopirellula_orf00     MFG-------GITH--EPAERLAGRL-AE-----LAPDDL--NHV----FF-SDSGSVAV
+
+
+Bradyrhizobium_orf16     ESAIKIVKQVQAM---R------GFTKRYKII-AR-RG---GYHGATMGAMSITSSRNE-
+Chlamydia_orf00289       MTAVRL-----A----R------GITGR-PII-IKFLG---CYHG-----------HAD-
+Dictyoglomus_orf0224     EAAIKL-----S----RKYFD--G--QKWKIISMN--N---SFHGRTYGALSATG--QK-
+Rhodopirellula_orf00     EVAMKM-----AIGHWRRH-DRPG---R-----TRFLGFDNAYHGDTTGAMSLCDPQRSM
+
+
+Bradyrhizobium_orf16     --RF---FG--P----FMYGVSF--V----P---S-PNRYRN-----DF--------GLE
+Chlamydia_orf00289       --TF---LQEKP----FSH-TSLETLDLAHPLTLSLP--F-N-----DFPLFQTVMNSL-
+Dictyoglomus_orf0224     --KYHEGFG--PLVPGFIY------V----------P--Y-N-----DVSALES---AI-
+Rhodopirellula_orf00     HARY-S--G--AITQQY-H------V--------ALP-R--DGTTEADL---ER---TLA
+
+
+Bradyrhizobium_orf16     GE--AG---D-IACAN-AIEQEILAQGPDTVAAFI-G--EPVSTANNCHVPSKKY-----
+Chlamydia_orf00289       GHKVAGVIFEPV-CANMGV---IL---P--VPGFIEG------------V----------
+Dictyoglomus_orf0224     DE-------E-T-CA---V---IL-E-P--IQG--EGGVNP---AD------KEY-----
+Rhodopirellula_orf00     AH--S----DSI--A--GV---FV-E-P-LVQG--AGG-----------M---RFHDVRT
+
+
+Bradyrhizobium_orf16     WQRVREICDKYGVLLVLDEVINGF----GRTGT--MF-ATEQ---FG--IVPDLMTMAKG
+Chlamydia_orf00289       ---IQT-CQQTGSFSIMDEVVTGFRVAQG--GAAALY-H----------VKPDILVF--G
+Dictyoglomus_orf0224     LKRVREITKELGILLIFDEIQTGI----GRTG---YFLAEEY---YE--VEADIILLAKA
+Rhodopirellula_orf00     LRRIRDACKRHDVLLIADEIATGF----QRTGK--MF-AVDHTADLQSPVVPDILCL--G
+
+
+Bradyrhizobium_orf16     --LSSGYAPIG-AVAVS--D--QIYDEF--KKQDTALAHL------LTF--G---GQAVA
+Chlamydia_orf00289       KILGGGL-PAS-AV-VTPKD---IMD------------HLAPEGK-I-FQAGTLSGNPLA
+Dictyoglomus_orf0224     --LGGGL-PLG-AV-CTSKDIAQVMG------PGS---H----GTTM----G---GNLVV
+Rhodopirellula_orf00     KALTAG--TMSMAVTIA-RS--HVFDSFYSDDPGAALMH----GP--TF----M-ANPLA
+
+
+Bradyrhizobium_orf16     CAAA-----------------LKNIE-I-LQREELPQRSASNGAYLLQKLQSL-RAH---
+Chlamydia_orf00289       MIAG------------------K-VS-VNLCREQ--------GFY--TQLATI-EQNFLS
+Dictyoglomus_orf0224     CAAGTAVLDIV-GN----EKFLR--E-V---REK--------GRFLEEKLKDLLE---L-
+Rhodopirellula_orf00     CSAANASLDLFQGHSYEVE---K-IETI-L-RERL---SV---------LRNI-D-N---
+
+
+Bradyrhizobium_orf16     PTVGD--VR--GLGLMCVAELVSDKATKEPFGPIAAAHPFS------R-------RVSEL
+Chlamydia_orf00289       P-I-EHMIRTTGIP---VT-LV-----R--YGSL-----FSFFFNPNRPNNLADAQLSDI
+Dictyoglomus_orf0224     PIVKE--IR--GRG------LM--------WG-I----------------ELKDIKVREL
+Rhodopirellula_orf00     --VAD--VR-------C-------------FGAIGVVQ-FR---DP--P-NM---QM--V
+
+
+Bradyrhizobium_orf16     ME---QKGLLSRVFA-S---VHFCP-P-----LVATR--EEI----D--RMVAI--VDES
+Chlamydia_orf00289       -EAF-QK-FYQSAFSKG---VYLSPSPFEASFLSAAHSMESL----DYAQ-TAL--I-ES
+Dictyoglomus_orf0224     QEELIEEGVL--VLSAGENVLRLLP-P-----LIVTK--EEL----E--K--GIETIKEA
+Rhodopirellula_orf00     QDELVRRGVWLRPF--G-DCLYTTP-P-----LCINE--DALHQICD-----AM--I-EA
+
+
+Bradyrhizobium_orf16     ----LTIAEKEHGFS---------
+Chlamydia_orf00289       ----L-----EQVFS---LV----
+Dictyoglomus_orf0224     ----L----QKR-------C----
+Rhodopirellula_orf00     THATM-----PR--SSSPMCNQLR
+
+

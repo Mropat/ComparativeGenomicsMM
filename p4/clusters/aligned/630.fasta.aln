@@ -1,0 +1,45 @@
+Kalign (2.0) alignment in ClustalW format
+
+
+Bradyrhizobium_orf05     LADEF----------------------ILETEGLTKEFAGFFAVR-----DVALKVRRGS
+Chlamydia_orf00923_r     MS-------------------------VLSVCNLIKKY-N----KKPVTNDVSFQVNAGE
+Dictyoglomus_orf0118     MK-------------------------ILEVKNLSCAFGGLMA-----VSDLSFELHKNE
+Rhodopirellula_orf02     MSDEFKPTSFPTESAMGHGVMPQSSEPVLEAVGLQKTY-G----RRRVVDGVNLHV--GE
+
+
+Bradyrhizobium_orf05     --IHALIGPNGAGKTTCF-NLLTKF-LKPSAGKILYKGQDITAMAPADV---ARLG-LVR
+Chlamydia_orf00923_r     --IVGLLGPNGAGKTTAFYQTV-GL-IRPDSGKILFKNTDITKK-PMDY-R-ARLG-I--
+Dictyoglomus_orf0118     --ILGIIGPNGAGKTTVF-NLITGFYL-PLKGEIIFNGKNIVGLKP--Y-QITRLG-IAR
+Rhodopirellula_orf02     AEIVGLLGPNGAGKSTSF-RMICGL-VQPDQGRVYLGGQDVTDW-PM-FRR-ARDGQM--
+
+
+Bradyrhizobium_orf05     SFQIS---AVFPHLTALENVRVALQRQHGSS-FD-F----WRSKSVLNRF-------NDR
+Chlamydia_orf00923_r     GY-LAQEPTIFKELTVKENL-ICV--------LE-II---YKTR-------------KEQ
+Dictyoglomus_orf0118     TF---QNPRLFKKLSVMENVMIAMHKVYNAHMLDAIL----QNK----RYSVEESLQKER
+Rhodopirellula_orf02     GY-LPQEPSVFKKLTVEQNI-SAL--------FE-LLGVDRKQR-------------KQR
+
+
+Bradyrhizobium_orf05     A---RELLNDV--------------G-LSEF--ANTPAVEMPYG--RKRALEIA-TTLAL
+Chlamydia_orf00923_r     THLLNALIDDLQLTTSLH-KK---AGSLS--------------GGERRR-LEIA-CVLAL
+Dictyoglomus_orf0118     A---EEIL-EF-F------------G-L--YRRKNDTAENLPYG-EQRK-LEIARA-LAT
+Rhodopirellula_orf02     T---NELLEEFNIT---HIRKSRAAG-LS--------------GGERRR-LEIARCLVS-
+
+
+Bradyrhizobium_orf05     DPEMMLLDEPMAGMGHED---I-DKIAALIK-----R----ISAKYTILMVEHNLSVVAN
+Chlamydia_orf00923_r     NPSVLLLDEPFANV---DPLVI-QNVKYLIKILAS-R---GIS----ILITDHN----AK
+Dictyoglomus_orf0118     NPTLLLLDEPAAGM---N---LNESLE-LVDLIATIRDKFDLT----VLLIEHHM-----
+Rhodopirellula_orf02     NPRIVMLDEPFAGI---DPVTV-QSIQGVIQQL---RDS-GIS----VLITDHA----AR
+
+
+Bradyrhizobium_orf05     LSDI-ITVLTR-------G-QVLAQGHYSELTKDERVKEAYLG-----AG------HA--
+Chlamydia_orf00923_r     --EL-LSIADRCYLIID-G-KIFFEGSSAQMIANPMVRQHYLGD----------------
+Dictyoglomus_orf0118     --EVVMNICKR-IIVLDFGMKI-AEGNPEKVRNDPRVIEAYLGK-EV-KG--V--IH---
+Rhodopirellula_orf02     --EI-LTTVDRCYVIYQ-G-QVLIDGTPDEVKRHPKVREEYLGDLDAAAGTSVDSVHAAS
+
+
+Bradyrhizobium_orf05     ---------------------------------------
+Chlamydia_orf00923_r     ------SFS------------------------------
+Dictyoglomus_orf0118     ---------------------------------------
+Rhodopirellula_orf02     NAPAENQFRVDPAHPQPPPASPATATPRRQVPRRRVTDV
+
+

@@ -1,0 +1,39 @@
+Kalign (2.0) alignment in ClustalW format
+
+
+Bradyrhizobium_orf10     --MSKKSRKKS--SKTP-SGIATAEKKTPTKRATTQTKSAKTQRTPASKSTRTVAKAGSH
+Chlamydia_orf00840_r     ------------------------------------------------------------
+Dictyoglomus_orf0053     ------------------------------------------------------------
+Rhodopirellula_orf05     VFLS------CFPASDPIAGLG---------------RSA-----PA----------GDN
+
+
+Bradyrhizobium_orf10     KAASKQLNSSKSAPAPAKAK-----PA-----LAE----GQKAPAFRLPRD-G-----GD
+Chlamydia_orf00840_r     --------------------------------MGSLI--GRQAPDFS-----GKAVVCGE
+Dictyoglomus_orf0053     --------------------------------MS------KKAPDFTLP-DQN-----GK
+Rhodopirellula_orf05     ------LADRKQCPVPS-ASFQSICPQMGRFIMADFIEPGKKAPAFTL-KDQD-----GQ
+
+
+Bradyrhizobium_orf10     V--VSLADYAGRKLVLFFYPRADT-PGCTREAIDFT-RLADAFS---AAGTALLGISADP
+Chlamydia_orf00840_r     EKEISLADFRGKYVVLFFYPKDFTYV-CPTELHAFQDRLVD-FE---ERGAVVLGCSVDD
+Dictyoglomus_orf0053     E--VSLSDYKGKWVVLYFYPKDMT-SGCTKEAVSFSEKI-DEFK---KRNSVVIGISKDT
+Rhodopirellula_orf05     T--VKLKDLAGAPVVLFFYPKDNT-PGCTKEACAF--R--DRYAELQSAGAQLFGISTDS
+
+
+Bradyrhizobium_orf10     LRAQE--KF----RD-------KHNLGMPLISDEKHEMLEAYGAWGEKSMYG-KSFLGVL
+Chlamydia_orf00840_r     --IETHSRWLAVARNAGGIEGTEY----PLLADPSFKISEAFGVLNPE---G--S-LA-L
+Dictyoglomus_orf0053     --VESHKKF----AE-------KYNLEIILLSDKDAKVIKEYGAWGKKRMYGKET-EGTL
+Rhodopirellula_orf05     --AESHIQF----RD-------KFELPFPLLVDENHAMSEKYGAYREKNLYGKKS-MGIQ
+
+
+Bradyrhizobium_orf10     RATILLGADGKVARVWRNVRV-D---GH--ADE--VL---EA-ARSL-------------
+Chlamydia_orf00840_r     RATFLIDKHG-VVR--HAV-INDLPLGRSIDEELRIL---DS----LIFFENHGMVCPAN
+Dictyoglomus_orf0053     RNTFIISPEGEILHEWKNVKL-D---GH--VEE--VLKKLDE----LI--------SAS-
+Rhodopirellula_orf05     RSTYLIDAAGKVVKVWKRVRV-D---GH--DQQ--VL---DALA--LL--------AEQN
+
+
+Bradyrhizobium_orf10     -----------------------
+Chlamydia_orf00840_r     WRSGERGMVPSEEGLKEYFQTMD
+Dictyoglomus_orf0053     -----------------------
+Rhodopirellula_orf05     -----------------------
+
+

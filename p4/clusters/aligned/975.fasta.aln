@@ -1,0 +1,39 @@
+Kalign (2.0) alignment in ClustalW format
+
+
+Bradyrhizobium_orf12     MP--VPTIYYLRHGETEWN--A--L--GRLQGTKDVPLNARG-RGQA--VQAG-GV--LA
+Chlamydia_orf01019_r     MT--L--LILLRHGQSAWN--QKNLFTGWV----DIPLSQQGIQ-EA--IAAGESIKHLP
+Dictyoglomus_orf0201     MG----EIYLIRHGETDWNREAK--FQGR---T-DIPLNSKG-KSQA-------EL--LS
+Rhodopirellula_orf10     MSDQFPQIYLARHGETPWT-----I-TGQHTGSTDMPLTPKG-ERNATQLQ-G----RL-
+
+
+Bradyrhizobium_orf12     -D-LFK----RD-----------GKDKATLPY--V---SSP-LGR--ARQTMELARGKLE
+Chlamydia_orf01019_r     IDCIFTSTLVRSLMTALLAMTNHSSQK--VPY--IVHEERPDMSRIHSQKEME----QM-
+Dictyoglomus_orf0201     -D--Y---L--------------AKEK--FDY--I-Y-SSP-LKR-----AIETA-----
+Rhodopirellula_orf10     -E---------------------G-----IRFNEV-W-TSP-LQR--AKRTCELA-G---
+
+
+Bradyrhizobium_orf12     LPPADY---ALD-D---R---LREIGYGSW-----EGLTLAESE-AADPDVYA-R---R-
+Chlamydia_orf01019_r     IPL--FQSSALN-E---R---M----YGEL-----QGKN--KQEVAAQ---FG-EEQVK-
+Dictyoglomus_orf0201     IPL----SKKLNKEILIRENWI-EFDFGEW-----EGLTV--REVHEK---YPIE---RE
+Rhodopirellula_orf10     -----Y-G-----E---RARVVTEL--AEWDCGAHEGLT--RNEIHQK---HP-D-----
+
+
+Bradyrhizobium_orf12     LADKWT---------VG-PADGET-YADV-QVRVRAWYD----E-----LRT-DT--VAV
+Chlamydia_orf01019_r     L---WRRSY-----RIA-PPQGESLF-DTGQ-RTLPYFQ----ERIFPLLQQGKN--IFI
+Dictyoglomus_orf0201     L---W--LYHTEKGKI--P-KGES-FEDA--------YKRLSIEKEY-ILENHKNHKIVI
+Rhodopirellula_orf10     ----WN-LF-RD----GCP-NGES-LTDV-ATRV----DRV-IQR----IRQ-RNNTCLL
+
+
+Bradyrhizobium_orf12     -AHGGTCR-AL--MVS---------L-----G-LETPASAAELY-IEQG----A--V---
+Chlamydia_orf01019_r     SAHGNSLR-SL--IMDLEKLSEEQVL-----S-LELPT----------G----QPIV---
+Dictyoglomus_orf0201     FTHGAIIRAALYVFLDLYHIG----F-----GKITISSCSITHFKIKDD----K-FILLR
+Rhodopirellula_orf10     FAH----K----HFLQV--------FAACWVG-LP-PETGQRLF-L--GTAALS-IV---
+
+
+Bradyrhizobium_orf12     --Y----------VFRDGRLEKFS--------
+Chlamydia_orf01019_r     --Y----------EW-TG--QKFTKHAPSLG-
+Dictyoglomus_orf0201     LNY----------LYPH---ELFS-Y---L--
+Rhodopirellula_orf10     -GYHHDQSDSVIRLW-N---DR-S-Y---LTD
+
+

@@ -1,0 +1,75 @@
+Kalign (2.0) alignment in ClustalW format
+
+
+Bradyrhizobium_orf15     MADEITRARELAPIERQALDHVWIHSARWLDLAEGEGLH--------V----------I-
+Chlamydia_orf00289       ------------------MSHLFSKACQYF---PG-GVNSPVRACRAVNIT--PP---I-
+Dictyoglomus_orf0224     M-------KE---------D-------RFF---P---VY---K--R---FK--P----VF
+Rhodopirellula_orf00     M-----------------MNSVW----R-----P----Y-----CQ---MKTAPPSLKI-
+
+
+Bradyrhizobium_orf15     V-RG--EGSTLY-DAHGRTFLDGL-AGL---F--LVN-VGH-----------G-RREIGE
+Chlamydia_orf00289       VARASKE---VFVDSLDKTFID-F-CGS---WGSLIH--GHSHPKICTAIRQGLER--GS
+Dictyoglomus_orf0224     V-RG--EGVWLF-DDQGKKYLD-LTSGI----G--VNALGHSHPEI---V----KR-VKE
+Rhodopirellula_orf00     --AAT-EGCHLI-GQNGERWID----GMASWWSA-CH--GYNHPQV---------R---D
+
+
+Bradyrhizobium_orf15     AMG---KQ----AAEIAYVSAASYTSLPAVQL-GEILAQLTPGDLN---R--FFFCSGGS
+Chlamydia_orf00289       SYGLTSEQEILFAEEI-F----SY-------L-G-----L---ETNYKIR--FM--STGS
+Dictyoglomus_orf0224     QI----EK-LSHVSNL-F-----Y-NLPQFEL----LERLA--SLT-K-REAFFLCNSGA
+Rhodopirellula_orf00     AV--T-EQ-LHRMPHVMF-GGITH-E-PAERLAGR-LAELAPDDLN---H-VFF-SDSGS
+
+
+Bradyrhizobium_orf15     EAVESAIKIVKQ-VQVMRG------YPKRYKII-AR-RG---GYHG-A-TMGAMSITSSR
+Chlamydia_orf00289       EATMTAVRLARG-IT---G------RP----II-IKFLG---CYHGHADTF----L----
+Dictyoglomus_orf0224     EAVEAAIKLSRKYFD---G------Q--KWKIISMN--N---SFHGR--TYGA--LSATG
+Rhodopirellula_orf00     VAVEVAMKMA---I----GHWRRHDRPGR-----TRFLGFDNAYHG--DTTGAMSLCDP-
+
+
+Bradyrhizobium_orf15     DE----KY---FGP----FMYGVSF----VSSP---N-SYRN-----DF--------GLE
+Chlamydia_orf00289       QE----K------P----FSH-TSLETLDLAHPLTLSLPF-N-----DFPLFQTVMNSL-
+Dictyoglomus_orf0224     QK----KYHEGFGPLVPGFIY--------V--P------Y-N-----DVSALES---AI-
+Rhodopirellula_orf00     QRSMHARY-S--GAITQQY-H-VAL-------P-------RDGTTEADL---ER---TLA
+
+
+Bradyrhizobium_orf15     GE--AG---DLACAN-AIEQEILAQGPETVAAFI-G--EPISTANNAHVPSKKYWQRVRE
+Chlamydia_orf00289       GHKVAGVIFEPVCANMGV---IL---P--VPGFIEG------------V--------IQT
+Dictyoglomus_orf0224     DE-------E-TCA---V---IL-E-P--IQG--EGGVNP---AD------KEYLKRVRE
+Rhodopirellula_orf00     AH--S----D-SIA--GV---FV-E-P-LVQG--AGG---MRFHD---V--RT-LRRIRD
+
+
+Bradyrhizobium_orf15     ICDKYGVLLILDEVINGF----GRTGT--MF-ATEQ---FG--VVPDLMTMAKG--LSSG
+Chlamydia_orf00289       -CQQTGSFSIMDEVVTGFRVAQG--GAAALY-H----------VKPDILVF--GKILGGG
+Dictyoglomus_orf0224     ITKELGILLIFDEIQTGI----GRTG---YFLAEEY---YE--VEADIILLAKA--LGGG
+Rhodopirellula_orf00     ACKRHDVLLIADEIATGF----QRTGK--MF-AVDHTADLQSPVVPDILCL--GKALTAG
+
+
+Bradyrhizobium_orf15     YAPIG-AVAVS--DRI---YDEF--KKQDTALCHL------LTF--G---GQAVSCAA--
+Chlamydia_orf00289       L-PAS-AV-VTPKD-I---MD------------HLAPEGK-I-FQAGTLSGNPL------
+Dictyoglomus_orf0224     L-PLG-AV-CTSKD-IAQVMG------PGS---H----GTTM----G---GNLVVCAAGT
+Rhodopirellula_orf00     --TMSMAVTIA-RSHV---FDSFYSDDPGAALMH----GP--TF----M-ANPLACSAAN
+
+
+Bradyrhizobium_orf15     AL---KNIEI-LQRE---------EL-SLRSASNGTYM--LEKM-----QGLRSHP-TVG
+Chlamydia_orf00289       AMIAGK-VSVNLCREQGF----YTQLATIEQ--N--FLSPIEHM--IRTTGI---PVTL-
+Dictyoglomus_orf0224     AV-----LDI-VGNEK-F-------LREVRE--KGRFLE--EKL-----KDLLELP-IVK
+Rhodopirellula_orf00     A--S---LDL-------FQGHSY-EVEKIET-----ILR--ERLSVL--RNI-D---NVA
+
+
+Bradyrhizobium_orf15     DVR--G-LGLMC-----------VAE--LVSN-KA-TKEPFPLPWKHPFIRRVSQLMAQR
+Chlamydia_orf00289       -VR-YG--SLFSFFF-NPNRPNNLADAQL-SDIEAFQK--F---YQSAF---------SK
+Dictyoglomus_orf0224     EIR--G-RGLM---W-G------I-E--L-KDIKV--RE-L----QEELI--------EE
+Rhodopirellula_orf00     DVRCFGAIGVVQ--FRDP--PN-M-Q--MVQD-ELVRRG-V---WLRPF-----------
+
+
+Bradyrhizobium_orf15     GLLSRVI-----VSVHLCP-P-----LVATRG-E-ID--RMVAI--VDESLTIAE-----
+Chlamydia_orf00289       G-------------VYLSPSPFEASFLSAAHSMESLDYAQ-TAL--I-ESL---E-----
+Dictyoglomus_orf0224     GVL--VLSAGENV-LRLLP-P-----LIVTKE-E-LE--K--GIETIKEAL---Q-----
+Rhodopirellula_orf00     G---------D-C-LYTTP-P-----LCIN---E--D-----ALHQICDAM-I-EATHAT
+
+
+Bradyrhizobium_orf15     --KE----YG-FT
+Chlamydia_orf00289       --QV----FS-LV
+Dictyoglomus_orf0224     --KR----C----
+Rhodopirellula_orf00     MPRSSSPMCNQLR
+
+

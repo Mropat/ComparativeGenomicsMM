@@ -1,0 +1,45 @@
+Kalign (2.0) alignment in ClustalW format
+
+
+Bradyrhizobium_orf09     M-----D-MDLG-------LKGAKV-LVTGSTKGIGRAIADT-FAAEGADV---GICARN
+Chlamydia_orf00326_r     M-----SGL----------LVN-KTAIVTGGSRGIGFSIAKL-FAEQGANVQIWGI---N
+Dictyoglomus_orf0119     --------M----------LKD-RVALVTGGSRGIGRAIV-LSFAKEGAKV-L--I---N
+Rhodopirellula_orf06     MSAESSDSI--SPSDSPRPLKG-KRALISGASRGIGRGIA-LEMAQAGASV---TI---N
+
+
+Bradyrhizobium_orf09     --------QADVDSAVAAIKAKG----VAAF--GGSVDVS-NG--PA---------LKAW
+Chlamydia_orf00326_r     --G--EAGQAAAQT-LSE--QTGRQ--VS-F---ALVDVSKNDMVSAQVQ---NF-LSEY
+Dictyoglomus_orf0119     YKGN-E--KAAMET-LEEVKKIGGEGEV--F--KA--DVS----IEEEVDKMFNFVLEKW
+Rhodopirellula_orf06     YHSNPE--EA--ESVVKECEALG----VAAFAIGA--DIS--D--ADQVR---GM-VS--
+
+
+Bradyrhizobium_orf09     VEDMASKLGGIDVVVANVSALSIG--QD-------E-ESWEKEFSTDMMGTVRLVN----
+Chlamydia_orf00326_r     --------NTIDVIVNN--A---GITRDALLMRMSE-EEWSSVINTNL-GS--IYNVC--
+Dictyoglomus_orf0119     --------GRLDILVNN--A---GITRDNLLIRMKS-EEWDQVINTNLKGV--FY--CTR
+Rhodopirellula_orf06     --DACEQMGGLDIVVSN-AAYS---DRH-LMLE-SDMDEFRRTIDVSMWGA--FH-----
+
+
+Bradyrhizobium_orf09     AAM---PYLEKSKAAA--IVTISSVSG-REVDFASG-PYG--T---F---KA-----AII
+Chlamydia_orf00326_r     SAV-IRPMI-KARSGA--IINISSIVGLR------GSP-GQTN---YAAAKA-----GII
+Dictyoglomus_orf0119     SAVKI--ML-KQRYGR--IINISSVIGLR------GNI-GQAN---YAAAKA-----GII
+Rhodopirellula_orf06     -------LV---RSGAQKMVD-----G--------GN--G-GNIVVISSPHAHMPMPGAM
+
+
+Bradyrhizobium_orf09     HY--TQG----LAF----QLASKGIRANSVSPGNTYFE--GGVWNQ-IKDGNPE-LYKTA
+Chlamydia_orf00326_r     GF--SKA----LSK----EVGSKNIRVNCIAPG--FID--TDM-TKSLND---N-LKNEW
+Dictyoglomus_orf0119     GF--TKA----VAK----EVASRGITVNAVAPG--FIL--TDM-TEVLSE---E-MKKKA
+Rhodopirellula_orf06     AYNMAKAANDQMARTAAVELASKRIRVNLIHPG--WIDTPGE--RKFFKE---ETLRSE-
+
+
+Bradyrhizobium_orf09     L-A--LNPTGRMGTPQEMANGAV-FLA---SK--AASFITGTNLVVDGALTRGVQF----
+Chlamydia_orf00326_r     LKG--V-PLGRVGMPEEIAKAAL-FLA---SD--GSSYITGQVLSVDG----GMA-----
+Dictyoglomus_orf0119     LEE--I-PMGRFGDPKDVA-SAVKFLA---SDEAG--YITGVVLSIDG----GLSI----
+Rhodopirellula_orf06     --GAKL-PWGRLGQIREIGRGAV-FLCDPRSE-----YITGSTLTIDG----GIQLPWRE
+
+
+Bradyrhizobium_orf09     --------------
+Chlamydia_orf00326_r     --------------
+Dictyoglomus_orf0119     --------------
+Rhodopirellula_orf06     MYRVEEARRETAAT
+
+

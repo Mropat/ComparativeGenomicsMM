@@ -1,0 +1,39 @@
+Kalign (2.0) alignment in ClustalW format
+
+
+Bradyrhizobium_orf03     --------VSAPAPARSFCGLRHGATDWNRQGLFQGRTDNPLNADGLAQAHEAADMLRG-
+Chlamydia_orf01019_r     MT----LLI--------L--LRHGQSAWNQKNLFTGWVDIPLSQQGI---QEA--IAAG-
+Dictyoglomus_orf0201     MG----E-I-------YL--IRHGETDWNREAKFQGRTDIPLNSKG--K-SQA-ELLSDY
+Rhodopirellula_orf10     MSDQFPQ-I-------YL--ARHGETPWTITGQHTGSTDMPLTPKG--E-RNATQL-QGR
+
+
+Bradyrhizobium_orf03     ---TGISR--IVASP--------LVRAARTAEIIANAIS------VP---------LS--
+Chlamydia_orf01019_r     ---ESIKH--L---PIDCIFTSTLVRSLMTA-LLA--MTNHSSQKVPYIVHEERPDMSR-
+Dictyoglomus_orf0201     LAKEKFDY--IYSSP--------LKRAIETA--------------IP---------LSKK
+Rhodopirellula_orf10     L--EGIRFNEVWTSP--------LQRAKRTCEL-AG--------------YGER---AR-
+
+
+Bradyrhizobium_orf03     I----D----DGIIE-FD--------FGSFEGLPVR-DLMIKHG---VNSAT-G-----L
+Chlamydia_orf01019_r     IHSQKEM---EQMIPLFQSSALNERMYGELQG---K-N---KQE---V-AAQFGEEQVKL
+Dictyoglomus_orf0201     L--NKEILIRENWIE-FD--------FGEWEGLTVR-EV---HEKYPI-------ER-EL
+Rhodopirellula_orf10     V-------VTE-LAE-WD--------CGAHEGLT-RNEI---HQKHP--------D----
+
+
+Bradyrhizobium_orf03     -----------VSILPADGEN-W-DAMT-E--R-SLACVSAWL-DRHPDDD-F-LFVCHD
+Chlamydia_orf01019_r     WRRSY-----RIA--PPQGESLF-D--TGQ--R-TL----PYFQER--------IF----
+Dictyoglomus_orf0201     W--LYHTEKGKI---P-KGES-FEDAY--K--RLSIE--KEYILENHKNHK-IVIF-THG
+Rhodopirellula_orf10     WN-LF--RDG----CP-NGES-LTDVAT-RVDR-VIQ--R--I--RQRNNTCL-LF-AHK
+
+
+Bradyrhizobium_orf03     AVMQ-------------GMANSLCGSY-FKNS-H---G---------TPFRYL-----R-
+Chlamydia_orf01019_r     PLLQ------------QG--KNI-----FISA-H---G---------NSLRSLIMDLEKL
+Dictyoglomus_orf0201     AIIR----------------AAL---YVFLDLYHIGFGKITISSCSITHFK-I-KD-DKF
+Rhodopirellula_orf10     HFLQVFAACWVGLPPETG--QRL-----FL-------G--T-AALSIVGYH---HD--Q-
+
+
+Bradyrhizobium_orf03     --------E---GK----QWRVEQLVT--------
+Chlamydia_orf01019_r     SEEQVLSLELPTGQPIVYEWTGQKF-TKHAPSLG-
+Dictyoglomus_orf0201     ----IL-LRLN------YLYPHELF-S-Y---L--
+Rhodopirellula_orf10     -SDSVI--RL---------WN-DR--S-Y---LTD
+
+

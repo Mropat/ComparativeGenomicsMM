@@ -1,0 +1,75 @@
+Kalign (2.0) alignment in ClustalW format
+
+
+Bradyrhizobium_orf03     ------------------------------------------------------------
+Chlamydia_orf00857_r     MRMDTLDSQAAEAAQEEEIQRKLEELVT-LAKDQGFITYEEI--NEILPPSFDTPEQIDQ
+Dictyoglomus_orf0166     -----------------------------MPK-------KKI--QKV------TPEEV--
+Rhodopirellula_orf11     --L-PLN------ATEHVLDR--DEIVAVMHR---LV----ICRNHL--P-F--PT----
+
+
+Bradyrhizobium_orf03     ------------------------------------------------------------
+Chlamydia_orf00857_r     VLIFLAGMDVQVLNQADVERQKERKKEAKELEGLAKRSEGTPDDPVRMYLKEMGTVPLLT
+Dictyoglomus_orf0166     ----LA-----------------------EF-------------P---Y-------P---
+Rhodopirellula_orf11     ---------------------------------------GSP--PMT-F-----------
+
+
+Bradyrhizobium_orf03     ----LE-----------------GF-------------IMA-----------------RT
+Chlamydia_orf00857_r     REEEVEISKRIEKAQVQIERIILRFRYSTKEAVSIAQYLINGKERFDKIVSEKEV-EDKT
+Dictyoglomus_orf0166     -EESIE----------EVE----EF-LESHE-------LVDNEDLY---V---DVKEDK-
+Rhodopirellula_orf11     -SESLE----------Q-D----EL---T---------LLK-KSR--R----------KT
+
+
+Bradyrhizobium_orf03     ---AALP----VLNGESG---------------------LS------R-----YLA----
+Chlamydia_orf00857_r     HFLNLLPKLISLLKEEDAYLEERLLALKDPALSKPDQARLNDELEKCRIRTQAYLRCFHC
+Dictyoglomus_orf0166     -----LPE--SV--EEE--VE-----I-------PEEIELDDPV---KM----YLK----
+Rhodopirellula_orf11     ------PT-----RRSEA------------AQS-P----LE---------T--YLR----
+
+
+Bradyrhizobium_orf03     ------EIRK--F----PMLEPQQEYM--L----------------AKR-W--R------
+Chlamydia_orf00857_r     RHNVTEDFGEVVFKAYDSFLQLEQQ-INDLKARAERNKFAAAKLAAARRKLHKREVAAGR
+Dictyoglomus_orf0166     ------EIGKI------PLLTPEEE-I-EL----------------AKR------VEQG-
+Rhodopirellula_orf11     ------EINET------PLLSAEEE-L-EL----------------AAR------IAQG-
+
+
+Bradyrhizobium_orf03     --EH---D--------D--RDAAHQLVTSHLRLVAKIAMGYRGYGLPISEVVSEGNVGLM
+Chlamydia_orf00857_r     TLEEFKKDVRMLQRWMDKSQEAKKEMVESNLRLVISIAKKYTNRGLSFLDLIQEGNMGLM
+Dictyoglomus_orf0166     ----------------D--EDAKKRLIEANLRLVVSVAKRYIGRGLSFLDLIQEGNLGLI
+Rhodopirellula_orf11     -------DV-M----------ARDQMVRANLRLVVNISRGYTGKGLGLQDLIEEGNLGLL
+
+
+Bradyrhizobium_orf03     QAVKRFEP--EKGFRLATYAMWWIKASIQEYIL---RSWSLVKMGTTANQKKLF--FN--
+Chlamydia_orf00857_r     KAVEKFE--YRRGYKFSTYATWWIRQAVTRAIADQART---IRI--PVH---MIETINKV
+Dictyoglomus_orf0166     KAVEKFD--WRKGYKFSTYATWWIRQAITRAIADQART---IRI--PVH---MVETMNKI
+Rhodopirellula_orf11     RAVEGFDPIH--GTRFSTYASYWIKQSIKRALINSAKT---IRI--PAY---MVELLSK-
+
+
+Bradyrhizobium_orf03     --LRKAKSKINALDE--GDLR-P--DQV-K--------------------------I---
+Chlamydia_orf00857_r     --LRGAK-KL--MMET-G--KEPTPEEL-------------------GE-----------
+Dictyoglomus_orf0166     HKI---T-RL--LTQSLG--RKPTEEDIAKFLVIQQKLQEFEVYQESGEKISDDEIVEIS
+Rhodopirellula_orf11     --WRRATARL---NEELG--RTPTNEEVAR--------------------------V---
+
+
+Bradyrhizobium_orf03     ------IAKR---L-----G---VTDQDV--------------I----D-MNRR----LG
+Chlamydia_orf00857_r     ------------EL-----G---FT----------------------PDRV-RE-IYKIA
+Dictyoglomus_orf0166     MLSLDEIAKKLVELHLKTKGKKELTKEKINEEAKELRHVLEEEIKQQTEKV-RE-ISMMG
+Rhodopirellula_orf11     -------------L-----G---LPKKKL-------------PI------I-RKAI-KIN
+
+
+Bradyrhizobium_orf03     GD-A-SLNAPIRDDGEAGEWQ--DWLVDN----TPNQE-AMLAEHEEYDERRDALNGAMG
+Chlamydia_orf00857_r     QH-PISLQAEVGDGGES---SFGD-FLEDTAVESPA-E-AT-----GYSMLKDKMKEVLK
+Dictyoglomus_orf0166     QE-PLSLEMPVGEDEDN---RLAD-FVENKDL-SPA-DIAV-----QKSLKKD-IEELLN
+Rhodopirellula_orf11     NSTP---Q---SDQTEAG-WSLGD-MVQDERLKAPD-E-EML----DHDILKHAM-SLLG
+
+
+Bradyrhizobium_orf03     VLNPRERRIFEARRLA--D--EPMTLEDLAAEFSVSRERVRQIEVRAFEKV----QAAVK
+Chlamydia_orf00857_r     TLTDRERFVL-IHRFGLLDG-RPKTLEEVGSAFNVTRERIRQIEAKALRKM----RHPIR
+Dictyoglomus_orf0166     ELSEREREILKL-RFGLEDN-QPRTLEEVGKLFNVTRERIRQIEAKALRRL----RHPSR
+Rhodopirellula_orf11     DLEERESTVLKL-RFGL-GGVEPMTLKEIGAELGLTRERVRQIETEALRRLADGLTDP-R
+
+
+Bradyrhizobium_orf03     G-TIARA-----EQAALEAAH------
+Chlamydia_orf00857_r     SKQL-RAFLDLLEEEKIGSGKIKSYKN
+Dictyoglomus_orf0166     SKKI-KDY---LED-------------
+Rhodopirellula_orf11     E----RGY-------------------
+
+

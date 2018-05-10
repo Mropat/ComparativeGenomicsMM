@@ -1,0 +1,51 @@
+Kalign (2.0) alignment in ClustalW format
+
+
+Bradyrhizobium_orf08     -----------LN------------R---------------LL--RE--HGFAATLFDSA
+Chlamydia_orf00654       ---------MSIE------------H---------------ILIIDDDPH-----IL---
+Dictyoglomus_orf0071     MIKNKRYPLL-LK------------RKFFSYFFCSIIFNMKILIIEDEKK-----L----
+Rhodopirellula_orf07     -----------MNTPAQSDSSTSTAK---------------ILVVDDDAE-----IIE--
+
+
+Bradyrhizobium_orf08     G-AL---L-HH--G-----S--FD--------KA--I-----C--------IVL-DIDL-
+Chlamydia_orf00654       --AL---L-SEILG-----ARNFSVSSAPGVKQA--IKQISNC--PF---DLIISDMNMP
+Dictyoglomus_orf0071     GTALKKGLEKE--GYVVDLA--FD-----G-EEAKYI--IENN---FEGYDLVILDIMLP
+Rhodopirellula_orf07     --SVSYALESN--GYKVVVAR--D-----G-NQA--L-ALAECEKP----QLMILDMMMP
+
+
+Bradyrhizobium_orf08     --NGRSGI----DL-------RR---Q-----L------------------AEE----G-
+Chlamydia_orf00654       --DG-SGL----DIIQYTKQHRP---Q--TPILVITA--------FGTIQNAVEAMRFGA
+Dictyoglomus_orf0071     KIDG---ISLCKDL-------RAKNFQ--APILMLTAKDKVEDKILG-L----ES---GA
+Rhodopirellula_orf07     KRSG---F-LV--L---EKM-RREN-ELPVPVIMIT----------G---N--E----GS
+
+
+Bradyrhizobium_orf08     ---VTAP---------V-------------I--YIT--GN----------DSS-------
+Chlamydia_orf00654       FNYLTKPFSPEALFTLIAKAEELQALQQDNL--FLQSQGSSISHP--LIAESPS---MKQ
+Dictyoglomus_orf0071     DDYLVKPFS----Y------EEL--LAR--IRALLR-------RPKNLM---PTVLKVKD
+Rhodopirellula_orf07     -RH-------QA-Y------AEL-------L-----------------------------
+
+
+Bradyrhizobium_orf08     ------ANRAA---A---V--ASGC----I-AYLV--------KPF-----TA--QSLIE
+Chlamydia_orf00654       L-LDK-ARRAANSSANIFVHGESGCGKENL-SFFIHKHSPRSTKPYIKVNCAAIPDTLLE
+Dictyoglomus_orf0071     ISLDTVSKR-------VF----RG----DI-EILL------TNKEF----------AILE
+Rhodopirellula_orf07     -----------------------G-----VSEYI--R------KPF------AI-EKLLE
+
+
+Bradyrhizobium_orf08     S-----------------VAR---ASAA--------------------------------
+Chlamydia_orf00654       SEFFGHEKGAFTGATTKKVGRFELAHQGTLLLDEITEIPIHLQAKLLRAIQEQEFEHIGG
+Dictyoglomus_orf0071     --YL------M-----RNVNRI-ISK------EQI--IS-HV------------W----G
+Rhodopirellula_orf07     A-----------------VDRL-LK-----------------------------------
+
+
+Bradyrhizobium_orf08     ------------------------------------------------------------
+Chlamydia_orf00654       IKTLPVNIRFLATSNRDLEEAIETKV--LRQDLYYRLSVISLHIPPLRDRKEDILPLAHY
+Dictyoglomus_orf0071     ---------Y--ESD-TLSNVVEAHIKNLRK----KLE---------RKRDENI------
+Rhodopirellula_orf07     ------------------------------------------------------------
+
+
+Bradyrhizobium_orf08     ------------------------------------------------------------
+Chlamydia_orf00654       YLEKFCKMNNKPPKTLSLEAQRNLLDYSWPGNVRELSNVLERTVILENDPAITPSMLALL
+Dictyoglomus_orf0071     -IE-----------TI-----RGM-GY----RIKE-------------------------
+Rhodopirellula_orf07     ------------------------------------------------------------
+
+

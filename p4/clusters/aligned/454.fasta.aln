@@ -1,0 +1,57 @@
+Kalign (2.0) alignment in ClustalW format
+
+
+Bradyrhizobium_orf12     MAQ-IRVEALN----KSFGEFHAVKGASFTV-DDGQFLCLLGPSGCGKTT-TLRMIAGLE
+Chlamydia_orf00280       MSTLVSIKDLSLTIRKQ--PI--LRNVHLEICR-GECLTIVGASGSGKTSLALAIL-GL-
+Dictyoglomus_orf0114     MAE-VKLENVT----KRFGDVIAVNNVNLEI-KDKEFIVLVGPSGCGKTT-TLRMIAGLE
+Rhodopirellula_orf03     ------VDD--------F---------DLAL-APGEYCVVLGPSGCGKST-LLHCIAGL-
+
+
+Bradyrhizobium_orf12     -LPTS-GTIRLDGE---D--VTMNRASARDIAFVFQ-LFA-LYPHMNVRR--------NI
+Chlamydia_orf00280       -LPPD-AQ---DS--I-DFHIPPKTPRTKAVQMIWQDVYSSLNPMMTV-Q--------EI
+Dictyoglomus_orf0114     EV-TS-GNIYIDGKVVND--VP---PKDRDIAMVFQ-NYA-LYPHMTVYD--------NM
+Rhodopirellula_orf03     -LDAACGSISIDGR---D--VTHVTARKRDVGLLFQ--HDTMYPHLTVEQTLQIGCRANL
+
+
+Bradyrhizobium_orf12     --G-----FPLKCEGI--GAAECDRRVVEAARILR-ISHL----LD-RSVSTLTGGDRQR
+Chlamydia_orf00280       -----IAE-PLH---IMGGLSKSQQQ-EEIAHALK-LVHLPKSFLSLR-PNKLSGGQRQR
+Dictyoglomus_orf0114     AFGLKLRKYP-KSE-I-------DRRVKAAAEMLG-IENL----LK-RKPKELSGGQRQR
+Rhodopirellula_orf03     N-G---R--P--------SATETNQKIQS---MLRTL-NLDSAWLP-RRPETLSGGQRRR
+
+
+Bradyrhizobium_orf12     VALGRAIVRKPKCFLMDEPLGALDTEM-REAMIQ----EL-RALHDR-LGATTVYVTHDQ
+Chlamydia_orf00280       VAIAKALVCKPELIICDEPLSALDT-M-NQKLI--L--DLFQTIKNQ-YNNTFLFITHDM
+Dictyoglomus_orf0114     VALGRAIVREPKVFLMDEPLSNLDAKL-R---VQ-MRAEL-KKLQ-RTLGVTTIYVTHDQ
+Rhodopirellula_orf03     VALAKTLIREPSVCLLDEPMAAIDR-LAAENLMQHL-ADVSRQTD----STTFVHVTHDG
+
+
+Bradyrhizobium_orf12     LEAMAMADLIAVMNNGVVEQIASPRDI--YDRPV--SLFVADFIGSPAMNFLPFRGSLQA
+Chlamydia_orf00280       SAAYTLADKIAVM-----------------DR------------G-----YL--------
+Dictyoglomus_orf0114     TEAMTMGDRIVVMKDGVVQQVDDP--LIVYEKPN--NVFVAGFIGSPPMNFI--DATLSS
+Rhodopirellula_orf03     DEAMRLADKIVVMSNGCILQTGTPQEI--YQSPNCTAVALA--LGSPSCNLLPMDEVLRS
+
+
+Bradyrhizobium_orf12     GAQAIRLGD-RDVAI--PTAREALV-ES-------DL-VLGVRPEHVRF------SDSGM
+Chlamydia_orf00280       ----VEIAS-K----------Q----E-----------IFS-SPKHI-------KT----
+Dictyoglomus_orf0114     DAKILDLGSFK-LGI--PADMQGFVAEQAKNYLGKKV-ILGVRPEHI-YEVSLIKTED-L
+Rhodopirellula_orf03     SPK---LGE----ALQSPP---GYS----NN----ELALM-IRPEAI----ELVEPD---
+
+
+Bradyrhizobium_orf12     V-------R-----------G-EIYGSEYL--GTTQIVT-VTTPYGTLKARSPASMPFRI
+Chlamydia_orf00280       --------R-------------EL-----L-DA-------I--P-------A--------
+Dictyoglomus_orf0114     IPEAVADMRVEVLEPM----GTEVY--LYLINGPVSVVARV----GS-ETKA------RM
+Rhodopirellula_orf03     -PN-----R-QTV-PTVTETG--MW--RF----PVTL---L-------EQRD-------L
+
+
+Bradyrhizobium_orf12     -GMNVG--LDFRPDTLSL----------F------DQGSGR-----AI-RTA-LHEGGKH
+Chlamydia_orf00280       --------FTFS----------------F-------------------------------
+Dictyoglomus_orf0114     -GENVKVMFDLR--KMHL----------F------D----------PVSQVAII------
+Rhodopirellula_orf03     GGRHL---LQLQ--RIGLEDSPLLSATTFQNSIPSETGT-RWSCQIPVAQLRVVAESLQH
+
+
+Bradyrhizobium_orf12     G-------------
+Chlamydia_orf00280       --------------
+Dictyoglomus_orf0114     --------------
+Rhodopirellula_orf03     SALGTSTTCGRTES
+
+

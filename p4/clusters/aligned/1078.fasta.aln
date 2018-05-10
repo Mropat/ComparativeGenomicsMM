@@ -1,0 +1,33 @@
+Kalign (2.0) alignment in ClustalW format
+
+
+Bradyrhizobium_orf01     -LLARKRIFLQ-----TSRLFHNFGE---PPIRRPNKAPPVASKDGPRINDDIRNAQIQL
+Chlamydia_orf01183       ------------------------------------------------LS--IKEA----
+Dictyoglomus_orf0166     ----------------------------------------VVDEDGKQLG--I----MP-
+Rhodopirellula_orf01     VALARRNV--QPENRDSTRI--N-AQIRITPVR-------VVSEEGEQLG--I----IP-
+
+
+Bradyrhizobium_orf01     IDQTGENKGTVETVMAIRMAQEAGMDLVEISPNVSPPVCKIMDYGKYKYSAQKKAAEARK
+Chlamydia_orf01183       LD----------------LAKEANLDLVEVASNSEPPVCKIMDYGKYRYDVTKKEKDSKK
+Dictyoglomus_orf0166     VS---------E---ALKLARERNLDLVEVAPNANPPVCKIMDFGKFKYELARKEKEAKK
+Rhodopirellula_orf01     ---T-------EQ--ALERARDAGLDLVEVAPGERPPVCRIMDYGKFKYDKNKK-KNSGS
+
+
+Bradyrhizobium_orf01     RQKIV-EIKEIKLRPMIDDHDYDVKM-RAMQ-R-FFEEGDKVK--IT-LRYRGREMAH-Q
+Chlamydia_orf01183       AQHQV-RIKEVKLKPNIDDNDF---LTKAKQARAFIEKGNKVK--VSCM-FRGRELAY-P
+Dictyoglomus_orf0166     NQKIASEVKEIKIRPNIEEHDYQVKL-RKI--REFLEKGYKVRLII--L-FKGRQLIY-N
+Rhodopirellula_orf01     SHT---KTKEIRLRPKTGDEDIRTKV-RQAE-K-FLEHKDKVQ--VSVL-FRGREMAHIE
+
+
+Bradyrhizobium_orf01     EIGTKLLDKI-KS--DV-AELAKVEQDARFEGRQ----VVMVLAP-------R-------
+Chlamydia_orf01183       EHGHKVIQRMCQGLEDI-G-F--VESEPKLNGRS----LICVIAPGTLKTKKK-------
+Dictyoglomus_orf0166     EWGDKLLERI---LQDI-SDLGTAE---K-KGQQVGMSLVTMLIPGK-KTSTKKAVLEEV
+Rhodopirellula_orf01     E-GRKVMEQV---I-EILSEVGKVETKPQQHGRR----MICMIAP-------K-------
+
+
+Bradyrhizobium_orf01     ---
+Chlamydia_orf01183       ---
+Dictyoglomus_orf0166     KDE
+Rhodopirellula_orf01     ---
+
+

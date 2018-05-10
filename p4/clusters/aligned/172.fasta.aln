@@ -1,0 +1,45 @@
+Kalign (2.0) alignment in ClustalW format
+
+
+Bradyrhizobium_orf05     MT---QPVT-IIMIED---DEGH--ARL-I-E----RN--IRRS-G-VNNEI--I---PF
+Chlamydia_orf00654       MS-----IEHILIIDD---DP-HILA-L-LSEILGARNFSVSSAPG-VKQAIKQISNCPF
+Dictyoglomus_orf0097     MK---K----ILIVED---E-----------E-----N--VR---GLIKETL----G--F
+Rhodopirellula_orf06     MSNQAKPID-ILLAEDSETD-----AELTM-D-------ALQQ--GKIRNNI-------Y
+
+
+Bradyrhizobium_orf05     ---------ANGT--DAM----K-H------L----FGA-----D----G----------
+Chlamydia_orf00654       DLIISDMNMPDGSGLDIIQYTKQ-HRPQTPILVITAFGTIQNAVEAMRFGAFNYLTKPFS
+Dictyoglomus_orf0097     ------LN----------KY--EIH--EA--------GT----------G------R---
+Rhodopirellula_orf06     HVW-------DGE--EVLRF-----------L--------RK--E----G--EY--K---
+
+
+Bradyrhizobium_orf05     -----TGLVQK-----------------GNAL---LI--------LLD-----------L
+Chlamydia_orf00654       PEALFT-LIAKAEELQALQQDNLFLQSQGSSISHPLIAESPSMKQLLDKARRAANSSANI
+Dictyoglomus_orf0097     -EA----L-EK---IKELNPD--------------LV--------ILD-----------I
+Rhodopirellula_orf06     -DA----V--R--------PD--------------LI--------LLD-----------L
+
+
+Bradyrhizobium_orf05     -----------NL-----------------------PD--------------MTG-----
+Chlamydia_orf00654       FVHGESGCGKENLSFFIHKHSPRSTKPYIKVNCAAIPDTLLESEFFGHEKGAFTGATTKK
+Dictyoglomus_orf0097     M-----------L-----------------------PD--------------IDG-----
+Rhodopirellula_orf06     -----------NM-----------------------PR--------------MDG----R
+
+
+Bradyrhizobium_orf05     -------------ID------------ILKQIK-ENKY-----LKASP-----V-V-VLT
+Chlamydia_orf00654       VGRFELAHQGTLLLDEITEIPIHLQAKLLRAIQ-EQEFEHIGGIKTLP-----VNIRFLA
+Dictyoglomus_orf0097     ---Y------T----------------ICEQIK-ED-----------PSLNSLV-L-ILT
+Rhodopirellula_orf06     ----------T----------------VLKELRSDDR------IKAIP-----V-V-VLT
+
+
+Bradyrhizobium_orf05     --TTD-DSQE-IK----R---CYELGC-NVYIT-----K----PV-N---Y--ENFA---
+Chlamydia_orf00654       --TSNRDLEEAIETKVLRQDLYYRLSVISLHIPPLRDRKEDILPLAH---YYLEKFCKMN
+Dictyoglomus_orf0097     ARSSN------LDKKV---G--FSMGA-------------D-----D---Y-------M-
+Rhodopirellula_orf06     --TSSQE-RD-IHES-------YGLAA-NNYI--V---K----PV-DLVQF----FEVI-
+
+
+Bradyrhizobium_orf05     N------AI---RQLGL-F-F--------SVIQ--V-----P---PAAS-------
+Chlamydia_orf00654       NKPPKTLSLEAQRNL-LDYSWPGNVRELSNVLERTVILENDPAITP--SMLALL--
+Dictyoglomus_orf0097     TKP---------------F---G----LADLITR-V--EN------------LLGE
+Rhodopirellula_orf06     ----Q--SV---QE----F-W---V----NVVK--L---------P-KK-------
+
+

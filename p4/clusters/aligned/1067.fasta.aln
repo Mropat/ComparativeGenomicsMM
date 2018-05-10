@@ -1,0 +1,75 @@
+Kalign (2.0) alignment in ClustalW format
+
+
+Bradyrhizobium_orf11     M-------S-LIDSVSLSRS------FR---LPRLDG-LIQW------------IVP---
+Chlamydia_orf01208_r     M-------KKFI-------S------YLLIILPLI-G-L--WEFCAQNYPNFGFICPPPS
+Dictyoglomus_orf0074     ----------------------------------M-GTII-------N-SNL--ILP---
+Rhodopirellula_orf06     MSNEVQQGSKSIRG---NRSEWAWTAFAVIVVAAL-G-IAAW--------HF--IV----
+
+
+Bradyrhizobium_orf11     -----------------------------IAI-IAI-WQVASV-----T-GFV-P----V
+Chlamydia_orf01208_r     KVLTTGIHSFPVLFQHSCYTAQGILGGFFLALLLAILFS-ATMLLFPSTQGLLHPFCVLV
+Dictyoglomus_orf0074     ------------------------------------------------------P-----
+Rhodopirellula_orf06     K----------------------------L-------FD-------------L-P--KLL
+
+
+Bradyrhizobium_orf11     RVLP----APSDVVL-----AGW--K--LL---LS-----------G------ELV--RN
+Chlamydia_orf01208_r     QCLPMFTLAPL-IVLW----FGWGTRAVIIPTALSIFFPLALTIHQGIKNSPEELL--EQ
+Dictyoglomus_orf0074     ---P-HK------VL-------Y--K--VL-----------------------DLFKHKD
+Rhodopirellula_orf06     --LP----TP-----WQVAEAGWQHRD-VL---LK-------S---G-------------
+
+
+Bradyrhizobium_orf11     I-------WVSFWRASI--G----F--L-I-----G-----G-------GIG--------
+Chlamydia_orf01208_r     FTLYQATTWQKLFKLRIPNGLPHIFSGLKIAMSAAGFATIAGEWVATQSGLGILIVESRR
+Dictyoglomus_orf0074     F--Y-SHLFITFIRSTL--GL---F----IAL----FS---G-FL-----LG--------
+Rhodopirellula_orf06     --------WITLWTATV--SL---F----VAV------------I-----IG--------
+
+
+Bradyrhizobium_orf11     -F--AFGLANG---LSQLSAKLT--------D-TT---LQM----VRN-----VPHLALI
+Chlamydia_orf01208_r     NYDMAMALA-GLFVLTMLT--LSLFYSVLLLERSTFFFFRMEKTSKRSFGKKWV--FALI
+Dictyoglomus_orf0074     -Y---------------IKNKF--FY-------ST----------IRN-----I--IDIF
+Rhodopirellula_orf06     ----------G--AVSIL---FS----------QS----RL----LRR---------ALF
+
+
+Bradyrhizobium_orf11     ---PL-VI--LWFG----I-DESAKL--------F--L---------VAL--G----V--
+Chlamydia_orf01208_r     ---PITVLPCLFY-----LKDDS-KLAAPVPTKSFTLLLDWTPNPNHIPLYVG----VEK
+Dictyoglomus_orf0074     QSNPL-IV---WIT----I-----AL--------F-----W------FGF--GNKTII--
+Rhodopirellula_orf06     ---PY-VV---FLQTVPIV-----AI-AP-----L-LVI-WS----------G-------
+
+
+Bradyrhizobium_orf11     -F--F----------------------P------I-YLNTL-H--GI-RT-V--DP----
+Chlamydia_orf01208_r     GF--F---VDEGISLTLQKNTDTCSSIPHLLLEKVDY--TLYHSLGVLKTAVRGAPVQVA
+Dictyoglomus_orf0074     -FTVF---I---V---L---------FPNFYL--VTY-NAI-N--NI--------P----
+Rhodopirellula_orf06     -YE-FRTAV---IATVI-----ICL-FP---I--V---NNV-TT-GL--TSVR--P----
+
+
+Bradyrhizobium_orf11     -QLIE--M-GRIY----GMTDSEL--FR-RVI-F--------P----G---A-----L--
+Chlamydia_orf01208_r     GRLIDSSLQGLIYRKNEGI-E-KLEDLNGRVLGFCLNDSKNLP----NLLEA-----L-R
+Dictyoglomus_orf0074     -K--E-------Y-----L---EL--F--KI--Y--------PISRKNYL-------I-K
+Rhodopirellula_orf06     ----E-------H--N------DL--L--RM--Y-------------G---ATRWQRLCR
+
+
+Bradyrhizobium_orf11     -----PS---------I---------FV--GIRF-AL-GIMWL-T-L-------I--VAE
+Chlamydia_orf01208_r     KHHVVPSEIKNVSADMISPMLTYQIDFLYGGF-Y-NVEGVT-I-A-LKGTPTGCF--LSD
+Dictyoglomus_orf0074     --FLIP---------YLKP-------FI-----LPNLANST-ISS-LK------ITAMAE
+Rhodopirellula_orf06     AQ--IPT------A--I-P-------FL---V----L-GAR-ISSGL--AVIGAI--VAE
+
+
+Bradyrhizobium_orf11     TI---AAS-SG---L-----GY--MA---MQA-------------REF--------MLID
+Chlamydia_orf01208_r     TY---GSP-TGPQLLICGKKGSPAMTPQTLQSLQKALSRSLDF-CREYPQEAF--AIYVE
+Dictyoglomus_orf0074     FL---SGE-SG---I-----GF-------L----------LSY-AKAF--------LNIE
+Rhodopirellula_orf06     FFVSNGADYEG---L-----G--AV----MTG----------WQARTM-TDALMAALAVS
+
+
+Bradyrhizobium_orf11     VV-----VLS-------I-LIYALLGKLADSASR-VLERL--TLSWH--PAFQKR-----
+Chlamydia_orf01208_r     ATKDSPKVLSDERAQWEVTL--PLLAKTQEPLSRELLESLLVTLS-TTCPDL--RTSIDT
+Dictyoglomus_orf0074     ---E---VYA-----YAV-ILF-ILSK--------ILE-LI----------F-----IKS
+Rhodopirellula_orf06     T------LLG---------LI--LFGGVN------LLSRL-----------F-----LKR
+
+
+Bradyrhizobium_orf11     -----------------
+Chlamydia_orf01208_r     FSIETLISDASETIASS
+Dictyoglomus_orf0074     -GI--LKGDKNYGFSEG
+Rhodopirellula_orf06     Y-L--LVN---------
+
+

@@ -1,0 +1,39 @@
+Kalign (2.0) alignment in ClustalW format
+
+
+Bradyrhizobium_orf01     MSERL--LVLVRHGQSEWNLKNLFTGWKD-PDLTELGVKEATE-AGRKL------KAQGL
+Chlamydia_orf01019_r     MT--L--LILLRHGQSAWNQKNLFTGWVDIP-LSQQGIQEAIA-AGESI------KH--L
+Dictyoglomus_orf0201     MGE----IYLIRHGETDWNREAKFQGRTDIP-LNSKGKSQA------ELLSDYLAKEK--
+Rhodopirellula_orf10     MSDQFPQIYLARHGETPWTITGQHTGSTDMP-LTPKGERNATQLQG-RL--------EGI
+
+
+Bradyrhizobium_orf01     VFDVAYTSVLTRA---------QHT---LDLILGELGQKGLP-------TSKDL------
+Chlamydia_orf01019_r     PIDCIFTSTLVRSLMTALLAMTNHSSQKVPYIVHE--ER--PDMSR-IHSQKEMEQMIPL
+Dictyoglomus_orf0201     -FDYIYSSPLKRA------------------I-----ETAIP-LSKKL--NKEI-----L
+Rhodopirellula_orf10     RFNEVWTSPLQRA---------KRTCE----LAG-YGER-----AR-V-----V------
+
+
+Bradyrhizobium_orf01     ----ALNER----DYGDLSGLNKDDARKKWG-EDQVLIWRRSY-----D--VPPPGGESL
+Chlamydia_orf01019_r     FQSSALNER----MYGELQGKNKQEVAAQFG-EEQVKLWRRSY-----R--IAPPQGESL
+Dictyoglomus_orf0201     -----IRENWIEFDFGEWEGLTVREVHEKYPIERE--LW--LYHTEKGK--I--PKGESF
+Rhodopirellula_orf10     ---TELAE-W---DCGAHEGLTRNEIHQKHP-D-----WN-LF-----RDGC--PNGESL
+
+
+Bradyrhizobium_orf01     KDTLA-RA---------------LPY--------YVQE-IL--------PGVL-NGKR--
+Chlamydia_orf01019_r     FDT-GQRT---------------LPY--------F-QERIF--------P-LLQQGKN--
+Dictyoglomus_orf0201     EDA----------------------YKRLSIEKEY----------------ILENHKNHK
+Rhodopirellula_orf10     TDV-ATRVDRVIQRIRQRNNTCLL-F----AHKHFLQ--VFAACWVGLPP---ETGQR--
+
+
+Bradyrhizobium_orf01     --TLVAAHGNSLRA-L-IMVLE-------------------KLSPEG--ILKR--E-LAT
+Chlamydia_orf01019_r     --IFISAHGNSLRS-L-IMDLE-------------------KLSEEQ--VLSL--E-LPT
+Dictyoglomus_orf0201     IVIF--THGAIIRAALYVF-LDLYHIGFGKITISSCSITHFKIKDDKFILLRL--NYL--
+Rhodopirellula_orf10     --LFL---GTA--A-LSIV-------GY-----------HHD-QSDS--VIRLWND----
+
+
+Bradyrhizobium_orf01     GVP--II-Y-----RLNADSTVASKLDLAG
+Chlamydia_orf01019_r     GQP--IV-YEWTGQKFTKH---APSL---G
+Dictyoglomus_orf0201     -YPHELFSY----------------L----
+Rhodopirellula_orf10     -RS-----Y------LT-D-----------
+
+

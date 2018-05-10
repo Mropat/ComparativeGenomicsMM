@@ -1,0 +1,27 @@
+Kalign (2.0) alignment in ClustalW format
+
+
+Bradyrhizobium_orf07     MRHGKVHRKLNRTAEHRRAMFANMC---AAL------IKHEQIVTTLPKAKEL-RPIVEK
+Chlamydia_orf00711_r     -------------------MLANML---KSL------IHNERIETTLPKARELRR-HADK
+Dictyoglomus_orf0128     MRHRKAYRKLSKPTPQRKALFKALL---ISL------FKHGKIVTTLPRAKEVTR-IAEK
+Rhodopirellula_orf05     MRN------LS------SALF--LTERDASLDENAPKVP-GRIITTLEKAKEV-RPLVEK
+
+
+Bradyrhizobium_orf07     LVTLGK-----------------KGG----------------------LSM-RRQAI---
+Chlamydia_orf00711_r     MITLAK-----------------KNT----------------------LAA-RRLAVGRL
+Dictyoglomus_orf0128     LLTIAK-----------------EDS----------------------VHH-RR-LV---
+Rhodopirellula_orf05     CITLAKRALPALEEAKKYETSAERGSDEYKKWRKSEQWTQWADARAPYVNAQRR--V---
+
+
+Bradyrhizobium_orf07     ---SE-M-----R------------DKDQVKKLFDV-LAPRYKDRQGGYTRIIKAGF---
+Chlamydia_orf00711_r     MVRYNTLTSKEARQVKAGDLSAYNVDRRVIGKLFDV-LATRFSSRNGGXTRILK--L-QN
+Dictyoglomus_orf0128     ---YAWL-----Q------------DRELVRKVF-VEIAPKYKDRNGGYIRILKLGM---
+Rhodopirellula_orf05     ------L-----QLI--G-------DREAVAVLFDT-IAERFTDRPGGYTRIMR--LAKP
+
+
+Bradyrhizobium_orf07     RYGDNAAMAVIEFV---DR----------DVDAKGQDSGPVQEKEAEAA---------
+Chlamydia_orf00711_r     RIGDNAQKCIIEFL------------------A-------------------------
+Dictyoglomus_orf0128     RRGDAAEQAVIEFV--------------------------------------------
+Rhodopirellula_orf05     RLGDGGTRAILELVGKNDRVTRSAQRPAFEQDAPESDSAP----EAEAKTEEETASAN
+
+

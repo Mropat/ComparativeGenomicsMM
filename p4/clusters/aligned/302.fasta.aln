@@ -1,0 +1,75 @@
+Kalign (2.0) alignment in ClustalW format
+
+
+Bradyrhizobium_orf14     MSAE-P--LLANAPWLTSGGTA---RVL------A-LLNADGEEG---RVVGGAVRNALL
+Chlamydia_orf00994_r     MT-Q-ST--L---------EVAK--KIV------RKLRNA----GYQAYFVGGSVRDMLL
+Dictyoglomus_orf0191     MDKE-----L----Y----------KILYVVREYAKVYNI------TPYIVGGFIRDYLL
+Rhodopirellula_orf04     MP-DFPTEIL-NSP-----EAAEAVRII------TELKDA----GFVAVLAGGCVRDALL
+
+
+Bradyrhizobium_orf14     GLVP-GDID--IATTALPD---EVM-RRAKAAGIKSVPTGVDHGTVTLVI----------
+Chlamydia_orf00994_r     GR-PIEEVD--IATNASPTIVTTIF--P------DTLSIGAAFGIIA-V---K----E--
+Dictyoglomus_orf0191     GKNP-RDIDFLI----HP------F---------N-VDF-IDH-IVK-IL----------
+Rhodopirellula_orf04     GRKP-KDFD--VATDATPESVREVFGKR------NTLAFGESFGVIG-VLPPRTAATEAP
+
+
+Bradyrhizobium_orf14     DGQP---------F--EVTTLREDTE-----TF--GRKA----KVAFGRDWVK-DAERRD
+Chlamydia_orf00994_r     NGQL---------F--EVATFRSD-E-----DYEDGRHP---NRVVFA-S-MKDDAIRRD
+Dictyoglomus_orf0191     NGRLVILDEERKYF--RIV-IKNK-EKTFVLDFT----PIYQQNLLF-------EIIRRD
+Rhodopirellula_orf04     SAKL---------MPTEVATFRAD-G-----NYSDGRRP---DSVTYG-D-AEADAMRRD
+
+
+Bradyrhizobium_orf14     FTMNGL--SA---DATGAVYDYVGGIADAAARR-VRFIGDPDQ-RIAEDYLRILRFFRIH
+Chlamydia_orf00994_r     FTINGMYYDP--FEEK--LFDLVEGRADLE-RKIIRAIGHPKQ-RFLEDKLRILRAIR--
+Dictyoglomus_orf0191     FTINSIVLNLKNF--K--IFDPLRGLEDLE-RNVIK-LSSPNSLR--EDPLRILRVFR--
+Rhodopirellula_orf04     FTINGMFYDL--FDSK--VIDYVGGIQDLE-KGHLRTIGKAVQ-RFEEDKLRMLRAVR--
+
+
+Bradyrhizobium_orf14     AAFGA--G---EPDRDG--Y--LACIRGRAG-LAS-L-SAERVRMEMLKLLVAHGASDA-
+Chlamydia_orf00994_r     --FAATLGFALDPQTEQAIIKELPSLPN------S-V-SPERIWQELKKML----RTAP-
+Dictyoglomus_orf0191     --FGAS-GFKID--KN---V--LENIEKNSQNL-SKI-KPERIHEEIYKIL-----KNP-
+Rhodopirellula_orf04     --FATTLGFSIE-------YKTFAAIQNHASDI-S-VVSGERIGAEMRRVM----TSSAS
+
+
+Bradyrhizobium_orf14     ---A-L--A-MADG---GLLQALSGGVVYTGP-L-------S--AMI--AIE-A------
+Chlamydia_orf00994_r     -YES-L--Q-LL-TKLKGL--PI----LF--PELKVSS---S--GFLRSAIAFAQKIHDS
+Dictyoglomus_orf0191     -FTSHFWKE-MEE--Y-GV---LKE--IF--PEL-------SKIKY----IPWSKPHHEN
+Rhodopirellula_orf04     DF-G-L--ETLVDT---GL--ALH---VW--PQLR--SMNWT--EYSR-AIQ-TTK-HRS
+
+
+Bradyrhizobium_orf14     ---ELGLPASSTRRLAALT--------V--AVTED-AKRVAT---R-----------LRL
+Chlamydia_orf00994_r     QIPEIAL---------LLP--------LFREV--DKEKALEA-FSR-----------LRV
+Dictyoglomus_orf0191     PL-DHSI---TT--LYVLEDLFYNMDFLFPSIKKD----LENYFSKNLFSEFTKKETLKL
+Rhodopirellula_orf04     -F-EVAM---------ALA--------LFH-LPGD---SIQC-L-R-----------L--
+
+
+Bradyrhizobium_orf14     SNAEAKALDSMG--HRWWRFATKDEANARR-L---L-Y----R--L----GAERY----H
+Chlamydia_orf00994_r     SNKELKLLED-------W-------------------Y----A-------ALPQFLSKQN
+Dictyoglomus_orf0191     TS----LLHDIGKSKT-Y--SIDEE-N----L---VHYYGHSK--V----GAE-MIKEIA
+Rhodopirellula_orf04     ------LFND-------WKLSVAE----RRAIEAALTH----AETITQCDGLP-------
+
+
+Bradyrhizobium_orf14     DRV------LLAW------AR--AG--------GD-----VGSSHWRALAELPQ------
+Chlamydia_orf00994_r     DKF------F--W------AHFFASETSSLLL-----SLFLSMQ--RS----PD----EQ
+Dictyoglomus_orf0191     ERLKLSNKEL-TFIQKLIRNHMY-------LI--D---L-I-----KN----PEIKTIHK
+Rhodopirellula_orf04     ------------W------SRL-----QPILIDEDAETI-VATA--RALA--PK----SR
+
+
+Bradyrhizobium_orf14     -----R-W-T-APK----F--------------------------------------PL-
+Chlamydia_orf00994_r     ELFIARIH-DLKTR-LAAF------IERIQSG------------------------APLV
+Dictyoglomus_orf0191     --LISRVNED-VPS-LV-FLFISDQIA-IK-G--NFENKDYFEKLLEEFFKLKNIPKPLL
+Rhodopirellula_orf04     G--VAR-----AARSL--F------------GDPN---------------KLN--PPPLV
+
+
+Bradyrhizobium_orf14     RAADFIAR--GMAEGPA----LGHVLTLAE-DAWLAADFPLEEAALASIADQAAARVS--
+Chlamydia_orf00994_r     SAQDLIAK--GITPG---R-LLGELLR--EAEA-LSIE---HE-----CSDKEKI-LSLL
+Dictyoglomus_orf0191     SGHEIM-QLFNLNPSP----IVG-TLK----EK-L-IEAQIEE----RVKTKEEA-IKFL
+Rhodopirellula_orf04     TGADLIAN--GMRPGPEFKSIL-QSIR--D-DQ-L--D---GK-----LTSREDA-LQ--
+
+
+Bradyrhizobium_orf14     --R---D-ERT------
+Chlamydia_orf00994_r     KSKGFWK----------
+Dictyoglomus_orf0191     --REILENERYSSGNNS
+Rhodopirellula_orf04     --RAF-Q-DKV------
+
+

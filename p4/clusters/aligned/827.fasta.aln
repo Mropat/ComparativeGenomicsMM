@@ -1,0 +1,63 @@
+Kalign (2.0) alignment in ClustalW format
+
+
+Bradyrhizobium_orf13     --M--FDRISMTARSSLTIVLAAGEGTRMRSNLPKVLHPVAHQSLLAHVLAATPK-GTGT
+Chlamydia_orf00741_r     --MTNIH-------PT-AIV---EDGARIGNNVT--IEP--------YAI----------
+Dictyoglomus_orf0101     --MNDFK----------AIILAAGQGKRMKTDLPKVLHPLYENTLLEFLLET--------
+Rhodopirellula_orf01     VCL---------------VVLAAGKGTRMNSELPKVLCPVVDRPMIHFVLDAADKAG---
+
+
+Bradyrhizobium_orf13     SL--AV-VIGPDHQAVADE-----AKRIRP---------DALTFVQAE---RLGTAHAV-
+Chlamydia_orf00741_r     -VKKNV-TL-------CDD--VV----VKSYAYI-----DG--F-----T-TIGRGTTV-
+Dictyoglomus_orf0101     -V-KTV------FEK---EYILVVSPKVRTY--LNSISEENVVI--QDVP--LGTGDAVK
+Rhodopirellula_orf01     -IQKKIAVVG--YEA---D--L-----VRKE--LQTRDDDSLTF--AEQTEQLGTGHAVQ
+
+
+Bradyrhizobium_orf13     -------LAAREAIARGADD--LLIAFGDTP--L-ISAE-TFERL------------RAP
+Chlamydia_orf00741_r     ------WPSA------------MI---GNKPQDLKFKGEKTFVEIGEHCEI------R-E
+Dictyoglomus_orf0101     --RLENWLDAYE----G--DV-LILP-GDMP--L-IKSE-TLIKI---CNV-H----R-E
+Rhodopirellula_orf01     MCR-DQ-LAGHE----G---LTLVIA-GDSP--L-IQPS-SLIKL-----IEHFQATR-P
+
+
+Bradyrhizobium_orf13     --------LAKGAAIAALG--FRAAD----P-------T--G----Y-------GRFI-V
+Chlamydia_orf00741_r     FAMITSSTF-EGTTV-SIG-----NNCLIMPWAHIAHNCSVGNNVVFSTHVQLAGH-VQV
+Dictyoglomus_orf0101     -----NNNI---CTL--VTTFL--DN----P-------C--G----Y-------GR-V-V
+Rhodopirellula_orf01     -----A--L-----L--LGT-LTKDD----P-------T--G----L-------GR-I-A
+
+
+Bradyrhizobium_orf13     E---GDRLVAIREHADASAEERKV-DLCNAGLMAIDGH----RAL-AILD---KIGNANS
+Chlamydia_orf00741_r     ----GD-CVTI-----GS-----M--V---G---V--HQF-------V-----RI-----
+Dictyoglomus_orf0101     RDKSGE-VLKIVEEKDATEEEKKIKEI-N---TSV--YAFKWRELREVLQ-L--LKNDNA
+Rhodopirellula_orf01     RNESGQ-FTGIVEHKDATDEQREIREV-N---MST--YLFN-NA--DLLDSLSKLSNDNA
+
+
+Bradyrhizobium_orf13     KGEYYLTDAVGVVREQ----GWEAV---V-----IETSEDEVRGINTKAQLAEAESV-MQ
+Chlamydia_orf00741_r     -GSYSM---VGAMS------G---IRRDI-PPFTIGT------G-NPYA-LGGINKVGLQ
+Dictyoglomus_orf0101     QGEFYLTDVIEIFNKRNLKIG-TVV---VDP---VEV----L-GANTQEELSTLRKI-LK
+Rhodopirellula_orf01     QGEYYLTDCARLLHEA----G-R-------P---VEA----L-------------PV-LQ
+
+
+Bradyrhizobium_orf13     ARLRKAAMEAGVTLIAP-ETVYLSADTVFGNDVTIEPFVVIGPGVSIADGTVIHSFSHIV
+Chlamydia_orf00741_r     RR--QVSFETRLALIKTFKRVF-RSDESF--QASLE--------------SVLEDF----
+Dictyoglomus_orf0101     ERINKINMNNGVIIIDP-DTV------IIGHKVSIE------------------------
+Rhodopirellula_orf01     D-CESLSINN------P-EEL----------QV-VD------------------------
+
+
+Bradyrhizobium_orf13     QTTLGKNVSIGPYARLRPGTSLGDGARIGNFVETKAATLEAGVKVNHLSYIGDATI----
+Chlamydia_orf00741_r     ----GE---V-------P-------------------------EVRH--FI-E--FCRQP
+Dictyoglomus_orf0101     -----KDV-I-----IQP-------------------------EV----FI----L----
+Rhodopirellula_orf01     -----QT--------MRA-------------------------------------M----
+
+
+Bradyrhizobium_orf13     ---GANSNIGAGTITCNYDGFKKHKTIIGQGAFVGTNSSLVAPVKIGNGAYIGSGSVITR
+Chlamydia_orf00741_r     SKRG-----------------------IERG--VDCEASLEEPIDKKEGAFVES------
+Dictyoglomus_orf0101     ---G------------NY--------VIKKNSYIG-------PL-----SYINSKTE---
+Rhodopirellula_orf01     ---G-------------Y--------A---------------------------------
+
+
+Bradyrhizobium_orf13     DVPDDAMALERNQQTIREGGAARYREMKTGGKKPEKKPES
+Chlamydia_orf00741_r     ----------------------------------------
+Dictyoglomus_orf0101     ----------------------------------------
+Rhodopirellula_orf01     ----------------------------------------
+
+

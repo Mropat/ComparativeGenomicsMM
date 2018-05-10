@@ -1,0 +1,75 @@
+Kalign (2.0) alignment in ClustalW format
+
+
+Bradyrhizobium_orf03     ------------------------------------------------------------
+Chlamydia_orf01172       ------------------------------------------------------------
+Dictyoglomus_orf0018     ------------------------------------------------------------
+Rhodopirellula_orf05     VAMRTDKPSDEPMSLDGITPIPVPSVFSSDKDAEAAMLNAAKDGMGTQWFGSAEHGEAEN
+
+
+Bradyrhizobium_orf03     ------------------------------------------------------------
+Chlamydia_orf01172       ------------------------------------------------------------
+Dictyoglomus_orf0018     ------------------------------------------------------------
+Rhodopirellula_orf05     RQSAKPDDSSPSGPDAASNESLPANLRQDEKSEGPPPPISKPPVSDRCSDSDRSQNAGQP
+
+
+Bradyrhizobium_orf03     ------------M--------------TDP-------------NP---------------
+Chlamydia_orf01172       ------------MMKRLLCVLLSTLVFSSP-ML-G--YSASKKDSKADICLAVSSGDQEV
+Dictyoglomus_orf0018     --------------------------------MED--Y----------------------
+Rhodopirellula_orf05     HPFLQSLTLLATM--ALM-LLLAR--YSVPHIVEEIRYAWHRGEMRAE----NETG---V
+
+
+Bradyrhizobium_orf03     ---------LSSLSSALADVVTR-TAPSVV---------------AV-------------
+Chlamydia_orf01172       SQEDL----LKEVSRGFSRVAAK-ATPGVVYIE----NFPKTGNQAIASPGNKRGFQENP
+Dictyoglomus_orf0018     --ERI----LEDYSNALVKVVEK-VSPAVVNLDLSQSTF-------I------------P
+Rhodopirellula_orf05     --EGLRNVSLDSLSRAY-EMVTSAVGPTVVHIDVER---------SV--SEEDRNLQ---
+
+
+Bradyrhizobium_orf03     --H-------------SHR-S----------RA--TGFVWKP-GLIVTADEALADEG-DI
+Chlamydia_orf01172       FDYFNDEFFNRFFGLPSHR-EQQRPQQRDAVRG--TGFIVSEDGYVVTNHHVVEDAG-KI
+Dictyoglomus_orf0018     F----------FFG----------PQE---IKGFASGFLFTPDGYILTNSHVTHQAS-KI
+Rhodopirellula_orf05     ----------RLLGEDSYTLS-------D--QG--SGVVIDEGGYILTNRHVIAD-GIAI
+
+
+Bradyrhizobium_orf03     QISLPDGSIAAATIAGRD-HTTDIALLRTDAS-LAPVKLAATVPPLGT---LSV-----V
+Chlamydia_orf01172       HVTLHDGQKYTAKIVGLD-PKTDLAVIKIQAEKL-PF-LT-----FGNSDQLQIGD--WA
+Dictyoglomus_orf0018     QITLADRRTYQAELVGED-PQTDLAVIKIHENNL-PY-LE-----LGDSEKLKVGQ--IV
+Rhodopirellula_orf05     SVTLSDGRRLPAALVGSDMP-TDLAVLKVDADGLIP--IA-----WGDSDALRVGSPVWA
+
+
+Bradyrhizobium_orf03     VA-ADRDAPSAALGM---VS---LS--GKSWRS-LRG--G--DI-------DARIELDVR
+Chlamydia_orf01172       IAIGN---P---FGLQATVTVGVISAKG---RNQL-------HIVD----FEDFIQTDAA
+Dictyoglomus_orf0018     LAIGN---P---LGFGHSVTSGVISALG---RS-LRSFSG--HL------MENIIQTDAA
+Rhodopirellula_orf05     V--GS---P---FGLDRTITFGILS--GKH-RV-VRA--GVQH--GSSARYQDFMQSDVA
+
+
+Bradyrhizobium_orf03     LRFAQQGG-LALDASGDAFGM--AVL-GPR---RV-LVIP----TATIERVAA--QL--E
+Chlamydia_orf01172       INPGNSGGPL-LNINGQVIGVNTAIVSGSGGYIGIGFAIPSLM--A--KRV--IDQLISD
+Dictyoglomus_orf0018     LNPGSSGGPL-VDIHGRAIGVNTAIIQGAQ---GICFAIP--INTA--KWVAGL--LIKE
+Rhodopirellula_orf05     VNPGNSGGPL-VDARGRLIGINTAIV-GDT-YQGVSFSIPSNV-T---RQI--YDRI-RE
+
+
+Bradyrhizobium_orf03     ARGRIARGYLG-LG----LQ--PVRLD--DDI---------GAM---VMN-VDKAG---P
+Chlamydia_orf01172       --GQVTRGFLG-----VTLQ--P--ID--SELATCYKLEK---VYGALVTDVVK-G--SP
+Dictyoglomus_orf0018     --GRVRRSYLGIIGQSVVL---PKRLR--ENLS----LSQEGGVY--ILR-VAP-G--SP
+Rhodopirellula_orf05     T-GKVERGWLG-----VLLSEVPDSMHRGDDL----RV-R-GA----LISGVT--GEDSP
+
+
+Bradyrhizobium_orf03     SAAAGIRQGDIIVA-----------------------------------------VN---
+Chlamydia_orf01172       AEKAGLRQEDVIVAYNGKEVESLSALRNAISLMMPGTRVVLKIVREGKTIEIPVTVTQIP
+Dictyoglomus_orf0018     AQRGGINSGDIII-----QAE------N----------------------EI---INNI-
+Rhodopirellula_orf05     AAIAGLRIGDILL-----KID--------------G-------VR----------VS---
+
+
+Bradyrhizobium_orf03     --D-----QKLSGVRA------------LS-RT---L------G-P---ASV--GTVV--
+Chlamydia_orf01172       TEDGVSALQKM-GVRVQNITPEICKKLGLAADTRGILVVAVEAGSPAASAGVAPGQLILA
+Dictyoglomus_orf0018     -DD----LHRF-----------------LS-HT------------P-------PGS----
+Rhodopirellula_orf05     --D-VGHLMRL-----------------IA-N----L------G---------QGTLL--
+
+
+Bradyrhizobium_orf03     ----DVA-V----R--RG--GEPVSF---K------VTIGERPEA---
+Chlamydia_orf01172       VNRQRVASVEELNQVLKNSKGENVLLMVSQGDVVRFIVLK--SDE---
+Dictyoglomus_orf0018     ----RVA-V----RVIRD---NNI-----K-EIS--IVLG--SE----
+Rhodopirellula_orf05     -N------V----ELTRD--GEPMTV-----E----VRLKKRPDNLDR
+
+

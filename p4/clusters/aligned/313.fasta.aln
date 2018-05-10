@@ -1,0 +1,39 @@
+Kalign (2.0) alignment in ClustalW format
+
+
+Bradyrhizobium_orf07     VQR---Y-----------G-----------IV---QLSTGEMLRAAVAAGTPVG--LKAK
+Chlamydia_orf00184_r     MDRSPLFLIIMGAPGSGKGTQSKLLASQLSLL---HISSGDLLRDAVSKDTP----L-SQ
+Dictyoglomus_orf0127     M-KAIIFL---GPPGAGKGTHAKEV-SQ--ILNIPHISTGDIFREHVKNQTDLG--I---
+Rhodopirellula_orf03     ---------------------------------VPHIGTGGMLR-ALEPES--GEQI---
+
+
+Bradyrhizobium_orf07     EI---MASGGLVPDEIVVGIISDRID--QPDA--KN-GF--------ILDGFPRT-VPQA
+Chlamydia_orf00184_r     EIKSYLDQGKLLPDTLVWKLVHEKLDEFQQDTLLRRLSFLSRSENSAILDGFPRT-VTQA
+Dictyoglomus_orf0127     KVKSYLDAGKLVPDEVVWEVVKDRID--KEDC--KN-GF--------ILDGFPRT-ILQA
+Rhodopirellula_orf03     HLR--IDRGHFAPDDFVLQMVAERLA--QPDS--RT-GY--------LLDGFPRTQV-QA
+
+
+Bradyrhizobium_orf07     EALDE-LLKHKH--L---KLDAVVELRVNESALLSRVETR-VA---Q-M--------RER
+Chlamydia_orf00184_r     KLLHE-FLS-SY--FPNYKV--IL-LDISDEEVLNRLTSRYICPACQGIYN------EQQ
+Dictyoglomus_orf0127     EMLEK-YLKEKNADI---KV--IY-LDAPDELVIRRLSARRVCKNCGAIYNLISMPPKKD
+Rhodopirellula_orf03     SAFDKQLVAAS---L---KLDHVLHLQVSADVLIERL--------------------RKR
+
+
+Bradyrhizobium_orf07     G-----E----EV--RVDDTPEVLTKRLASYRSQTEPLIHYYS-E---RRKLSTIDGMMA
+Chlamydia_orf00184_r     GFSSCPK-CSVELIRRSDDTLEVILDRIQTYKQETQPVLDYYT-E---KQKLITIDA---
+Dictyoglomus_orf0127     GI--C-DICGGELYQRSDDKPEVIKQRLETYYKETQPLIDYYK-N---KDIMYTINA---
+Rhodopirellula_orf03     G-----E---TE--NRADDSEEFIRERFRIYEDRTAPLLDHYRCQGLVRD----IDA--S
+
+
+Bradyrhizobium_orf07     IDEVTRA-IHRQL---L--ALGA--VEPKSHGKAHARSAAKSAPAKKGAKKAKVAKKPAK
+Chlamydia_orf00184_r     -NAPTQQ-VFQSI---LD-SLSASLV----Y---QERDCCNC-----DCDDED-------
+Dictyoglomus_orf0127     -EKEREE-VLKEI---LK-VINE-------------------------------------
+Rhodopirellula_orf03     -D--SESLVHASICECLNFTLAS----P-----AES------------------------
+
+
+Bradyrhizobium_orf07     TAKKAAKSAKKAAKKAAKKTAKKAAKTTAKKAVKKGAKKAAKKVTKKRAKR
+Chlamydia_orf00184_r     ---------------------------------------------------
+Dictyoglomus_orf0127     ---------------------------------------------------
+Rhodopirellula_orf03     ---------------------------------------------------
+
+

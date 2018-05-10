@@ -1,0 +1,45 @@
+Kalign (2.0) alignment in ClustalW format
+
+
+Bradyrhizobium_orf16     ------------------------------------------------------------
+Chlamydia_orf00041       M-EIDILSLFPDYFASPLQATILGRAIKQGALSVRSRDIREFGLGK-WKQVDDSPYN-GE
+Dictyoglomus_orf0193     MLRIDIVTIFPEMFKGPFDVSILKKAQDKGLVEIKVYNLRDFTEDK-HRTVDDYPYGGGS
+Rhodopirellula_orf09     V-RFDVVTLFPAIFDGYLTQSLLDKAIVRGLVEIQRHNLRDWAEDTPHRKVDDRPFGGGP
+
+
+Bradyrhizobium_orf16     ---------------------------------MC-AG--------QE-----HLIFLCG
+Chlamydia_orf00041       GMLLMAEPVVQAIRSI--------RRKKSKVIYLSPQGQLLSAKKSRELASCSHLVLLCG
+Dictyoglomus_orf0193     GMVMKPEPIFKAVRSL--------KKEDSEVILLSPSGDLFNQKIAEELSKKNHLILICG
+Rhodopirellula_orf09     GMLLQVEPTVTCVRDVDAMADVPARK-----ILLTPQGRRLDQRLAEDLATSDRIMLMCG
+
+
+Bradyrhizobium_orf16     HYEGYDERIRQFL---V--TDEVSIGDYVLTGGELAAMVVIDSVVRLQPGALGN-ESSAV
+Chlamydia_orf00041       HYEGIDERA---LTAEV--DEEISIGDYVLTNGCAAALVLVDALARFIPGVLGNQESA--
+Dictyoglomus_orf0193     RYEGVDERVKS-I---I--TREISIGDYVLTGGEIPAMVIVDAVVRLVPGVLGDPDS--L
+Rhodopirellula_orf09     RYEGFDQRV---L--DILQPEEISIGDFVLNGGEVAAMTIIDAVVRLLPGVLGDEQSS-L
+
+
+Bradyrhizobium_orf16     -T-DSFSSG--LLEHPHYTRPAEFRGWKVPDILLSGHHANIERWRLKE-SLRRT--R--E
+Chlamydia_orf00041       -EYDSLENG--LLEGPQYTRPRVFEGESVPEVLLCGDHQKIADWR-KQVSLERT--R--E
+Dictyoglomus_orf0193     RE-ESFQWG--ILEYPQYTHPRDFEGMKVPDILLSGNHERIRRWRRKE-ALKKTFLK---
+Rhodopirellula_orf09     -D-DSFSRGNRMLEFPQYTRPREFEGHTVPDVLLSGDHAAIAAWRAEQ-S--RA--RTID
+
+
+Bradyrhizobium_orf16     RRPEL-L-E----------------RLE----------LTAE-MKK--------------
+Chlamydia_orf00041       RRPDLYL-QYFYGNSACLSTQEDLPRIEVVSPKTFSVVLEVQDLRKAKKFYSRMFGKECW
+Dictyoglomus_orf0193     -RPDL-L-E----------------KTS----------LTQEDL-E--------------
+Rhodopirellula_orf09     RRRDL-LPE----HS----------KTN---PEQTNK-LS--------------------
+
+
+Bradyrhizobium_orf16     ------LLAE----IEAE-KESS------IE-----------------------------
+Chlamydia_orf00041       DGDKLFLLGKTSLYLQQT-KETRGPTTVFIELETDHDFVRFLKRWEMLGGELGEQGTGGF
+Dictyoglomus_orf0193     ------LLEE----IKKELRE---------EV----------------------------
+Rhodopirellula_orf09     ------------------------------------------------------------
+
+
+Bradyrhizobium_orf16     --------------------
+Chlamydia_orf00041       PLRQVFDLDGHIWVVSCVQK
+Dictyoglomus_orf0193     --------------------
+Rhodopirellula_orf09     --------------------
+
+

@@ -1,0 +1,75 @@
+Kalign (2.0) alignment in ClustalW format
+
+
+Bradyrhizobium_orf01     -----------------------------------------------------------M
+Chlamydia_orf00545       -----------------------------------------------------------M
+Dictyoglomus_orf0137     -----------------------------------------------------------M
+Rhodopirellula_orf03     VADACENAARVGLERAGGFRLFPGNFHLGVKMSDTFNPDTPNIDAPAIDSPTTDPEPAEF
+
+
+Bradyrhizobium_orf01     AITASSRAPQDSGSSDSER-SP-FV--RL--N----EL-----LA------P-HQPGKPL
+Chlamydia_orf00545       -----------------KR-NPHFV--SLTKNYLFADL--QKRVAQFRLENPQH----TV
+Dictyoglomus_orf0137     -IKKAKRI---------ENLPP-YLFARI--D----QL---KEEAINR--------GIDV
+Rhodopirellula_orf03     EVKLASRV---------DRLPP-YMFGRI--N----NLLYQKRRA-----------GDDV
+
+
+Bradyrhizobium_orf01     ITLAVGEP-QHP----VPD-F---V------------G-----PVLAKHIADFGRYPA--
+Chlamydia_orf00545       INLSIGDT-TQPLNASVAEAFASSIARLSSPTTCRGYG-----P-------DFG-LPALR
+Dictyoglomus_orf0137     ISLGIGDP-DQP--TPMP--I---VQKL-----CEE-A---LNP--ANH----R-YPS--
+Rhodopirellula_orf03     IDLGMGNPSDPP--DPI---V---VQKL------ND-AAADI----GNH----G-YSK--
+
+
+Bradyrhizobium_orf01     NK-G-TDPF-RTAAGAWLS--SRFKLPRPLDPESEIL--VLNGSR-EGLF-LAAI-AAAR
+Chlamydia_orf00545       QKLS-ED-FYR---G--------F-----VDAK-EIF--ISDGAKVD-LFRL--L-S---
+Dictyoglomus_orf0137     YE-GLLE-Y-RQAVANWYKY--RFNV-D-LDPKKEVLSLI--GSK-EGLVHM--IWG---
+Rhodopirellula_orf03     SN-GITN-L-RREVAS--KYHRKYGV-R-LDPEGEIIACL--GSK-EGFSHM-CL-A---
+
+
+Bradyrhizobium_orf01     YVGPRPGKPAILM-PNPFY-PV--Y-------G--AGAR---AAAC--E-PVYLPTTV--
+Chlamydia_orf00545       FFGP---NQTVAI-QDPSY-PA--Y----LDIARLTGAKEIIALPCLQE-NAFFP-----
+Dictyoglomus_orf0137     LVDR--GD--IVLCPDPGY-PV--YRISTL-LA--EGEPYSIPLK-I-E-NKFLP-K--W
+Rhodopirellula_orf03     LMGP--GDTAII--PSP-YFPVHMYGV--I-LA--SGN--VVALD-VADPDKFLS-NVAY
+
+
+Bradyrhizobium_orf01     --ENGFLP-DLDA-IDEATLARTVAFYLASPANPQGSVAKP---DYFRR-LKQLADRYGF
+Chlamydia_orf00545       --E--F-P-E-DTHID-------I-LCLCSPNNPTGTVLNK---D---Q-LRAIV-HYAI
+Dictyoglomus_orf0137     --ED-I-PTE----IAKK--AK-V-MFLNYPSNPTGAVIDKKGLE---EAVK-FAKEYDI
+Rhodopirellula_orf03     TCEN-LTP---------R--PK-V-LIVNYPHNPSSAVIE--G-DFFVEVVR-LAKKYGL
+
+
+Bradyrhizobium_orf01     ----VILSDECYSEI----YTREA--PGSALECAGP-D--FTRVVAFQSLSKRSNLP---
+Chlamydia_orf00545       EHEILILFDAAYST-----FISDPSLPKSIFEI--P-DARFC-AIEINSFSK----PLGF
+Dictyoglomus_orf0137     ----IILYDNAYSEITFDGFV--A--P-SILEIDGAKDI----AIEFNSLSK------TF
+Rhodopirellula_orf03     ----MVIHDFAYADVAFDGYV--P--P-SFLSAPGAKDV----GVEFTTMSK------GY
+
+
+Bradyrhizobium_orf01     ---GLRVG---------FAAG-----D-KRFI------------G-MFLELRNIAAPQVP
+Chlamydia_orf00545       --AGIRLGWTVIPQELTYADGHFVIQDWERFL------------STTF----N-GAS-IP
+Dictyoglomus_orf0137     NMTGWRIG---------YAVGN---AD---LISVLSTVKTNVDSG-VFQAI-QYAA--I-
+Rhodopirellula_orf03     NMAGWRVG---------FCAGN---AD---MVRGLGTIKGYYDYG-MFQAI-QIAA--I-
+
+
+Bradyrhizobium_orf01     -----------VP-LQ--HVATVAYGD-EA-HVEENRRLY--RIK------FDLADQIIG
+Chlamydia_orf00545       AQEAGVAGLSILPQLEAIH-----Y------Y-RENSDLL--R-KALLATGFE----VFG
+Dictyoglomus_orf0137     --EA-------LNNLR----------D----FSKESVKIYQRR-RDMVLDAFK------G
+Rhodopirellula_orf03     --VA----------LR----------ETEATVAKQS-EVYQSR-RDVLVSGLR------R
+
+
+Bradyrhizobium_orf01     DRYGYR----RPDAG--FCVWLN-TSA-LGD---------DVSITLKLFKEAG-VRVVPG
+Chlamydia_orf00545       ---GEH----AP-----Y-LWVKPTQANISD----R----DL---FDFF-----LR----
+Dictyoglomus_orf0137     --MG--VEILPPK-GTFY-VWVS-----VPEGFT---ST-DFAA-F-LLEEIG-V-----
+Rhodopirellula_orf03     --LGWNVN--PPKAG-MF-VWAE-----VPEPWKSQMSTMDFAM-M-LLED-GNV-----
+
+
+Bradyrhizobium_orf01     SY-LARLQPD-GFN-PGAGFIRL-A--LVQDG--ETTAQAL---HRL-----VETLG---
+Chlamydia_orf00545       EYHIA-ITPGIGFGRSGSGFVRFSS--L---GKRE---DILAACERLQMAPALQS-----
+Dictyoglomus_orf0137     ---L--VVPGIGYGDYGEGYIRI-STTI--S---E---------DRL--IEALKRVKEFF
+Rhodopirellula_orf03     ---A--VSPGSGFGAAGEGYLRM-S--LVEN---E---------HRL--RQAVRQIGKCL
+
+
+Bradyrhizobium_orf01     ----------------------
+Chlamydia_orf00545       ----------------------
+Dictyoglomus_orf0137     --GRDDWKSKKP-----SLLLK
+Rhodopirellula_orf03     AAGKAD---AGPVASSAS----
+
+
