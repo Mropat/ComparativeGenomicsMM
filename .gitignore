@@ -1,1 +1,5 @@
 *.xml
+
+.vscode/*
+genomesr/*
+practicals/*
