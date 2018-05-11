@@ -30,4 +30,4 @@ def genomes(filename):
 
 
 if __name__ == "__main__":
-    genomes("concatenate.txt")
+    genomes("concat_instersect.txt")

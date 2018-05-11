@@ -1,7 +1,7 @@
 import pickle 
 
 def parse(file):
-    with open("parsed08.txt", "w") as wh:
+    with open("p4/parsed_blasts/parsed16rev.txt", "w") as wh:
         dict_05 = {}
         with open(file, "r") as fh:
             line_list = fh.readlines()
@@ -14,7 +14,7 @@ def parse(file):
                         wh.write(query[23:25] + " " + query[33:-22] +
                                  " " + match[11:13]+" " + match[21:-10] + "\n")
 
-    pickle.dump(dict_05, open("pickle8.sav", "wb"))
+    pickle.dump(dict_05, open("pickle16rev.sav", "wb"))
 
 if __name__ == "__main__":
-    parse("p4/ref08.2.xml")
+    parse("p4/blast_out/ref16rev.xml")

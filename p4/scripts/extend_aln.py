@@ -10,8 +10,8 @@ def extended(files):
             alignment = AlignIO.read(files+"/" + file, "fasta")
             org = alignment[n].id.split("_")[0]
             metalist = metalist + str(alignment[n].seq.strip())
-        with open ("all_metagenes.fasta", "a") as wh:
+        with open ("10_metagenes.fasta", "a") as wh:
             wh.write(">"+org + "\n" + metalist + "\n")
 
 if __name__ == "__main__":          
-        extended("p4/aligned")
+        extended("p4/10seq")
