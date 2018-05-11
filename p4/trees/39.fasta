@@ -1,10 +1,10 @@
 (
-Chlamydia:0,480,
+Chlamydia:0.466,
 (
 (
-Bradyrhizobium:0,367,
-Dictyoglomus:0,338)
-0:0,034,
-Rhodopirellula:0,308)
-0:0,133)
+Bradyrhizobium:0.371,
+Dictyoglomus:0.320)
+0.000:0.027,
+Rhodopirellula:0.299)
+0.000:0.130)
 ;
