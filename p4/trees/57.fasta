@@ -1,10 +1,10 @@
 (
 (
-Dictyoglomus_orf01277:0,442,
-Rhodopirellula_orf12450_rev:0,531)
-0:0,132,
+Bradyrhizobium:0.580,
+Chlamydia:0.580)
+0.000:0.037,
 (
-Bradyrhizobium_orf09923_rev:0,580,
-Chlamydia_orf00876_rev:0,580)
-0:0,037)
+Rhodopirellula:0.531,
+Dictyoglomus:0.442)
+0.000:0.132)
 ;

@@ -1,0 +1,45 @@
+
+Consensus tree program, version 3.696
+
+Species in order: 
+
+  1. Chlamydia
+  2. Dictyoglomus
+  3. Bradyrhizobium
+  4. Rhodopirellula
+
+
+Sets included in the consensus tree
+
+Set (species in order)     How many times out of   10.00
+
+..**                        7.00
+
+
+Sets NOT included in consensus tree:
+
+Set (species in order)     How many times out of   10.00
+
+.**.                        2.00
+.*.*                        1.00
+
+
+Extended majority rule consensus tree
+
+CONSENSUS TREE:
+the numbers on the branches indicate the number
+of times the partition of the species into the two sets
+which are separated by that branch occurred
+among the trees, out of  10.00 trees
+
+  +-----------------------Chlamydia
+  |
+  |       +---------------Dictyoglomus
+  +-------|
+          |       +-------Bradyrhizobium
+          +--7.00-|
+                  +-------Rhodopirellula
+
+
+  remember: this is an unrooted tree!
+
