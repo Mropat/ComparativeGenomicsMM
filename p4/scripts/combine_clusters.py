@@ -1,4 +1,8 @@
 
+# Optional:
+# Run this script on output of ortholog_sets.py or on paired hits output by XML parser (parse_xml.py)
+# Creates cluster file with id's for hits present only in all 4 proteomes
+
 def unified_dict (file1, file2, file3):
 
     unidict = {}

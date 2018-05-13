@@ -1,5 +1,0 @@
-blastp -outfmt 5 -query 05.fa -db 04.fa -evalue 0.00001 -max_hsps 1 -num_threads 4 -out blast_out/ref05rev.xml
-
-for f in *.fasta; do kalign $f -t 1 -e 3 -s 60 -o ../aligned/$f; done
-
-

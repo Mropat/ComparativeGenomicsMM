@@ -1,0 +1,12 @@
+
+BLASTp:
+blastp -outfmt 5 -query 05.fa -db 04.fa -evalue 0.00001 -max_hsps 1 -num_threads 4 -out blast_out/ref05rev.xml
+
+KALIGN:
+for f in *.fasta; do kalign $f -t 1 -e 3 -s 60 -o ../aligned_anon/$f; done
+
+Various belvu trees:
+for f in *.fasta; do belvu $f -T n -T s -T o -o tree >> ../trees/intree; done
+for f in *.fasta; do belvu $f -T n -T s -T o -o tree > ../trees/$f; done
+for f in *.fasta; do belvu $f -T n -T s -T o -T i -b 10000 ; done
+

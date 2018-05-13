@@ -1,0 +1,21 @@
+Order of use:
+
+1. BLAST query ref > query 
+            -OR - also query the reverse
+
+2. Parse BLAST output in XML format (parsexml.py) into pairs of ids
+
+3. Parse pairs of ids into combined cluster file with combine_clusters.py
+            -OR - run mutual_hits.py first and then combine_clusters.py on the output
+
+4. Create cluster fastas from the combined list with parse_genomes.py
+            -OR - parse_genomes_anon.py to omit the ORF ids
+
+5. Run multiple alignment with KALIGN using the bash query on all files:
+            for f in *.fasta; do kalign $f -t 1 -e 3 -s 60 -o ../aligned_anon/$f; done
+
+6. Select 10 alignments for tree reconstruction and move to separate folder.
+
+7. Run extend_aln.py on the folder to combine into meta sequence alignment
+
+8. Perfrom tree reconstruction with belvu.

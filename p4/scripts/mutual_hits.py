@@ -1,4 +1,7 @@
 
+# Optional:
+#  From 2-id pairs output by XML parser, will find only mutual top hits
+    # Writes mutual hit pairs into intersectN.txt files
 
 def ortholog_pairs(file, filerev):
     

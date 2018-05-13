@@ -1,5 +1,6 @@
 from Bio import SeqIO
 
+# Same script as parse_genomes.py, but output is anonymous clusters with only organism as protein identifier
 
 def get_fancy_keys(record):
     index = record.id.find("_")
