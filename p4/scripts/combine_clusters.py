@@ -17,12 +17,12 @@ def unified_dict (file1, file2, file3):
                     unidict[pairs[0]].append(pairs[1])
 
 
-    with open ("concat_instersect.txt", "w") as wh:
+    with open ("concat_instersect_all.txt", "w") as wh:
         for key, val in unidict.items():
-                if len(val) == 3:
-                    wh.write(key + " " +" ".join(val) + "\n")
+#                if len(val) == 3:
+                wh.write(key + " " +" ".join(val) + "\n")
 
 
 
 if __name__ == "__main__":
-    unified_dict("intersect5.txt", "intersect8.txt", "intersect16.txt")
+    unified_dict("p4/parsed_blasts/intersect5.txt", "p4/parsed_blasts/intersect8.txt", "p4/parsed_blasts/intersect16.txt")
