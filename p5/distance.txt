@@ -1,0 +1,16 @@
+Running:                      	/afs/pdc.kth.se/misc/pdc/volumes/sbc/prj.sbc.dmessina.5/Comparative_Genomics/programs/grimm
+Input:                        	grimminput.grm
+Genome:                       	Linear
+Signs:                        	Signed
+Number of Genomes:            	4
+Number of Genes:              	243
+Number of Chromosomes:        	0 (unichromosomal)
+
+Distance Matrix:
+
+   4
+Genome04            	0 229 185 225 
+Genome05            	229 0 215 215 
+Genome08            	185 215 0 225 
+Genome16            	225 215 225 0 
+
