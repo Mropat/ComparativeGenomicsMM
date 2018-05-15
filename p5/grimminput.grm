@@ -1,4 +1,4 @@
-Genome 1:
+>Genome04
 96
 107
 95
@@ -242,7 +242,7 @@ Genome 1:
 51
 3
 1
-Genome 2:
+>Genome05
 240
 220
 46
@@ -486,7 +486,7 @@ Genome 2:
 124
 69
 1
-Genome 3:
+>Genome08
 218
 181
 74
@@ -730,7 +730,7 @@ Genome 3:
 113
 150
 1
-Genome 4:
+>Genome16
 215
 75
 124
