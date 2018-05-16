@@ -89,7 +89,7 @@ id = 1
 
 for geneList in geneLists:
 
-	print ("Genome ", id, ":")
+	print (">Genome" + str(id)+ ":")
 
 	genes = geneList.split (" ")
 
@@ -97,6 +97,6 @@ for geneList in geneLists:
 
 		if presentGenes.has_key (gene):
 
-			print (newMap [gene])
+			print (str(newMap [gene]))
 
 	id = id + 1

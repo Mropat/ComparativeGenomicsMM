@@ -17,9 +17,9 @@ def unified_dict (file1, file2, file3):
                     unidict[pairs[0]].append(pairs[1])
 
 
-    with open ("concat_instersect_all.txt", "w") as wh:
+    with open ("concat_instersect_mutual.txt", "w") as wh:
         for key, val in unidict.items():
-#                if len(val) == 3:
+            if len(val) == 3:
                 wh.write(key + " " +" ".join(val) + "\n")
 
 
