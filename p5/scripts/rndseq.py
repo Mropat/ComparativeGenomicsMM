@@ -2,7 +2,7 @@
 import random
 import pickle
 
-number=1630
+number=5000
 length=20
 aas="ARNDCEQGHILKMFPSTWYV"
 def r20():

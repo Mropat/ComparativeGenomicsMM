@@ -1,0 +1,5 @@
+Bradyrhizobium Chlamydia Dictyoglomus Rhodopirellula
+0 229 185 225             	
+229 0 215 215
+185 215 0 225 
+225 215 225 0 

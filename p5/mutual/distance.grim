@@ -1,6 +1,6 @@
 Running:                      	/afs/pdc.kth.se/misc/pdc/volumes/sbc/prj.sbc.dmessina.5/Comparative_Genomics/programs/grimm
 Input:                        	grimminput.grm
-Genome:                       	Linear
+Genome:                       	Circular
 Signs:                        	Signed
 Number of Genomes:            	4
 Number of Genes:              	243

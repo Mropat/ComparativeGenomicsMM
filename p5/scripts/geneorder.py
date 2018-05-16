@@ -2,7 +2,7 @@
 
 
 geneOrderList = []
-with open ("p4/genomes/16.fa", "r") as aHandle:
+with open ("p4/genomes/04.fa", "r") as aHandle:
     lines = aHandle.readlines ()
     for aLine in lines:
 	    aLine = aLine.strip()	
@@ -15,7 +15,7 @@ with open ("p4/genomes/16.fa", "r") as aHandle:
 
 partOfCluster = {}
 
-with open ("concat_instersect_all.txt", "r") as bHandle:
+with open ("p5/concat_instersect_nonmutual_all.txt", "r") as bHandle:
     lines = bHandle.readlines ()
     id = 0
 
@@ -32,9 +32,9 @@ with open ("concat_instersect_all.txt", "r") as bHandle:
 	    id = id + 1
 
 # put together
-with open ("p5/16_order_line.txt", "w") as wh:
+with open ("p5/04_order_line.txt", "w") as wh:
     for aGene in geneOrderList:
 
 	    if aGene in partOfCluster:
 
-		    wh.write(str(partOfCluster[aGene]) + " ")
+		    wh.write(str(partOfCluster[aGene]) + "\n")
