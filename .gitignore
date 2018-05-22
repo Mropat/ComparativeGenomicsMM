@@ -4,3 +4,7 @@ p4/genomes/*
 genomesr/*
 practicals/*
 scripts/*
+venv/*
+.idea/*
+*.tar.gz
+*.gz
