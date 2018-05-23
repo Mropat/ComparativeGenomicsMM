@@ -1,3 +1,6 @@
+# Very slow python3 script for parsing STRING interactome file
+# Runs faster with python 2 without needing the decoding
+# Or rather use bash grep/perl instead
 
 import gzip
 
