@@ -15,6 +15,7 @@ with open ("experiments.txt", "r") as fh2:
         expset = set(line.strip().split(" "))
         if len(chromo_set.intersection(expset)) > maxlen:
             maxlen = len(chromo_set.intersection(expset))
+            print(maxlen)
             if len(largest_overlap) < 2:
                 largest_overlap.append(list(expset))
             else:
@@ -26,3 +27,4 @@ with open ("experiments.txt", "r") as fh2:
 with open ("overlapsets_STRING.txt", "w") as wh:
     for e in largest_overlap:
         wh.write("\n".join(e) + "\n"+ "\n")
+
