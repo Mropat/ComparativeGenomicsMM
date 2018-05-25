@@ -2,7 +2,6 @@
 p4/genomes/*
 .vscode/*
 genomesr/*
-practicals/*
 scripts/*
 venv/*
 .idea/*
