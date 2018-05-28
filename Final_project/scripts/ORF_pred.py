@@ -56,7 +56,7 @@ def ORFs(genome_file):
             if frame[codon] == "ATG" and codon > t:                
                 ORF = []
                 for j in range(codon, len(frame)):
-                    ORF.extend(frame[j])
+                    ORF.append(frame[j])
                     if frame[j] == "TAG" or frame[j] == "TAA" or frame[j] == "TGA":
                         break
                     t = j
@@ -65,13 +65,15 @@ def ORFs(genome_file):
     
     reverse_ORFs = []
     for frame in reverse:
+        t = 0
         for codon in range(len(frame)):           
-            if frame[codon] == "ATG":                
+            if frame[codon] == "ATG" and codon > t:                
                 ORF = []
                 for j in range(codon, len(frame)):
-                    ORF.extend(frame[j])
+                    ORF.append(frame[j])
                     if frame[j] == "TAG" or frame[j] == "TAA" or frame[j] == "TGA":
                         break
+                    t = j
                 reverse_ORFs.append(ORF)
     
     print(forward_ORFs[1])
