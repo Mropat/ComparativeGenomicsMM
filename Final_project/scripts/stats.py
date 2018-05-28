@@ -31,4 +31,4 @@ def stats(genome_file):
         print("{} content = {}".format(di, seq.count(di)/(total-1)))    
 
 if __name__ == "__main__":    
-    stats("/afs/pdc.kth.se/misc/pdc/volumes/sbc/prj.sbc.dmessina.5/Comparative_Genomics/data/genomes2018/Grp4/04.fa.txt")
+    stats("/afs/pdc.kth.se/misc/pdc/volumes/sbc/prj.sbc.dmessina.5/Comparative_Genomics/data/genomes2018/Grp4/34.fa.txt")
