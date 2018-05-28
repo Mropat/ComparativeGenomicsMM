@@ -32,5 +32,5 @@ def orfinder(genome_file):
  
 
 if __name__ == "__main__":
-    genome_file = "fullgenomes/34.fa"
+    genome_file = "fullgenomes/05.fa"
     orfinder(genome_file)
