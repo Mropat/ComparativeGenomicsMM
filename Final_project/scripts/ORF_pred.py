@@ -1,3 +1,4 @@
+'''Parses genome file, reverse complements and predicts ORFs in all 6 frames'''
 def parse(genome_file):
     
     with open(genome_file, 'r') as g:
@@ -9,11 +10,13 @@ def parse(genome_file):
      
     
 def reverse_complement(genome_file):
+    '''Parses genome file into string'''    
     seq = parse(genome_file)
     replaced = seq.replace("G", "c").replace("C", "g").replace("A", "t").replace("T", "a").upper()
     return replaced
 
 def frame_finder(genome_file):
+    '''Divides genome into 6 frames'''    
     forward_strand = parse(genome_file)
     reverse_strand = reverse_complement(genome_file)
     reverse_strand = reverse_strand[::-1]
@@ -38,28 +41,42 @@ def frame_finder(genome_file):
     reverse_frames.append(rev_1)
     reverse_frames.append(rev_2)
     reverse_frames.append(rev_3)
-    #print(len(forward_frames))
-   # print(len(reverse_frames))
+
     return forward_frames, reverse_frames
 
+
 def ORFs(genome_file):
+    '''Predicts ORFs based on start and stop codons'''
     forward = frame_finder(genome_file)[0]
     reverse = frame_finder(genome_file)[1]
     forward_ORFs = []    
     for frame in forward:
-        #print(frame)
-        for codon in range(len(frame)):
-            #print(codon)            
-            if frame[codon] == "ATG":
-                
+        t = 0
+        for codon in range(len(frame)):            
+            if frame[codon] == "ATG" and codon > t:                
                 ORF = []
                 for j in range(codon, len(frame)):
                     ORF.extend(frame[j])
                     if frame[j] == "TAG" or frame[j] == "TAA" or frame[j] == "TGA":
                         break
+                    t = j
                 forward_ORFs.append(ORF)
-    print(len(forward_ORFs))
-
+    
+    
+    reverse_ORFs = []
+    for frame in reverse:
+        for codon in range(len(frame)):           
+            if frame[codon] == "ATG":                
+                ORF = []
+                for j in range(codon, len(frame)):
+                    ORF.extend(frame[j])
+                    if frame[j] == "TAG" or frame[j] == "TAA" or frame[j] == "TGA":
+                        break
+                reverse_ORFs.append(ORF)
+    
+    print(forward_ORFs[1])
+    print(forward_ORFs[2])
+    print(len(reverse_ORFs))
 
 if __name__ == "__main__":
     ORFs("/afs/pdc.kth.se/misc/pdc/volumes/sbc/prj.sbc.dmessina.5/Comparative_Genomics/data/genomes2018/Grp4/04.fa.txt")    
