@@ -60,7 +60,7 @@ def ORFs(genome_file):
                     if frame[j] == "TAG" or frame[j] == "TAA" or frame[j] == "TGA":
                         break
                     t = j
-                if len(ORF) > 100:
+                if len(ORF) > 75 and len(ORF) < 500:
                     forward_ORFs.append(ORF)
     
     
@@ -75,7 +75,7 @@ def ORFs(genome_file):
                     if frame[j] == "TAG" or frame[j] == "TAA" or frame[j] == "TGA":
                         break
                     t = j
-                if len(ORF) > 100:
+                if len(ORF) > 75 and len(ORF) < 500:
                     reverse_ORFs.append(ORF)
     
     #print(forward_ORFs[1])
@@ -86,7 +86,7 @@ def ORFs(genome_file):
     return forward_ORFs, reverse_ORFs
     
 
-'''def ORF_files(genome_file, output_file):
+def ORF_files(genome_file, output_file):
     forward_ORFs = ORFs(genome_file)[0]
     reverse_ORFs = ORFs(genome_file)[1]
     with open(output_file, 'w') as f:
@@ -94,8 +94,12 @@ def ORFs(genome_file):
         for ORF in forward_ORFs:
             if len(ORF) > 100:
                 f.write(">orf_{}\n{}\n".format(ORF_number, ''.join(ORF)))
-                ORF_number += 1'''
-
+                ORF_number += 1
+        ORF_number = 0
+        for ORF in reverse_ORFs:
+            if len(ORF) > 100:
+                f.write(">orf_rev{}\n{}\n".format(ORF_number, ''.join(ORF)))
+                ORF_number += 1
 if __name__ == "__main__":
-    ORFs("/afs/pdc.kth.se/misc/pdc/volumes/sbc/prj.sbc.dmessina.5/Comparative_Genomics/data/genomes2018/Grp4/04.fa.txt")    
+    ORF_files("/afs/pdc.kth.se/misc/pdc/volumes/sbc/prj.sbc.dmessina.5/Comparative_Genomics/data/genomes2018/Grp4/34.fa.txt", '34.fasta')    
    
