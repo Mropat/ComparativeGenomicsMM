@@ -26,20 +26,26 @@ def stats(genome_file):
     return GCcontent
 
  
-
 def distance_matrix(g1, g2, g3, g4, g5):
     m = np.zeros((5,5))
     GCfreqs = [stats(g1), stats(g2), stats(g3), stats(g4), stats(g5)]
-    distance_list = []
-    temp_list = []
-    print(GCfreqs)
+    
+    g1_dist = []
+    g2_dist = []
+    g3_dist = []
+    g4_dist = []
+    g5_dist = []
     for i in range(len(GCfreqs)):
+        g1_dist.append(math.sqrt((GCfreqs[0]-GCfreqs[i])**2)*100)
+        g2_dist.append(math.sqrt((GCfreqs[1]-GCfreqs[i])**2)*100)
+        g3_dist.append(math.sqrt((GCfreqs[2]-GCfreqs[i])**2)*100)
+        g4_dist.append(math.sqrt((GCfreqs[3]-GCfreqs[i])**2)*100)
+        g5_dist.append(math.sqrt((GCfreqs[4]-GCfreqs[i])**2)*100)
 
-        temp_list.append(abs(GCfreqs[i]- (GCfreqs[i+1])))
-        if i == 3:
-            break
-    print(temp_list)
-
-
+    distance_list = [g1_dist] + [g2_dist] + [g3_dist] + [g4_dist] + [g5_dist]
+    m = np.asarray(distance_list)
+    print(m)
+    
+    
 if __name__ == "__main__":
     distance_matrix('04.fa.txt', '05.fa.txt', '08.fa.txt', '16.fa.txt', '34.fa.txt')

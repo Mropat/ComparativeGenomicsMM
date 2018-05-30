@@ -4,6 +4,9 @@ Created on Mon May 28 10:36:17 2018
 
 @author: u2353
 """
+from Bio import SeqIO
+from Bio.SeqUtils.ProtParam import ProteinAnalysis
+
 
 def parse(genome_file):
     
@@ -14,7 +17,7 @@ def parse(genome_file):
                 seq += line
     return seq
     
-def stats(genome_file):
+def DNA_stats(genome_file):
     seq = parse(genome_file)
     gcontent = (seq.count("G"))
     ccontent = (seq.count("C"))
@@ -30,5 +33,7 @@ def stats(genome_file):
     for di in listofDI:        
         print("{} content = {}".format(di, seq.count(di)/(total-1)))    
 
+def protein_stats(proteome_file):
+    
 if __name__ == "__main__":    
-    stats("/afs/pdc.kth.se/misc/pdc/volumes/sbc/prj.sbc.dmessina.5/Comparative_Genomics/data/genomes2018/Grp4/34.fa.txt")
+    DNA_stats("/afs/pdc.kth.se/misc/pdc/volumes/sbc/prj.sbc.dmessina.5/Comparative_Genomics/data/genomes2018/Grp4/34.fa.txt")
