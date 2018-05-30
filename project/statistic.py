@@ -34,12 +34,12 @@ def stats(genome_file):
             dinuc_dict[dinucleotide] += 1
 
     for key in dinuc_dict:
-        dinuc_dict[key] = round(dinuc_dict[key]/ (genome_length-1)*100)
+        dinuc_dict[key] = dinuc_dict[key]/ (genome_length-1)
 
     print(dinuc_dict)
     print(gc_fraction)
 
 
 if __name__ == "__main__":
-    genome_file = "fullgenomes/04.fa"
+    genome_file = "fullgenomes/34.fa"
     stats(genome_file)

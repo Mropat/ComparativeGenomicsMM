@@ -22,17 +22,18 @@ def orfinder(genome_file):
         for ind, char in enumerate(frag):
             if char == "M":
                 frag_pla = frag[ind:]
-                if len(frag_pla) > 100 and len(frag_pla) < 3000:
+                if len(frag_pla) > 75 and len(frag_pla) < 500:
                     translated_long.append(frag_pla)
                     break
     print(len(set(translated_long)))
-    print(translated_long[:100])
 
-    with open ("japo_potential.txt", "w") as wh:
+"""    with open ("yeast_potential.txt", "w") as wh:
+        orfnr = 1
         for seq in translated_long:
-            wh.write(seq + "\n")
+            orfnr += 1
+            wh.write(">ORF_" + str(orfnr) + "\n" + seq + "\n")"""
 
 
 if __name__ == "__main__":
-    genome_file = "fullgenomes/04.fa"
+    genome_file = "fullgenomes/34.fa"
     orfinder(genome_file)
