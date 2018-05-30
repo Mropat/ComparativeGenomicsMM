@@ -39,12 +39,15 @@ def protein_stats(proteome_file):
     for record in SeqIO.parse(proteome_file, "fasta"):
         sequences = record.seq 
         seq = seq+str(sequences)
-    #print(seq)
     s = ProteinAnalysis(str(seq))
     dic = s.get_amino_acids_percent()
-    print(dic)
+
     for k, v in sorted(dic.items()):
-        print(dic[k])
+        print(k, dic[k])
+
+def di_aa(proteome_file):
+    
+    
 if __name__ == "__main__":    
     
     protein_stats("04_prot.fasta")
