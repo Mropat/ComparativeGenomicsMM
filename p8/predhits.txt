@@ -1,0 +1,2357 @@
+# BLASTP 2.2.31+
+# Query: ORF_0
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_0	sp|P0CH64|DDI3_YEAST	100.00	225	0	0	1	225	1	225	2e-171	470
+# BLASTP 2.2.31+
+# Query: ORF_1
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_1	sp|P53824|SNZ2_YEAST	100.00	279	0	0	1	279	20	298	0.0	572
+# BLASTP 2.2.31+
+# Query: ORF_2
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_3
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_3	sp|P42839|VNX1_YEAST	100.00	784	0	0	1	784	125	908	0.0	1633
+# BLASTP 2.2.31+
+# Query: ORF_4
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_5
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_5	sp|P48561|TRF5_YEAST	100.00	206	0	0	1	206	437	642	8e-146	419
+# BLASTP 2.2.31+
+# Query: ORF_6
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_7
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_7	sp|P53835|PRM1_YEAST	100.00	104	0	0	1	104	558	661	2e-67	211
+# BLASTP 2.2.31+
+# Query: ORF_8
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_8	sp|P08465|MET2_YEAST	100.00	380	0	0	1	380	107	486	0.0	790
+# BLASTP 2.2.31+
+# Query: ORF_9
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_10
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_10	sp|P32487|LYP1_YEAST	100.00	351	0	0	1	351	261	611	0.0	717
+# BLASTP 2.2.31+
+# Query: ORF_11
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_11	sp|P39104|PIK1_YEAST	100.00	509	0	0	1	509	558	1066	0.0	1066
+# BLASTP 2.2.31+
+# Query: ORF_12
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_12	sp|P53848|FOL1_YEAST	100.00	81	0	0	1	81	744	824	1e-52	171
+# BLASTP 2.2.31+
+# Query: ORF_13
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_13	sp|Q01532|BLH1_YEAST	100.00	84	0	0	1	84	400	483	6e-58	182
+# BLASTP 2.2.31+
+# Query: ORF_14
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_15
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_16
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_16	sp|P40152|YNV7_YEAST	100.00	194	0	0	1	194	133	326	8e-147	410
+# BLASTP 2.2.31+
+# Query: ORF_17
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_17	sp|P40154|IES2_YEAST	100.00	320	0	0	1	320	1	320	0.0	631
+# BLASTP 2.2.31+
+# Query: ORF_18
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_19
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_19	sp|P53871|DUG3_YEAST	100.00	91	0	0	1	91	267	357	2e-61	188
+# BLASTP 2.2.31+
+# Query: ORF_20
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_20	sp|P53874|UBP10_YEAST	100.00	136	0	0	1	136	657	792	1e-94	288
+# BLASTP 2.2.31+
+# Query: ORF_21
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_21	sp|P05750|RS3_YEAST	100.00	114	0	0	1	114	127	240	4e-80	234
+# BLASTP 2.2.31+
+# Query: ORF_22
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_23
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_24
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_25
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_26
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_26	sp|P53909|ADE_YEAST	100.00	207	0	0	1	207	141	347	1e-154	431
+# BLASTP 2.2.31+
+# Query: ORF_27
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_27	sp|P28000|RPAC2_YEAST	100.00	111	0	0	1	111	32	142	2e-80	231
+# BLASTP 2.2.31+
+# Query: ORF_28
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_28	sp|P32389|MET4_YEAST	99.70	672	2	0	1	672	1	672	0.0	1352
+# BLASTP 2.2.31+
+# Query: ORF_29
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_29	sp|P13382|DPOA_YEAST	100.00	338	0	0	1	338	1131	1468	0.0	710
+# BLASTP 2.2.31+
+# Query: ORF_30
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_31
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_32
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_32	sp|P53934|CARME_YEAST	100.00	176	0	0	1	176	225	400	7e-132	374
+# BLASTP 2.2.31+
+# Query: ORF_33
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_33	sp|P06781|RHO2_YEAST	100.00	192	0	0	1	192	1	192	3e-144	398
+# BLASTP 2.2.31+
+# Query: ORF_34
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_34	sp|P34072|MKS1_YEAST	100.00	84	0	0	1	84	501	584	1e-53	172
+# BLASTP 2.2.31+
+# Query: ORF_35
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_35	sp|P32048|SYKM_YEAST	100.00	183	0	0	1	183	394	576	1e-132	383
+# BLASTP 2.2.31+
+# Query: ORF_36
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_37
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_37	sp|P51401|RL9B_YEAST	100.00	114	0	0	1	114	78	191	8e-81	234
+# BLASTP 2.2.31+
+# Query: ORF_38
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_39
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_39	sp|P53949|OCA2_YEAST	100.00	115	0	0	1	115	83	197	6e-83	239
+# BLASTP 2.2.31+
+# Query: ORF_40
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_41
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_42
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_42	sp|P38590|MSG5_YEAST	100.00	123	0	0	1	123	367	489	2e-83	251
+# BLASTP 2.2.31+
+# Query: ORF_43
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_44
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_45
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_45	sp|P02309|H4_YEAST	100.00	103	0	0	1	103	1	103	1e-68	199
+# BLASTP 2.2.31+
+# Query: ORF_46
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_46	sp|P53969|SAM50_YEAST	100.00	219	0	0	1	219	266	484	7e-162	455
+# BLASTP 2.2.31+
+# Query: ORF_47
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_47	sp|P53973|HDA1_YEAST	100.00	558	0	0	1	558	149	706	0.0	1166
+# BLASTP 2.2.31+
+# Query: ORF_48
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_48	sp|P53978|EF3B_YEAST	100.00	798	0	0	1	798	247	1044	0.0	1670
+# BLASTP 2.2.31+
+# Query: ORF_49
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_49	sp|P38922|HRB1_YEAST	100.00	429	0	0	1	429	26	454	0.0	868
+# BLASTP 2.2.31+
+# Query: ORF_50
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_51
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_51	sp|P53727|BUD17_YEAST	100.00	80	0	0	1	80	238	317	3e-51	160
+# BLASTP 2.2.31+
+# Query: ORF_52
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_52	sp|P53728|CYP8_YEAST	100.00	296	0	0	1	296	13	308	0.0	608
+# BLASTP 2.2.31+
+# Query: ORF_53
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_54
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_54	sp|P53730|ALG12_YEAST	100.00	396	0	0	1	396	156	551	0.0	812
+# BLASTP 2.2.31+
+# Query: ORF_55
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_56
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_56	sp|P32323|AGA1_YEAST	100.00	725	0	0	1	725	1	725	0.0	1258
+# BLASTP 2.2.31+
+# Query: ORF_57
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_57	sp|P53738|TR112_YEAST	100.00	135	0	0	1	135	1	135	4e-99	279
+# BLASTP 2.2.31+
+# Query: ORF_58
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_58	sp|P53739|FPK1_YEAST	100.00	764	0	0	1	764	130	893	0.0	1595
+# BLASTP 2.2.31+
+# Query: ORF_59
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_60
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_61
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_61	sp|P53746|FRE4_YEAST	100.00	344	0	0	1	344	376	719	0.0	712
+# BLASTP 2.2.31+
+# Query: ORF_62
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_63
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_63	sp|P53631|HXT17_YEAST	100.00	564	0	0	1	564	1	564	0.0	1155
+# BLASTP 2.2.31+
+# Query: ORF_64
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_65
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_66
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_66	sp|P53822|COS1_YEAST	100.00	127	0	0	1	127	255	381	5e-89	262
+# BLASTP 2.2.31+
+# Query: ORF_67
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_68
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_68	sp|P42840|YN60_YEAST	100.00	277	0	0	1	277	8	284	0.0	572
+# BLASTP 2.2.31+
+# Query: ORF_69
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_69	sp|P42841|PFS2_YEAST	100.00	465	0	0	1	465	1	465	0.0	976
+# BLASTP 2.2.31+
+# Query: ORF_70
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_70	sp|P21705|DAL82_YEAST	100.00	255	0	0	1	255	1	255	0.0	523
+# BLASTP 2.2.31+
+# Query: ORF_71
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_71	sp|P26754|RFA2_YEAST	100.00	93	0	0	1	93	181	273	8e-65	195
+# BLASTP 2.2.31+
+# Query: ORF_72
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_72	sp|P48562|CLA4_YEAST	100.00	497	0	0	1	497	346	842	0.0	1043
+# BLASTP 2.2.31+
+# Query: ORF_73
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_73	sp|P48564|MRX6_YEAST	100.00	524	0	0	1	524	1	524	0.0	1093
+# BLASTP 2.2.31+
+# Query: ORF_74
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_75
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_75	sp|P53833|POP3_YEAST	100.00	82	0	0	1	82	114	195	1e-53	163
+# BLASTP 2.2.31+
+# Query: ORF_76
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_76	sp|P53834|HCH1_YEAST	100.00	153	0	0	1	153	1	153	2e-110	309
+# BLASTP 2.2.31+
+# Query: ORF_77
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_78
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_79
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_80
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_80	sp|P53841|BSC4_YEAST	100.00	131	0	0	1	131	1	131	7e-95	268
+# BLASTP 2.2.31+
+# Query: ORF_81
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_82
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_83
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_83	sp|P33338|SLA2_YEAST	100.00	765	0	0	1	765	204	968	0.0	1569
+# BLASTP 2.2.31+
+# Query: ORF_84
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_84	sp|P53858|BNI4_YEAST	100.00	88	0	0	1	88	805	892	4e-60	192
+# BLASTP 2.2.31+
+# Query: ORF_85
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_85	sp|P80210|PURA_YEAST	100.00	433	0	0	1	433	1	433	0.0	883
+# BLASTP 2.2.31+
+# Query: ORF_86
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_86	sp|P40151|WRIP1_YEAST	100.00	165	0	0	1	165	423	587	4e-119	347
+# BLASTP 2.2.31+
+# Query: ORF_87
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_87	sp|P40150|SSB2_YEAST	100.00	92	0	0	1	92	522	613	1e-56	181
+# BLASTP 2.2.31+
+# Query: ORF_88
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_88	sp|P40160|RIO2_YEAST	100.00	132	0	0	1	132	294	425	2e-88	262
+# BLASTP 2.2.31+
+# Query: ORF_89
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_90
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_90	sp|P53872|PGA14_YEAST	100.00	204	0	0	1	204	1	204	1e-137	383
+# BLASTP 2.2.31+
+# Query: ORF_91
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_92
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_93
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_93	sp|P53894|CBK1_YEAST	100.00	190	0	0	1	190	567	756	1e-142	414
+# BLASTP 2.2.31+
+# Query: ORF_94
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_94	sp|P38616|YGP1_YEAST	100.00	354	0	0	1	354	1	354	0.0	702
+# BLASTP 2.2.31+
+# Query: ORF_95
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_95	sp|P53897|IGO1_YEAST	100.00	113	0	0	1	113	56	168	3e-78	226
+# BLASTP 2.2.31+
+# Query: ORF_96
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_96	sp|P53901|INN1_YEAST	100.00	261	0	0	1	261	149	409	0.0	525
+# BLASTP 2.2.31+
+# Query: ORF_97
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_98
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_99
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_99	sp|P53917|FAR11_YEAST	100.00	254	0	0	1	254	700	953	0.0	527
+# BLASTP 2.2.31+
+# Query: ORF_100
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_100	sp|P30952|MASY_YEAST	100.00	116	0	0	1	116	439	554	1e-78	239
+# BLASTP 2.2.31+
+# Query: ORF_101
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_101	sp|P53924|DMA2_YEAST	100.00	522	0	0	1	522	1	522	0.0	1088
+# BLASTP 2.2.31+
+# Query: ORF_102
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_102	sp|P24783|DBP2_YEAST	100.00	129	0	0	1	129	296	424	2e-90	271
+# BLASTP 2.2.31+
+# Query: ORF_103
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_103	sp|P24783|DBP2_YEAST	100.00	110	0	0	1	110	437	546	2e-70	218
+# BLASTP 2.2.31+
+# Query: ORF_104
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_104	sp|P53933|APP1_YEAST	100.00	130	0	0	1	130	458	587	7e-89	268
+# BLASTP 2.2.31+
+# Query: ORF_105
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_105	sp|P53935|NST1_YEAST	100.00	276	0	0	1	276	965	1240	0.0	575
+# BLASTP 2.2.31+
+# Query: ORF_106
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_106	sp|D6W196|CMC1_YEAST	100.00	98	0	0	1	98	397	494	1e-69	214
+# BLASTP 2.2.31+
+# Query: ORF_107
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_108
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_108	sp|P53939|NIS1_YEAST	100.00	206	0	0	1	206	202	407	3e-148	417
+# BLASTP 2.2.31+
+# Query: ORF_109
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_109	sp|P53940|APJ1_YEAST	100.00	528	0	0	1	528	1	528	0.0	1100
+# BLASTP 2.2.31+
+# Query: ORF_110
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_111
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_112
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_112	sp|P53616|SUN4_YEAST	100.00	203	0	0	1	203	218	420	1e-149	421
+# BLASTP 2.2.31+
+# Query: ORF_113
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_113	sp|P53944|MTQ1_YEAST	100.00	314	0	0	1	314	1	314	0.0	652
+# BLASTP 2.2.31+
+# Query: ORF_114
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_115
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_116
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_117
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_118
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_118	sp|P00424|COX5A_YEAST	100.00	113	0	0	1	113	41	153	4e-81	233
+# BLASTP 2.2.31+
+# Query: ORF_119
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_120
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_120	sp|Q10740|LKHA4_YEAST	100.00	671	0	0	1	671	1	671	0.0	1395
+# BLASTP 2.2.31+
+# Query: ORF_121
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_122
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_122	sp|P53615|CAN_YEAST	100.00	221	0	0	1	221	1	221	3e-168	462
+# BLASTP 2.2.31+
+# Query: ORF_123
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_123	sp|P53964|YND3_YEAST	100.00	119	0	0	1	119	166	284	7e-85	248
+# BLASTP 2.2.31+
+# Query: ORF_124
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_125
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_126
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_126	sp|P40343|VPS27_YEAST	100.00	202	0	0	1	202	421	622	3e-141	407
+# BLASTP 2.2.31+
+# Query: ORF_127
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_128
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_128	sp|P53720|DUS2_YEAST	100.00	372	0	0	1	372	13	384	0.0	778
+# BLASTP 2.2.31+
+# Query: ORF_129
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_129	sp|P53629|ARE2_YEAST	100.00	642	0	0	1	642	1	642	0.0	1335
+# BLASTP 2.2.31+
+# Query: ORF_130
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_130	sp|P53628|SNF12_YEAST	100.00	427	0	0	1	427	140	566	0.0	870
+# BLASTP 2.2.31+
+# Query: ORF_131
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_131	sp|P37254|PABS_YEAST	100.00	141	0	0	1	141	647	787	5e-96	291
+# BLASTP 2.2.31+
+# Query: ORF_132
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_132	sp|Q3E841|YN034_YEAST	100.00	98	0	0	1	98	1	98	5e-69	200
+# BLASTP 2.2.31+
+# Query: ORF_133
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_133	sp|P07390|PT494_YEAST	100.00	405	0	0	1	405	85	489	0.0	840
+# BLASTP 2.2.31+
+# Query: ORF_134
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_134	sp|P50277|BIOA_YEAST	100.00	158	0	0	1	158	323	480	2e-114	331
+# BLASTP 2.2.31+
+# Query: ORF_135
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_136
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_137
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_138
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_139
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_140
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_140	sp|P42883|THI12_YEAST	100.00	304	0	0	1	304	37	340	0.0	631
+# BLASTP 2.2.31+
+# Query: ORF_141
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_142
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_142	sp|P42835|EGT2_YEAST	100.00	233	0	0	1	233	809	1041	2e-155	457
+# BLASTP 2.2.31+
+# Query: ORF_143
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_143	sp|P42838|LEM3_YEAST	100.00	123	0	0	1	123	292	414	8e-89	262
+# BLASTP 2.2.31+
+# Query: ORF_144
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_145
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_145	sp|P42847|RT18_YEAST	100.00	106	0	0	1	106	112	217	2e-73	215
+# BLASTP 2.2.31+
+# Query: ORF_146
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_146	sp|P48559|YPT11_YEAST	100.00	417	0	0	1	417	1	417	0.0	874
+# BLASTP 2.2.31+
+# Query: ORF_147
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_148
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_148	sp|P48566|GYP3_YEAST	100.00	633	0	0	1	633	1	633	0.0	1316
+# BLASTP 2.2.31+
+# Query: ORF_149
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_149	sp|P48567|PUS4_YEAST	100.00	336	0	0	1	336	68	403	0.0	693
+# BLASTP 2.2.31+
+# Query: ORF_150
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_150	sp|P24867|PCL1_YEAST	100.00	279	0	0	1	279	1	279	0.0	573
+# BLASTP 2.2.31+
+# Query: ORF_151
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_151	sp|P53829|CAF40_YEAST	100.00	119	0	0	1	119	255	373	8e-81	240
+# BLASTP 2.2.31+
+# Query: ORF_152
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_152	sp|P53830|CUS2_YEAST	100.00	173	0	0	1	173	113	285	3e-125	353
+# BLASTP 2.2.31+
+# Query: ORF_153
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_153	sp|P53838|BOR1_YEAST	100.00	576	0	0	1	576	1	576	0.0	1184
+# BLASTP 2.2.31+
+# Query: ORF_154
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_155
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_155	sp|P53840|TOF1_YEAST	100.00	208	0	0	1	208	1031	1238	1e-141	424
+# BLASTP 2.2.31+
+# Query: ORF_156
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_157
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_157	sp|P13134|KEX2_YEAST	100.00	698	0	0	1	698	117	814	0.0	1434
+# BLASTP 2.2.31+
+# Query: ORF_158
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_158	sp|P53584|YTP1_YEAST	100.00	423	0	0	1	423	37	459	0.0	867
+# BLASTP 2.2.31+
+# Query: ORF_159
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_159	sp|P53859|CSL4_YEAST	100.00	292	0	0	1	292	1	292	0.0	600
+# BLASTP 2.2.31+
+# Query: ORF_160
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_160	sp|P53867|ATG4_YEAST	100.00	494	0	0	13	506	1	494	0.0	1025
+# BLASTP 2.2.31+
+# Query: ORF_161
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_161	sp|P11938|RAP1_YEAST	100.00	699	0	0	1	699	129	827	0.0	1460
+# BLASTP 2.2.31+
+# Query: ORF_162
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_162	sp|P32573|SPS19_YEAST	100.00	292	0	0	1	292	1	292	0.0	595
+# BLASTP 2.2.31+
+# Query: ORF_163
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_164
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_165
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_165	sp|P53870|YNT3_YEAST	100.00	80	0	0	1	80	479	558	4e-54	173
+# BLASTP 2.2.31+
+# Query: ORF_166
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_167
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_168
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_169
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_169	sp|P53878|YNS1_YEAST	100.00	407	0	0	1	407	1	407	0.0	837
+# BLASTP 2.2.31+
+# Query: ORF_170
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_170	sp|P53891|YNQ5_YEAST	100.00	127	0	0	1	127	280	406	8e-92	270
+# BLASTP 2.2.31+
+# Query: ORF_171
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_172
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_172	sp|P53896|PGA1_YEAST	100.00	135	0	0	1	135	64	198	3e-96	274
+# BLASTP 2.2.31+
+# Query: ORF_173
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_174
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_175
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_175	sp|P41948|MEP2_YEAST	100.00	369	0	0	1	369	131	499	0.0	754
+# BLASTP 2.2.31+
+# Query: ORF_176
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_176	sp|P17555|CAP_YEAST	100.00	88	0	0	1	88	439	526	4e-59	186
+# BLASTP 2.2.31+
+# Query: ORF_177
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_177	sp|P53916|TEP1_YEAST	100.00	116	0	0	1	116	319	434	3e-82	246
+# BLASTP 2.2.31+
+# Query: ORF_178
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_179
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_180
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_180	sp|P53919|NAF1_YEAST	100.00	124	0	0	1	124	369	492	1e-82	248
+# BLASTP 2.2.31+
+# Query: ORF_181
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_182
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_183
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_183	sp|P50945|MIC27_YEAST	100.00	234	0	0	1	234	1	234	2e-177	486
+# BLASTP 2.2.31+
+# Query: ORF_184
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_184	sp|P36019|YPT53_YEAST	100.00	80	0	0	1	80	141	220	3e-56	171
+# BLASTP 2.2.31+
+# Query: ORF_185
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_185	sp|P06786|TOP2_YEAST	100.00	126	0	0	1	126	1303	1428	4e-79	250
+# BLASTP 2.2.31+
+# Query: ORF_186
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_186	sp|P48231|TCB2_YEAST	100.00	339	0	0	1	339	840	1178	0.0	687
+# BLASTP 2.2.31+
+# Query: ORF_187
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_187	sp|P53941|IMP4_YEAST	100.00	207	0	0	1	207	84	290	8e-157	435
+# BLASTP 2.2.31+
+# Query: ORF_188
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_189
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_189	sp|P12695|ODP2_YEAST	100.00	482	0	0	1	482	1	482	0.0	983
+# BLASTP 2.2.31+
+# Query: ORF_190
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_190	sp|P53943|AQR1_YEAST	100.00	573	0	0	1	573	14	586	0.0	1182
+# BLASTP 2.2.31+
+# Query: ORF_191
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_192
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_192	sp|P40991|NOP2_YEAST	100.00	267	0	0	1	267	352	618	0.0	558
+# BLASTP 2.2.31+
+# Query: ORF_193
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_193	sp|Q12470|YN12A_YEAST	100.00	440	0	0	1	440	1	440	0.0	910
+# BLASTP 2.2.31+
+# Query: ORF_194
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_194	sp|P53950|VAC7_YEAST	100.00	158	0	0	1	158	1008	1165	5e-108	330
+# BLASTP 2.2.31+
+# Query: ORF_195
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_195	sp|P53954|ALG11_YEAST	100.00	134	0	0	1	134	415	548	5e-95	283
+# BLASTP 2.2.31+
+# Query: ORF_196
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_196	sp|P53956|YNE6_YEAST	100.00	101	0	0	1	101	72	172	5e-70	205
+# BLASTP 2.2.31+
+# Query: ORF_197
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_197	sp|Q3E7Z2|YN042_YEAST	100.00	85	0	0	1	85	1	85	2e-61	179
+# BLASTP 2.2.31+
+# Query: ORF_198
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_198	sp|P53958|BOP3_YEAST	100.00	257	0	0	1	257	140	396	0.0	519
+# BLASTP 2.2.31+
+# Query: ORF_199
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_199	sp|P53960|YNE0_YEAST	100.00	106	0	0	1	106	351	456	1e-70	216
+# BLASTP 2.2.31+
+# Query: ORF_200
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_200	sp|P46678|TFC5_YEAST	100.00	594	0	0	1	594	1	594	0.0	1217
+# BLASTP 2.2.31+
+# Query: ORF_201
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_201	sp|P53963|YND4_YEAST	100.00	214	0	0	1	214	399	612	8e-159	452
+# BLASTP 2.2.31+
+# Query: ORF_202
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_202	sp|P53965|SIW14_YEAST	100.00	102	0	0	1	102	180	281	2e-74	220
+# BLASTP 2.2.31+
+# Query: ORF_203
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_204
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_204	sp|P32588|PUB1_YEAST	100.00	168	0	0	1	168	286	453	4e-122	351
+# BLASTP 2.2.31+
+# Query: ORF_205
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_205	sp|P41318|LST8_YEAST	100.00	116	0	0	1	116	188	303	4e-82	241
+# BLASTP 2.2.31+
+# Query: ORF_206
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_207
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_207	sp|P53718|NRM1_YEAST	100.00	246	0	0	1	246	4	249	0.0	504
+# BLASTP 2.2.31+
+# Query: ORF_208
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_209
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_210
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_210	sp|P32838|PP2A4_YEAST	100.00	368	0	0	1	368	1	368	0.0	770
+# BLASTP 2.2.31+
+# Query: ORF_211
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_211	sp|P50278|SOL1_YEAST	100.00	126	0	0	1	126	196	321	2e-91	266
+# BLASTP 2.2.31+
+# Query: ORF_212
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_213
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_213	sp|P53734|DBP6_YEAST	100.00	102	0	0	1	102	528	629	7e-69	214
+# BLASTP 2.2.31+
+# Query: ORF_214
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_214	sp|P53736|YN8O_YEAST	100.00	253	0	0	1	253	4	256	0.0	523
+# BLASTP 2.2.31+
+# Query: ORF_215
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_215	sp|P32377|MVD1_YEAST	100.00	396	0	0	1	396	1	396	0.0	827
+# BLASTP 2.2.31+
+# Query: ORF_216
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_216	sp|P53740|YN8S_YEAST	100.00	393	0	0	1	393	1	393	0.0	816
+# BLASTP 2.2.31+
+# Query: ORF_217
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_218
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_218	sp|P53745|MNT4_YEAST	100.00	170	0	0	1	170	411	580	1e-123	359
+# BLASTP 2.2.31+
+# Query: ORF_219
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_219	sp|P53756|PDR18_YEAST	100.00	77	0	0	1	77	1257	1333	3e-52	171
+# BLASTP 2.2.31+
+# Query: ORF_220
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_220	sp|P52924|COS10_YEAST	100.00	374	0	0	1	374	1	374	0.0	773
+# BLASTP 2.2.31+
+# Query: ORF_221
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_221	sp|P52923|AIF1_YEAST	100.00	378	0	0	1	378	1	378	0.0	763
+# BLASTP 2.2.31+
+# Query: ORF_222
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_222	sp|P53755|BSC5_YEAST	100.00	371	0	0	1	371	119	489	0.0	770
+# BLASTP 2.2.31+
+# Query: ORF_223
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_223	sp|P53751|YN94_YEAST	100.00	450	0	0	1	450	667	1116	0.0	936
+# BLASTP 2.2.31+
+# Query: ORF_224
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_225
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_225	sp|P53744|BIO5_YEAST	100.00	531	0	0	1	531	31	561	0.0	1077
+# BLASTP 2.2.31+
+# Query: ORF_226
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_226	sp|P53389|HOL1_YEAST	100.00	517	0	0	1	517	70	586	0.0	1061
+# BLASTP 2.2.31+
+# Query: ORF_227
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_227	sp|P53743|ESF2_YEAST	100.00	82	0	0	1	82	235	316	5e-54	168
+# BLASTP 2.2.31+
+# Query: ORF_228
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_228	sp|P53742|NOG2_YEAST	99.14	232	2	0	1	232	41	272	4e-170	477
+# BLASTP 2.2.31+
+# Query: ORF_229
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_229	sp|P53741|BRE5_YEAST	100.00	415	0	0	1	415	101	515	0.0	838
+# BLASTP 2.2.31+
+# Query: ORF_230
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_231
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_231	sp|P32378|COQ2_YEAST	100.00	372	0	0	1	372	1	372	0.0	749
+# BLASTP 2.2.31+
+# Query: ORF_232
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_232	sp|P11655|SEC12_YEAST	100.00	92	0	0	1	92	380	471	1e-61	192
+# BLASTP 2.2.31+
+# Query: ORF_233
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_234
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_234	sp|P27514|PHO91_YEAST	100.00	148	0	0	1	148	747	894	3e-96	294
+# BLASTP 2.2.31+
+# Query: ORF_235
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_235	sp|P40344|ATG3_YEAST	100.00	148	0	0	1	148	163	310	6e-108	308
+# BLASTP 2.2.31+
+# Query: ORF_236
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_236	sp|P32907|ATO2_YEAST	100.00	282	0	0	1	282	1	282	0.0	574
+# BLASTP 2.2.31+
+# Query: ORF_237
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_237	sp|P53983|ASI3_YEAST	100.00	80	0	0	1	80	597	676	6e-53	171
+# BLASTP 2.2.31+
+# Query: ORF_238
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_239
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_239	sp|P53976|YNB8_YEAST	100.00	214	0	0	1	214	399	612	5e-158	450
+# BLASTP 2.2.31+
+# Query: ORF_240
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_240	sp|P53975|YNB9_YEAST	100.00	119	0	0	1	119	166	284	2e-84	247
+# BLASTP 2.2.31+
+# Query: ORF_241
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_241	sp|P53971|FAP1_YEAST	100.00	730	0	0	1	730	236	965	0.0	1489
+# BLASTP 2.2.31+
+# Query: ORF_242
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_243
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_243	sp|P53966|KTR5_YEAST	100.00	90	0	0	1	90	433	522	2e-61	192
+# BLASTP 2.2.31+
+# Query: ORF_244
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_245
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_246
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_246	sp|P04840|VDAC1_YEAST	100.00	142	0	0	1	142	142	283	4e-102	293
+# BLASTP 2.2.31+
+# Query: ORF_247
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_247	sp|P25491|MAS5_YEAST	100.00	236	0	0	1	236	174	409	1e-173	483
+# BLASTP 2.2.31+
+# Query: ORF_248
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_248	sp|P41813|FKH2_YEAST	100.00	733	0	0	1	733	130	862	0.0	1489
+# BLASTP 2.2.31+
+# Query: ORF_249
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_250
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_251
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_252
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_252	sp|P06208|LEU1_YEAST	100.00	450	0	0	1	450	170	619	0.0	936
+# BLASTP 2.2.31+
+# Query: ORF_253
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_253	sp|P50942|INP52_YEAST	100.00	260	0	0	1	260	924	1183	4e-176	516
+# BLASTP 2.2.31+
+# Query: ORF_254
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_255
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_255	sp|P53918|ESBP6_YEAST	100.00	673	0	0	1	673	1	673	0.0	1391
+# BLASTP 2.2.31+
+# Query: ORF_256
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_257
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_257	sp|P20081|FKBP_YEAST	100.00	114	0	0	1	114	1	114	2e-80	230
+# BLASTP 2.2.31+
+# Query: ORF_258
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_259
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_259	sp|P53910|YNO0_YEAST	100.00	140	0	0	1	140	50	189	1e-99	283
+# BLASTP 2.2.31+
+# Query: ORF_260
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_260	sp|P53907|YNO4_YEAST	100.00	733	0	0	1	733	8	740	0.0	1519
+# BLASTP 2.2.31+
+# Query: ORF_261
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_261	sp|P53903|PGA2_YEAST	100.00	129	0	0	1	129	1	129	1e-91	260
+# BLASTP 2.2.31+
+# Query: ORF_262
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_263
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_263	sp|P53898|NSG2_YEAST	100.00	299	0	0	1	299	1	299	0.0	614
+# BLASTP 2.2.31+
+# Query: ORF_264
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_264	sp|P53893|RIA1_YEAST	100.00	484	0	0	1	484	627	1110	0.0	1002
+# BLASTP 2.2.31+
+# Query: ORF_265
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_265	sp|P53892|IBD2_YEAST	100.00	174	0	0	1	174	178	351	4e-133	375
+# BLASTP 2.2.31+
+# Query: ORF_266
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_266	sp|P39006|PSD1_YEAST	100.00	497	0	0	1	497	4	500	0.0	1036
+# BLASTP 2.2.31+
+# Query: ORF_267
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_267	sp|P53885|MDG1_YEAST	100.00	366	0	0	1	366	1	366	0.0	730
+# BLASTP 2.2.31+
+# Query: ORF_268
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_268	sp|P53881|RM22_YEAST	100.00	136	0	0	1	136	174	309	3e-98	283
+# BLASTP 2.2.31+
+# Query: ORF_269
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_269	sp|P53879|RHO5_YEAST	100.00	331	0	0	1	331	1	331	0.0	687
+# BLASTP 2.2.31+
+# Query: ORF_270
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_270	sp|P53875|RM19_YEAST	100.00	158	0	0	1	158	1	158	7e-113	316
+# BLASTP 2.2.31+
+# Query: ORF_271
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_272
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_273
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_273	sp|P40168|YNT5_YEAST	100.00	243	0	0	1	243	19	261	0.0	509
+# BLASTP 2.2.31+
+# Query: ORF_274
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_274	sp|P40167|SLZ1_YEAST	100.00	119	0	0	1	119	180	298	3e-88	257
+# BLASTP 2.2.31+
+# Query: ORF_275
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_275	sp|P34761|WHI3_YEAST	100.00	319	0	0	1	319	343	661	0.0	643
+# BLASTP 2.2.31+
+# Query: ORF_276
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_276	sp|Q01722|GCR2_YEAST	100.00	141	0	0	1	141	394	534	2e-99	294
+# BLASTP 2.2.31+
+# Query: ORF_277
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_278
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_279
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_279	sp|P41812|POP1_YEAST	100.00	156	0	0	1	156	720	875	1e-111	335
+# BLASTP 2.2.31+
+# Query: ORF_280
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_280	sp|P23202|URE2_YEAST	100.00	94	0	0	1	94	261	354	2e-66	201
+# BLASTP 2.2.31+
+# Query: ORF_281
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_281	sp|P53860|PDR16_YEAST	100.00	242	0	0	1	242	110	351	2e-180	499
+# BLASTP 2.2.31+
+# Query: ORF_282
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_283
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_284
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_285
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_286
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_287
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_287	sp|Q01080|RPA49_YEAST	100.00	79	0	0	1	79	337	415	6e-52	165
+# BLASTP 2.2.31+
+# Query: ORF_288
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_288	sp|P53839|GOR1_YEAST	100.00	350	0	0	1	350	1	350	0.0	721
+# BLASTP 2.2.31+
+# Query: ORF_289
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_290
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_290	sp|Q12391|YN11A_YEAST	100.00	440	0	0	1	440	1	440	0.0	916
+# BLASTP 2.2.31+
+# Query: ORF_291
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_292
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_293
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_293	sp|P48565|PALH_YEAST	100.00	253	0	0	1	253	281	533	0.0	523
+# BLASTP 2.2.31+
+# Query: ORF_294
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_294	sp|P07281|RS19B_YEAST	100.00	100	0	0	1	100	45	144	2e-70	205
+# BLASTP 2.2.31+
+# Query: ORF_295
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_296
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_296	sp|P42842|EMW1_YEAST	100.00	192	0	0	1	192	713	904	2e-137	405
+# BLASTP 2.2.31+
+# Query: ORF_297
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_297	sp|P32452|PHA2_YEAST	100.00	334	0	0	1	334	1	334	0.0	700
+# BLASTP 2.2.31+
+# Query: ORF_298
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_299
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_299	sp|P33760|PEX6_YEAST	100.00	227	0	0	1	227	804	1030	1e-160	470
+# BLASTP 2.2.31+
+# Query: ORF_300
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_300	sp|P42884|AAD14_YEAST	100.00	376	0	0	1	376	1	376	0.0	779
+# BLASTP 2.2.31+
+# Query: ORF_301
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_301	sp|P53819|YRF16_YEAST	100.00	140	0	0	1	140	1720	1859	3e-95	298
+# BLASTP 2.2.31+
+# Query: ORF_302
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_302	sp|P53757|YN9A_YEAST	100.00	284	0	0	1	284	59	342	0.0	592
+# BLASTP 2.2.31+
+# Query: ORF_303
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_303	sp|P53753|ENG1_YEAST	100.00	88	0	0	1	88	1030	1117	1e-56	184
+# BLASTP 2.2.31+
+# Query: ORF_304
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_304	sp|P53742|NOG2_YEAST	100.00	128	0	0	1	128	359	486	3e-89	265
+# BLASTP 2.2.31+
+# Query: ORF_305
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_306
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_306	sp|P53731|ARPC2_YEAST	100.00	342	0	0	1	342	1	342	0.0	705
+# BLASTP 2.2.31+
+# Query: ORF_307
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_308
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_309
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_310
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_310	sp|Q00955|ACAC_YEAST	100.00	778	0	0	1	778	1456	2233	0.0	1620
+# BLASTP 2.2.31+
+# Query: ORF_311
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_311	sp|P20095|PRP2_YEAST	100.00	115	0	0	1	115	762	876	3e-79	246
+# BLASTP 2.2.31+
+# Query: ORF_312
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_313
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_313	sp|P53972|RCM1_YEAST	100.00	100	0	0	1	100	391	490	3e-68	210
+# BLASTP 2.2.31+
+# Query: ORF_314
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_314	sp|P53970|EFM6_YEAST	100.00	246	0	0	1	246	1	246	0.0	501
+# BLASTP 2.2.31+
+# Query: ORF_315
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_315	sp|P53962|YND5_YEAST	100.00	328	0	0	1	328	62	389	0.0	683
+# BLASTP 2.2.31+
+# Query: ORF_316
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_316	sp|P28834|IDH1_YEAST	100.00	129	0	0	1	129	232	360	1e-90	265
+# BLASTP 2.2.31+
+# Query: ORF_317
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_317	sp|P53955|SLM2_YEAST	100.00	656	0	0	1	656	1	656	0.0	1345
+# BLASTP 2.2.31+
+# Query: ORF_318
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_318	sp|P53946|ARP5_YEAST	100.00	92	0	0	1	92	664	755	1e-60	193
+# BLASTP 2.2.31+
+# Query: ORF_319
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_320
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_321
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_322
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_322	sp|P32047|MLF3_YEAST	100.00	452	0	0	1	452	1	452	0.0	899
+# BLASTP 2.2.31+
+# Query: ORF_323
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_324
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_324	sp|P53938|EOS1_YEAST	100.00	366	0	0	1	366	1	366	0.0	754
+# BLASTP 2.2.31+
+# Query: ORF_325
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_325	sp|P53937|SWS2_YEAST	100.00	143	0	0	1	143	1	143	5e-106	297
+# BLASTP 2.2.31+
+# Query: ORF_326
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_327
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_328
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_329
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_329	sp|P53929|YNK8_YEAST	100.00	270	0	0	1	270	1	270	0.0	558
+# BLASTP 2.2.31+
+# Query: ORF_330
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_331
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_331	sp|P53925|YNL5_YEAST	100.00	244	0	0	1	244	401	644	2e-177	502
+# BLASTP 2.2.31+
+# Query: ORF_332
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_333
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_334
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_334	sp|P53912|YNN4_YEAST	100.00	376	0	0	1	376	1	376	0.0	769
+# BLASTP 2.2.31+
+# Query: ORF_335
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_335	sp|P23292|KC12_YEAST	100.00	187	0	0	1	187	360	546	3e-130	375
+# BLASTP 2.2.31+
+# Query: ORF_336
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_337
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_337	sp|P53890|BNI5_YEAST	100.00	427	0	0	1	427	22	448	0.0	879
+# BLASTP 2.2.31+
+# Query: ORF_338
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_338	sp|P53877|IPI3_YEAST	100.00	126	0	0	1	126	430	555	8e-88	264
+# BLASTP 2.2.31+
+# Query: ORF_339
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_339	sp|P22211|NPR1_YEAST	100.00	790	0	0	1	790	1	790	0.0	1615
+# BLASTP 2.2.31+
+# Query: ORF_340
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_341
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_341	sp|P40169|YNT4_YEAST	100.00	92	0	0	1	92	210	301	1e-63	192
+# BLASTP 2.2.31+
+# Query: ORF_342
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_343
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_343	sp|P40165|NNRE_YEAST	100.00	98	0	0	1	98	149	246	8e-69	204
+# BLASTP 2.2.31+
+# Query: ORF_344
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_345
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_346
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_347
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_347	sp|P53868|ALG9_YEAST	100.00	193	0	0	1	193	363	555	3e-142	407
+# BLASTP 2.2.31+
+# Query: ORF_348
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_349
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_350
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_351
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_352
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_352	sp|P53854|CWC25_YEAST	100.00	101	0	0	1	101	79	179	6e-68	200
+# BLASTP 2.2.31+
+# Query: ORF_353
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_353	sp|P53617|NRD1_YEAST	100.00	99	0	0	1	99	477	575	2e-62	196
+# BLASTP 2.2.31+
+# Query: ORF_354
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_354	sp|P53850|RTC4_YEAST	100.00	214	0	0	1	214	188	401	3e-162	453
+# BLASTP 2.2.31+
+# Query: ORF_355
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_355	sp|P53849|GIS2_YEAST	100.00	114	0	0	1	114	40	153	4e-82	236
+# BLASTP 2.2.31+
+# Query: ORF_356
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_356	sp|P53845|YIF1_YEAST	100.00	314	0	0	1	314	1	314	0.0	641
+# BLASTP 2.2.31+
+# Query: ORF_357
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_358
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_358	sp|P38971|ALP1_YEAST	100.00	497	0	0	1	497	77	573	0.0	1001
+# BLASTP 2.2.31+
+# Query: ORF_359
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_359	sp|P53832|WSC2_YEAST	100.00	392	0	0	1	392	112	503	0.0	732
+# BLASTP 2.2.31+
+# Query: ORF_360
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_361
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_362
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_362	sp|P41821|MID1_YEAST	100.00	501	0	0	1	501	48	548	0.0	1027
+# BLASTP 2.2.31+
+# Query: ORF_363
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_364
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_364	sp|P21965|MCK1_YEAST	100.00	375	0	0	1	375	1	375	0.0	779
+# BLASTP 2.2.31+
+# Query: ORF_365
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_365	sp|P42844|ZIM17_YEAST	100.00	174	0	0	32	205	1	174	4e-131	365
+# BLASTP 2.2.31+
+# Query: ORF_366
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_367
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_367	sp|P32453|ATP11_YEAST	100.00	151	0	0	1	151	168	318	7e-112	319
+# BLASTP 2.2.31+
+# Query: ORF_368
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_369
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_369	sp|P42836|PFA3_YEAST	100.00	336	0	0	1	336	1	336	0.0	702
+# BLASTP 2.2.31+
+# Query: ORF_370
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_370	sp|P42834|MDJ2_YEAST	100.00	134	0	0	1	134	13	146	2e-96	273
+# BLASTP 2.2.31+
+# Query: ORF_371
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_371	sp|P32561|RPD3_YEAST	100.00	306	0	0	1	306	128	433	0.0	637
+# BLASTP 2.2.31+
+# Query: ORF_372
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_372	sp|P53823|SNO2_YEAST	100.00	222	0	0	1	222	1	222	2e-169	465
+# BLASTP 2.2.31+
+# Query: ORF_373
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_373	sp|P0CX09|YN073_YEAST	100.00	266	0	0	1	266	237	502	0.0	553
+# BLASTP 2.2.31+
+# Query: ORF_374
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_375
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_375	sp|P53750|YN93_YEAST	100.00	191	0	0	1	191	100	290	1e-141	395
+# BLASTP 2.2.31+
+# Query: ORF_376
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_376	sp|P53748|YN91_YEAST	100.00	203	0	0	1	203	125	327	3e-146	409
+# BLASTP 2.2.31+
+# Query: ORF_377
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_377	sp|P53747|YN8Z_YEAST	100.00	149	0	0	1	149	71	219	1e-107	305
+# BLASTP 2.2.31+
+# Query: ORF_378
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_379
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_379	sp|P53630|BIOD_YEAST	100.00	149	0	0	1	149	89	237	3e-109	309
+# BLASTP 2.2.31+
+# Query: ORF_380
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_380	sp|P39008|POP2_YEAST	100.00	111	0	0	1	111	323	433	5e-77	232
+# BLASTP 2.2.31+
+# Query: ORF_381
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_381	sp|P38999|LYS9_YEAST	100.00	91	0	0	1	91	356	446	9e-60	186
+# BLASTP 2.2.31+
+# Query: ORF_382
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_383
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_383	sp|P53735|ZRG17_YEAST	100.00	605	0	0	1	605	1	605	0.0	1235
+# BLASTP 2.2.31+
+# Query: ORF_384
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_384	sp|P53599|SSK2_YEAST	100.00	122	0	0	1	122	1458	1579	3e-84	265
+# BLASTP 2.2.31+
+# Query: ORF_385
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_385	sp|P53729|YN8H_YEAST	100.00	80	0	0	1	80	350	429	2e-51	163
+# BLASTP 2.2.31+
+# Query: ORF_386
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_386	sp|P53724|RM50_YEAST	100.00	139	0	0	1	139	1	139	5e-101	285
+# BLASTP 2.2.31+
+# Query: ORF_387
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_387	sp|P53722|ATP23_YEAST	100.00	227	0	0	1	227	1	227	3e-173	475
+# BLASTP 2.2.31+
+# Query: ORF_388
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_389
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_390
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_390	sp|P32910|RPC6_YEAST	100.00	232	0	0	1	232	86	317	4e-177	488
+# BLASTP 2.2.31+
+# Query: ORF_391
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_391	sp|P00890|CISY1_YEAST	100.00	214	0	0	1	214	266	479	6e-157	442
+# BLASTP 2.2.31+
+# Query: ORF_392
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_392	sp|P38921|PET8_YEAST	100.00	126	0	0	1	126	159	284	2e-90	262
+# BLASTP 2.2.31+
+# Query: ORF_393
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_394
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_395
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_395	sp|P25294|SIS1_YEAST	100.00	352	0	0	1	352	1	352	0.0	705
+# BLASTP 2.2.31+
+# Query: ORF_396
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_397
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_398
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_398	sp|P53974|ARK1_YEAST	100.00	77	0	0	1	77	562	638	2e-46	152
+# BLASTP 2.2.31+
+# Query: ORF_399
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_399	sp|P61830|H3_YEAST	100.00	136	0	0	1	136	1	136	2e-95	270
+# BLASTP 2.2.31+
+# Query: ORF_400
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_401
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_402
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_402	sp|P53953|SFB2_YEAST	100.00	207	0	0	1	207	670	876	7e-146	426
+# BLASTP 2.2.31+
+# Query: ORF_403
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_403	sp|P53947|YNF8_YEAST	100.00	316	0	0	1	316	1	316	0.0	644
+# BLASTP 2.2.31+
+# Query: ORF_404
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_404	sp|P41814|TRM6_YEAST	100.00	116	0	0	1	116	363	478	5e-83	249
+# BLASTP 2.2.31+
+# Query: ORF_405
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_405	sp|P26785|RL16B_YEAST	100.00	113	0	0	1	113	86	198	7e-77	224
+# BLASTP 2.2.31+
+# Query: ORF_406
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_407
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_408
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_408	sp|P17536|TPM1_YEAST	100.00	199	0	0	1	199	1	199	7e-132	368
+# BLASTP 2.2.31+
+# Query: ORF_409
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_410
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_410	sp|P53932|YNJ5_YEAST	100.00	182	0	0	1	182	461	642	2e-130	379
+# BLASTP 2.2.31+
+# Query: ORF_411
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_411	sp|P01120|RAS2_YEAST	100.00	110	0	0	1	110	213	322	1e-70	212
+# BLASTP 2.2.31+
+# Query: ORF_412
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_412	sp|P50946|OCA1_YEAST	100.00	238	0	0	1	238	1	238	5e-178	488
+# BLASTP 2.2.31+
+# Query: ORF_413
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_413	sp|P40312|CYB5_YEAST	100.00	76	0	0	1	76	45	120	3e-49	149
+# BLASTP 2.2.31+
+# Query: ORF_414
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_415
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_415	sp|P53552|THO2_YEAST	100.00	260	0	0	1	260	1338	1597	0.0	544
+# BLASTP 2.2.31+
+# Query: ORF_416
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_417
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_417	sp|P17890|RPC7_YEAST	100.00	78	0	0	1	78	174	251	3e-45	143
+# BLASTP 2.2.31+
+# Query: ORF_418
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_418	sp|P53900|PFD4_YEAST	100.00	100	0	0	1	100	30	129	2e-66	194
+# BLASTP 2.2.31+
+# Query: ORF_419
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_420
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_421
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_421	sp|P53895|ASI2_YEAST	100.00	82	0	0	1	82	208	289	3e-55	170
+# BLASTP 2.2.31+
+# Query: ORF_422
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_422	sp|P53889|FMP41_YEAST	100.00	112	0	0	1	112	148	259	3e-81	237
+# BLASTP 2.2.31+
+# Query: ORF_423
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_424
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_425
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_425	sp|P53883|NOP13_YEAST	100.00	92	0	0	1	92	312	403	6e-60	186
+# BLASTP 2.2.31+
+# Query: ORF_426
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_426	sp|P53882|TDA7_YEAST	100.00	636	0	0	1	636	1	636	0.0	1211
+# BLASTP 2.2.31+
+# Query: ORF_427
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_428
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_429
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_429	sp|P53876|YNS4_YEAST	100.00	108	0	0	1	108	1	108	4e-77	221
+# BLASTP 2.2.31+
+# Query: ORF_430
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_431
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_432
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_432	sp|P32572|SPS18_YEAST	100.00	167	0	0	1	167	134	300	3e-123	348
+# BLASTP 2.2.31+
+# Query: ORF_433
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_433	sp|P40161|RT106_YEAST	100.00	148	0	0	1	148	308	455	5e-97	286
+# BLASTP 2.2.31+
+# Query: ORF_434
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_435
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_435	sp|P53863|JJJ1_YEAST	100.00	153	0	0	1	153	438	590	1e-102	304
+# BLASTP 2.2.31+
+# Query: ORF_436
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_437
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_437	sp|P53583|MPA43_YEAST	100.00	82	0	0	1	82	461	542	2e-52	168
+# BLASTP 2.2.31+
+# Query: ORF_438
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_438	sp|P53844|PDR17_YEAST	100.00	350	0	0	1	350	1	350	0.0	727
+# BLASTP 2.2.31+
+# Query: ORF_439
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_439	sp|P41832|BNI1_YEAST	100.00	95	0	0	1	95	1859	1953	1e-59	194
+# BLASTP 2.2.31+
+# Query: ORF_440
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_441
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_442
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_443
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_444
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_444	sp|P32462|ERG24_YEAST	100.00	157	0	0	1	157	282	438	3e-114	330
+# BLASTP 2.2.31+
+# Query: ORF_445
+# Database: chr14.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_445	sp|P36520|RM10_YEAST	100.00	163	0	0	1	163	160	322	3e-117	333
+# BLASTP 2.2.31+
+# Query: ORF_446
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_447
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_448
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_449
+# Database: chr14.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_450
+# Database: chr14.fasta
+# 0 hits found
+# BLAST processed 451 queries

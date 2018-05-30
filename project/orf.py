@@ -1,6 +1,7 @@
 from Bio.Seq import Seq
 import math
 from collections import Counter
+import matplotlib.pyplot as plt
 
 def parse(genome_file):    
     with open(genome_file, 'r') as g:
@@ -47,7 +48,7 @@ def orfinder(genome_file):
     print(glob_entropy)
 
     scan = []
-    for ind in range (0, genome_length-3,  3):
+    for ind in range (0, genome_length-2,  3):
         codon = seq[ind] + seq[ind+1] + seq[ind+2]
         if codon in (["TAA", "TAG", "TGA"]):
             scan.append("*")
@@ -55,7 +56,7 @@ def orfinder(genome_file):
             scan.append(codon)
     scan.append("*")
 
-    for ind in range (1, genome_length-3,  3):
+    for ind in range (1, genome_length-2,  3):
         codon = seq[ind] + seq[ind+1] + seq[ind+2]
         if codon in (["TAA", "TAG", "TGA"]):
             scan.append("*")
@@ -63,7 +64,7 @@ def orfinder(genome_file):
             scan.append(codon)
     scan.append("*")
 
-    for ind in range (2, genome_length-3,  3):
+    for ind in range (2, genome_length-2,  3):
         codon = seq[ind] + seq[ind+1] + seq[ind+2]
         if codon in (["TAA", "TAG", "TGA"]):
             scan.append("*")
@@ -71,7 +72,7 @@ def orfinder(genome_file):
             scan.append(codon)
     scan.append("*")
 
-    for ind in range (0, genome_length-3,  3):
+    for ind in range (0, genome_length-2,  3):
         codon = revseq[ind] + revseq[ind+1] + revseq[ind+2]
         if codon in (["TAA", "TAG", "TGA"]):
             scan.append("*")
@@ -79,7 +80,7 @@ def orfinder(genome_file):
             scan.append(codon)
     scan.append("*")
 
-    for ind in range (1, genome_length-3,  3):
+    for ind in range (1, genome_length-2,  3):
         codon = revseq[ind] + revseq[ind+1] + revseq[ind+2]
         if codon in (["TAA", "TAG", "TGA"]):
             scan.append("*")
@@ -87,7 +88,7 @@ def orfinder(genome_file):
             scan.append(codon)
     scan.append("*")
 
-    for ind in range (2, genome_length-3,  3):
+    for ind in range (2, genome_length-2,  3):
         codon = revseq[ind] + revseq[ind+1] + revseq[ind+2]
         if codon in (["TAA", "TAG", "TGA"]):
             scan.append("*")
@@ -104,28 +105,35 @@ def orfinder(genome_file):
         segment = segment + frame
 
     orflist = []
-    print(len(seplist))
     for chunk in seplist:
         fraglist = []
         entlist = []
-        for ind in range(0, len(chunk)-3, 3):
-            if chunk[ind] == "A" and chunk[ind+1] == "T" and chunk[ind+2] == "G":
+        for ind in range(1, len(chunk)-2, 3):
+            if chunk[ind] + chunk[ind+1] + chunk[ind+2] == "ATG":
                 frag = chunk[ind:]
-                if len(frag) > 45*3 and len(frag) < 2000*3:
+                if len(frag) > 75*3 and len(frag) < 800*3:
                     fraglist.append(frag)
+
         if len(fraglist) > 0:            
             for gene in fraglist:
-                ent = shannon(gene) - glob_entropy
-                if ent > 0:
-                    entlist.append(ent)
-                else:
-                    entlist.append(ent * -1)
+                ent = shannon(gene)
+                entlist.append(abs(ent))
+        else:
+            continue
 
         entmax = entlist.index(max(entlist))
-        if entlist[entmax] > 0.2:
+        if entlist[entmax] < 4.05 and entlist[entmax] > glob_entropy:
             orflist.append(fraglist[entmax])
-            
-    print(len(orflist))
+
+    print (len(orflist))
+
+
+    with open ("predicted_y14.txt", "w") as wh:
+
+        orflen = len(orflist)
+        for g in range(orflen):
+            wh.write(">ORF_" + str(g) + "\n")
+            wh.write(str(Seq(orflist[g]).translate()) + "\n")       
 
 
 
