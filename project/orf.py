@@ -111,7 +111,7 @@ def orfinder(genome_file):
         for ind in range(1, len(chunk)-2, 3):
             if chunk[ind] + chunk[ind+1] + chunk[ind+2] == "ATG":
                 frag = chunk[ind:]
-                if len(frag) > 75*3 and len(frag) < 800*3:
+                if len(frag) > 75*3 and len(frag) < 800*3 and len(frag)%3 == 0:
                     fraglist.append(frag)
 
         if len(fraglist) > 0:            
@@ -128,12 +128,13 @@ def orfinder(genome_file):
     print (len(orflist))
 
 
-    with open ("predicted_y14.txt", "w") as wh:
+    with open ("predicted_08.txt", "w") as wh:
 
         orflen = len(orflist)
         for g in range(orflen):
             wh.write(">ORF_" + str(g) + "\n")
-            wh.write(str(Seq(orflist[g]).translate()) + "\n")       
+            wh.write(str(Seq(orflist[g]).translate()) + "\n")
+    print(orflist[0])       
 
 
 
@@ -161,6 +162,6 @@ def shannon(gene):
  
 
 if __name__ == "__main__":
-    genome_file = "fullgenomes/34.fa"
+    genome_file = "fullgenomes/08.fa"
     global_probs = stats(genome_file)
     orfinder(genome_file)
