@@ -128,7 +128,7 @@ def orfinder(genome_file):
     print (len(orflist))
 
 
-    with open ("predicted_04_ent.txt", "w") as wh:
+    with open ("predicted_16_ent.txt", "w") as wh:
 
         orflen = len(orflist)
         for g in range(orflen):
@@ -162,6 +162,6 @@ def shannon(gene):
  
 
 if __name__ == "__main__":
-    genome_file = "fullgenomes/04.fa"
+    genome_file = "fullgenomes/16.fa"
     global_probs = stats(genome_file)
     orfinder(genome_file)
