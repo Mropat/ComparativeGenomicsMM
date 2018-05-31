@@ -1,0 +1,9 @@
+*.xml
+p4/genomes/*
+.vscode/*
+genomesr/*
+scripts/*
+venv/*
+.idea/*
+*.tar.gz
+*.gz

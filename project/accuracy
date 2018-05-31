@@ -1,0 +1,19 @@
+
+Unrefined: 
+
+04: 49839 orfs 9130 pos 40709 nrg
+05: 2232 orfs 884 pos 1348 neg
+08: 3560 orfs 1728 pos 1832
+16: 32288 orfs 5937 pos 26351
+34: 1742 orfs 402 pos 1340 neg
+
+After refinement
+
+04: 10245: 3070 pos 7175 neg
+05: 782, 588 pos 194 neg
+08: 1161 hits, 906 pos 255 neg
+16: 7176, 2898 pos 4278 neg
+34: 498, 302 pos 196 neg
+
+
+

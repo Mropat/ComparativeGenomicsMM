@@ -1,0 +1,617 @@
+yourlist:M2017042783C3DD8CE55183C76102DC5D3A26728BCDC1433	isomap:M2017042783C3DD8CE55183C76102DC5D3A26728BCDC1433	Entry	Entry name		Protein names	Gene names	Organism	Length
+ALDH18A1		P54886	P5CS_HUMAN	reviewed	Delta-1-pyrroline-5-carboxylate synthase (P5CS) (Aldehyde dehydrogenase family 18 member A1) [Includes: Glutamate 5-kinase (GK) (EC 2.7.2.11) (Gamma-glutamyl kinase); Gamma-glutamyl phosphate reductase (GPR) (EC 1.2.1.41) (Glutamate-5-semialdehyde dehydrogenase) (Glutamyl-gamma-semialdehyde dehydrogenase)]	ALDH18A1 GSAS P5CS PYCS	Homo sapiens (Human)	795
+ARFGAP1		E5RGL6	E5RGL6_HUMAN	unreviewed	ADP-ribosylation factor GTPase-activating protein 1	ARFGAP1	Homo sapiens (Human)	130
+ARFGAP1		E5RHC5	E5RHC5_HUMAN	unreviewed	ADP-ribosylation factor GTPase-activating protein 1 (Fragment)	ARFGAP1	Homo sapiens (Human)	261
+ARFGAP1		E5RHH7	E5RHH7_HUMAN	unreviewed	ADP-ribosylation factor GTPase-activating protein 1 (Fragment)	ARFGAP1	Homo sapiens (Human)	153
+ARFGAP1		E5RHT6	E5RHT6_HUMAN	unreviewed	ADP-ribosylation factor GTPase-activating protein 1 (Fragment)	ARFGAP1	Homo sapiens (Human)	244
+ARFGAP1		E5RIU2	E5RIU2_HUMAN	unreviewed	ADP-ribosylation factor GTPase-activating protein 1 (Fragment)	ARFGAP1	Homo sapiens (Human)	79
+ARFGAP1		F8VWB3	F8VWB3_HUMAN	unreviewed	ADP-ribosylation factor GTPase-activating protein 1 (Fragment)	ARFGAP1	Homo sapiens (Human)	122
+ARFGAP1		F8VWH9	F8VWH9_HUMAN	unreviewed	ADP-ribosylation factor GTPase-activating protein 1	ARFGAP1	Homo sapiens (Human)	340
+ARFGAP1		F8W1U7	F8W1U7_HUMAN	unreviewed	ADP-ribosylation factor GTPase-activating protein 1 (Fragment)	ARFGAP1	Homo sapiens (Human)	271
+ARFGAP1		H0YIQ0	H0YIQ0_HUMAN	unreviewed	ADP-ribosylation factor GTPase-activating protein 1 (Fragment)	ARFGAP1	Homo sapiens (Human)	104
+ARFGAP1		Q8N6T3	ARFG1_HUMAN	reviewed	ADP-ribosylation factor GTPase-activating protein 1 (ARF GAP 1) (ADP-ribosylation factor 1 GTPase-activating protein) (ARF1 GAP) (ARF1-directed GTPase-activating protein)	ARFGAP1 ARF1GAP	Homo sapiens (Human)	406
+ARFGAP1		Q9NP61	ARFG3_HUMAN	reviewed	ADP-ribosylation factor GTPase-activating protein 3 (ARF GAP 3)	ARFGAP3 ARFGAP1	Homo sapiens (Human)	516
+ASNS		C9J057	C9J057_HUMAN	unreviewed	Asparagine synthetase [glutamine-hydrolyzing] (Fragment)	ASNS	Homo sapiens (Human)	214
+ASNS		C9J605	C9J605_HUMAN	unreviewed	Asparagine synthetase [glutamine-hydrolyzing] (Fragment)	ASNS	Homo sapiens (Human)	32
+ASNS		C9JLA3	C9JLA3_HUMAN	unreviewed	Asparagine synthetase [glutamine-hydrolyzing] (Fragment)	ASNS	Homo sapiens (Human)	28
+ASNS		C9JLN6	C9JLN6_HUMAN	unreviewed	Asparagine synthetase [glutamine-hydrolyzing] (Fragment)	ASNS	Homo sapiens (Human)	63
+ASNS		C9JM09	C9JM09_HUMAN	unreviewed	Asparagine synthetase [glutamine-hydrolyzing] (Fragment)	ASNS	Homo sapiens (Human)	118
+ASNS		C9JT45	C9JT45_HUMAN	unreviewed	Asparagine synthetase [glutamine-hydrolyzing] (Fragment)	ASNS	Homo sapiens (Human)	162
+ASNS		F8WEJ5	F8WEJ5_HUMAN	unreviewed	Asparagine synthetase [glutamine-hydrolyzing]	ASNS	Homo sapiens (Human)	401
+ASNS		P08243	ASNS_HUMAN	reviewed	Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4) (Cell cycle control protein TS11) (Glutamine-dependent asparagine synthetase)	ASNS TS11	Homo sapiens (Human)	561
+ASNS		V9GZN1	V9GZN1_HUMAN	unreviewed	ASNS protein	ASNS	Homo sapiens (Human)	14
+ATF3		A0A0A0MRJ2	A0A0A0MRJ2_HUMAN	unreviewed	Cyclic AMP-dependent transcription factor ATF-3 (Fragment)	ATF3	Homo sapiens (Human)	153
+ATF3		P18847	ATF3_HUMAN	reviewed	Cyclic AMP-dependent transcription factor ATF-3 (cAMP-dependent transcription factor ATF-3) (Activating transcription factor 3)	ATF3	Homo sapiens (Human)	181
+ATF3		Q5VTZ4	Q5VTZ4_HUMAN	unreviewed	Cyclic AMP-dependent transcription factor ATF-3 (Fragment)	ATF3	Homo sapiens (Human)	175
+ATF3		Q7Z567	Q7Z567_HUMAN	unreviewed	Activating transcription factor 3 delta Zip3 (cDNA FLJ57271, highly similar to Cyclic AMP-dependent transcription factorATF-3)	ATF3	Homo sapiens (Human)	120
+ATF4		P18848	ATF4_HUMAN	reviewed	Cyclic AMP-dependent transcription factor ATF-4 (cAMP-dependent transcription factor ATF-4) (Activating transcription factor 4) (Cyclic AMP-responsive element-binding protein 2) (CREB-2) (cAMP-responsive element-binding protein 2) (DNA-binding protein TAXREB67) (Tax-responsive enhancer element-binding protein 67) (TaxREB67)	ATF4 CREB2 TXREB	Homo sapiens (Human)	351
+ATF4		Q6ICP0	Q6ICP0_HUMAN	unreviewed	ATF4 protein (Fragment)	ATF4	Homo sapiens (Human)	351
+ATF4		Q96AQ3	Q96AQ3_HUMAN	unreviewed	ATF4 protein (Activating transcription factor 4 (Tax-responsive enhancer element B67)) (Activating transcription factor 4 (Tax-responsive enhancer element B67), isoform CRA_a)	ATF4 hCG_41721	Homo sapiens (Human)	351
+ATF6		P18850	ATF6A_HUMAN	reviewed	Cyclic AMP-dependent transcription factor ATF-6 alpha (cAMP-dependent transcription factor ATF-6 alpha) (Activating transcription factor 6 alpha) (ATF6-alpha) [Cleaved into: Processed cyclic AMP-dependent transcription factor ATF-6 alpha]	ATF6	Homo sapiens (Human)	670
+ATP6V0D1		C6SUN6	C6SUN6_HUMAN	unreviewed	ATPase H+ transporting V0 subunit D1 (Fragment)	ATP6V0D1	Homo sapiens (Human)	43
+ATP6V0D1		F5GYQ1	F5GYQ1_HUMAN	unreviewed	V-type proton ATPase subunit d 1	ATP6V0D1	Homo sapiens (Human)	392
+ATP6V0D1		F8WEN9	F8WEN9_HUMAN	unreviewed	V-type proton ATPase subunit d 1 (Fragment)	ATP6V0D1	Homo sapiens (Human)	58
+ATP6V0D1		H3BPS0	H3BPS0_HUMAN	unreviewed	V-type proton ATPase subunit d 1 (Fragment)	ATP6V0D1	Homo sapiens (Human)	71
+ATP6V0D1		H3BQB4	H3BQB4_HUMAN	unreviewed	V-type proton ATPase subunit d 1	ATP6V0D1	Homo sapiens (Human)	113
+ATP6V0D1		H3BQJ1	H3BQJ1_HUMAN	unreviewed	V-type proton ATPase subunit d 1 (Fragment)	ATP6V0D1	Homo sapiens (Human)	227
+ATP6V0D1		H3BSG7	H3BSG7_HUMAN	unreviewed	V-type proton ATPase subunit d 1	ATP6V0D1	Homo sapiens (Human)	115
+ATP6V0D1		H3BTB4	H3BTB4_HUMAN	unreviewed	V-type proton ATPase subunit d 1 (Fragment)	ATP6V0D1	Homo sapiens (Human)	40
+ATP6V0D1		H3BTB5	H3BTB5_HUMAN	unreviewed	V-type proton ATPase subunit d 1	ATP6V0D1	Homo sapiens (Human)	57
+ATP6V0D1		H3BUQ0	H3BUQ0_HUMAN	unreviewed	V-type proton ATPase subunit d 1	ATP6V0D1	Homo sapiens (Human)	47
+ATP6V0D1		J3QL14	J3QL14_HUMAN	unreviewed	V-type proton ATPase subunit d 1 (Fragment)	ATP6V0D1	Homo sapiens (Human)	232
+ATP6V0D1		P61421	VA0D1_HUMAN	reviewed	V-type proton ATPase subunit d 1 (V-ATPase subunit d 1) (32 kDa accessory protein) (V-ATPase 40 kDa accessory protein) (V-ATPase AC39 subunit) (p39) (Vacuolar proton pump subunit d 1)	ATP6V0D1 ATP6D VPATPD	Homo sapiens (Human)	351
+ATP6V0D1		R4GN72	R4GN72_HUMAN	unreviewed	V-type proton ATPase subunit d 1	ATP6V0D1	Homo sapiens (Human)	274
+BAG3		C9JFK9	C9JFK9_HUMAN	unreviewed	BAG family molecular chaperone regulator 3 (Fragment)	BAG3	Homo sapiens (Human)	325
+BAG3		O95817	BAG3_HUMAN	reviewed	BAG family molecular chaperone regulator 3 (BAG-3) (Bcl-2-associated athanogene 3) (Bcl-2-binding protein Bis) (Docking protein CAIR-1)	BAG3 BIS	Homo sapiens (Human)	575
+BANF1		A0A024R5H0	A0A024R5H0_HUMAN	unreviewed	Barrier to autointegration factor 1, isoform CRA_a	BANF1 hCG_23287	Homo sapiens (Human)	89
+BANF1		E9PJJ8	E9PJJ8_HUMAN	unreviewed	Barrier-to-autointegration factor (Fragment)	BANF1	Homo sapiens (Human)	28
+BANF1		O75531	BAF_HUMAN	reviewed	Barrier-to-autointegration factor (Breakpoint cluster region protein 1) [Cleaved into: Barrier-to-autointegration factor, N-terminally processed]	BANF1 BAF BCRG1	Homo sapiens (Human)	89
+CALR		A0A0F7W2W6	A0A0F7W2W6_HUMAN	unreviewed	Calreticulin (Fragment)	CALR	Homo sapiens (Human)	55
+CALR		A0A0F7WAP3	A0A0F7WAP3_HUMAN	unreviewed	Calreticulin (Fragment)	CALR	Homo sapiens (Human)	66
+CALR		A0A142IK94	A0A142IK94_HUMAN	unreviewed	Calreticulin (Fragment)	CALR	Homo sapiens (Human)	74
+CALR		A0A142IKA1	A0A142IKA1_HUMAN	unreviewed	Calreticulin (Fragment)	CALR	Homo sapiens (Human)	74
+CALR		A0A142IKA2	A0A142IKA2_HUMAN	unreviewed	Calreticulin (Fragment)	CALR	Homo sapiens (Human)	74
+CALR		K7EJB9	K7EJB9_HUMAN	unreviewed	Calreticulin (Fragment)	CALR	Homo sapiens (Human)	247
+CALR		K7EL50	K7EL50_HUMAN	unreviewed	Calreticulin (Fragment)	CALR	Homo sapiens (Human)	163
+CALR		K7ELE2	K7ELE2_HUMAN	unreviewed	Calreticulin (Fragment)	CALR	Homo sapiens (Human)	13
+CALR		P27797	CALR_HUMAN	reviewed	Calreticulin (CRP55) (Calregulin) (Endoplasmic reticulum resident protein 60) (ERp60) (HACBP) (grp60)	CALR CRTC	Homo sapiens (Human)	417
+CALR		V9HW88	V9HW88_HUMAN	unreviewed	Calreticulin, isoform CRA_b (Epididymis secretory sperm binding protein Li 99n)	HEL-S-99n CALR hCG_172487	Homo sapiens (Human)	417
+CCL2		J3KRT7	J3KRT7_HUMAN	unreviewed	C-C motif chemokine 2 (Chemokine (C-C motif) ligand 2, isoform CRA_a)	CCL2 hCG_29298	Homo sapiens (Human)	65
+CCL2		P13500	CCL2_HUMAN	reviewed	C-C motif chemokine 2 (HC11) (Monocyte chemoattractant protein 1) (Monocyte chemotactic and activating factor) (MCAF) (Monocyte chemotactic protein 1) (MCP-1) (Monocyte secretory protein JE) (Small-inducible cytokine A2)	CCL2 MCP1 SCYA2	Homo sapiens (Human)	99
+CEBPB		P17676	CEBPB_HUMAN	reviewed	CCAAT/enhancer-binding protein beta (C/EBP beta) (Liver activator protein) (LAP) (Liver-enriched inhibitory protein) (LIP) (Nuclear factor NF-IL6) (Transcription factor 5) (TCF-5)	CEBPB TCF5 PP9092	Homo sapiens (Human)	345
+CEBPB		Q9BSC0	Q9BSC0_HUMAN	unreviewed	CEBPB protein (Fragment)	CEBPB	Homo sapiens (Human)	137
+CEBPB		W8SNU6	W8SNU6_HUMAN	unreviewed	Transcription factor C/EBP beta (Fragment)	CEBPB	Homo sapiens (Human)	92
+CEBPB		W8SNV5	W8SNV5_HUMAN	unreviewed	Transcription factor C/EBP beta (Fragment)	CEBPB	Homo sapiens (Human)	92
+CEBPG		P53567	CEBPG_HUMAN	reviewed	CCAAT/enhancer-binding protein gamma (C/EBP gamma)	CEBPG	Homo sapiens (Human)	150
+CHAC1		A0A0C4DGX1	A0A0C4DGX1_HUMAN	unreviewed	Gamma-glutamylcyclotransferase (EC 2.3.2.-)	CHAC1	Homo sapiens (Human)	222
+CHAC1		H0YK90	H0YK90_HUMAN	unreviewed	Glutathione-specific gamma-glutamylcyclotransferase 1	CHAC1	Homo sapiens (Human)	37
+CHAC1		Q9BUX1	CHAC1_HUMAN	reviewed	Glutathione-specific gamma-glutamylcyclotransferase 1 (Gamma-GCG 1) (EC 2.3.2.-) (Blocks Notch protein) (Botch) (Cation transport regulator-like protein 1)	CHAC1 BOTCH	Homo sapiens (Human)	264
+CKS1B		D3DV79	D3DV79_HUMAN	unreviewed	Cyclin-dependent kinases regulatory subunit	CKS1B hCG_1739274	Homo sapiens (Human)	57
+CKS1B		P61024	CKS1_HUMAN	reviewed	Cyclin-dependent kinases regulatory subunit 1 (CKS-1)	CKS1B CKS1 PNAS-143 PNAS-16	Homo sapiens (Human)	79
+CKS1B		Q5T178	Q5T178_HUMAN	unreviewed	Cyclin-dependent kinases regulatory subunit	CKS1B hCG_1739274	Homo sapiens (Human)	79
+CKS1B		Q5T179	Q5T179_HUMAN	unreviewed	Cyclin-dependent kinases regulatory subunit	CKS1B	Homo sapiens (Human)	67
+CKS1B		Q9BZU3	Q9BZU3_HUMAN	unreviewed	Cyclin-dependent kinases regulatory subunit	CKS1B hCG_1739274	Homo sapiens (Human)	63
+CNOT2		A0A024RBD8	A0A024RBD8_HUMAN	unreviewed	CCR4-NOT transcription complex, subunit 2, isoform CRA_c (CCR4-NOT transcription complex, subunit 2, isoform CRA_d)	CNOT2 hCG_25144	Homo sapiens (Human)	540
+CNOT2		A0A087X050	A0A087X050_HUMAN	unreviewed	CCR4-NOT transcription complex subunit 2 (Fragment)	CNOT2	Homo sapiens (Human)	152
+CNOT2		F8VP97	F8VP97_HUMAN	unreviewed	CCR4-NOT transcription complex subunit 2 (Fragment)	CNOT2	Homo sapiens (Human)	321
+CNOT2		F8VPX5	F8VPX5_HUMAN	unreviewed	CCR4-NOT transcription complex subunit 2 (Fragment)	CNOT2	Homo sapiens (Human)	25
+CNOT2		F8VQD8	F8VQD8_HUMAN	unreviewed	CCR4-NOT transcription complex subunit 2 (Fragment)	CNOT2	Homo sapiens (Human)	131
+CNOT2		F8VQF4	F8VQF4_HUMAN	unreviewed	CCR4-NOT transcription complex subunit 2 (Fragment)	CNOT2	Homo sapiens (Human)	144
+CNOT2		F8VRJ3	F8VRJ3_HUMAN	unreviewed	CCR4-NOT transcription complex subunit 2 (Fragment)	CNOT2	Homo sapiens (Human)	68
+CNOT2		F8VRS8	F8VRS8_HUMAN	unreviewed	CCR4-NOT transcription complex subunit 2 (Fragment)	CNOT2	Homo sapiens (Human)	276
+CNOT2		F8VS14	F8VS14_HUMAN	unreviewed	CCR4-NOT transcription complex subunit 2	CNOT2	Homo sapiens (Human)	54
+CNOT2		F8VSK9	F8VSK9_HUMAN	unreviewed	CCR4-NOT transcription complex subunit 2	CNOT2	Homo sapiens (Human)	36
+CNOT2		F8VUB4	F8VUB4_HUMAN	unreviewed	CCR4-NOT transcription complex subunit 2 (Fragment)	CNOT2	Homo sapiens (Human)	196
+CNOT2		F8VV05	F8VV05_HUMAN	unreviewed	CCR4-NOT transcription complex subunit 2	CNOT2	Homo sapiens (Human)	76
+CNOT2		F8VV52	F8VV52_HUMAN	unreviewed	CCR4-NOT transcription complex subunit 2 (Fragment)	CNOT2	Homo sapiens (Human)	531
+CNOT2		F8VVD4	F8VVD4_HUMAN	unreviewed	CCR4-NOT transcription complex subunit 2	CNOT2	Homo sapiens (Human)	62
+CNOT2		F8VVY1	F8VVY1_HUMAN	unreviewed	CCR4-NOT transcription complex subunit 2 (Fragment)	CNOT2	Homo sapiens (Human)	182
+CNOT2		F8VWH8	F8VWH8_HUMAN	unreviewed	CCR4-NOT transcription complex subunit 2 (Fragment)	CNOT2	Homo sapiens (Human)	81
+CNOT2		F8VX63	F8VX63_HUMAN	unreviewed	CCR4-NOT transcription complex subunit 2 (Fragment)	CNOT2	Homo sapiens (Human)	217
+CNOT2		F8W145	F8W145_HUMAN	unreviewed	CCR4-NOT transcription complex subunit 2 (Fragment)	CNOT2	Homo sapiens (Human)	309
+CNOT2		H0YH84	H0YH84_HUMAN	unreviewed	CCR4-NOT transcription complex subunit 2 (Fragment)	CNOT2	Homo sapiens (Human)	186
+CNOT2		H0YHT6	H0YHT6_HUMAN	unreviewed	CCR4-NOT transcription complex subunit 2 (Fragment)	CNOT2	Homo sapiens (Human)	104
+CNOT2		H0YHT8	H0YHT8_HUMAN	unreviewed	CCR4-NOT transcription complex subunit 2 (Fragment)	CNOT2	Homo sapiens (Human)	46
+CNOT2		H0YI11	H0YI11_HUMAN	unreviewed	CCR4-NOT transcription complex subunit 2 (Fragment)	CNOT2	Homo sapiens (Human)	182
+CNOT2		H0YI80	H0YI80_HUMAN	unreviewed	CCR4-NOT transcription complex subunit 2 (Fragment)	CNOT2	Homo sapiens (Human)	99
+CNOT2		Q9NZN8	CNOT2_HUMAN	reviewed	CCR4-NOT transcription complex subunit 2 (CCR4-associated factor 2)	CNOT2 CDC36 NOT2 HSPC131 MSTP046	Homo sapiens (Human)	540
+CNOT4		A0A024R776	A0A024R776_HUMAN	unreviewed	CCR4-NOT transcription complex, subunit 4, isoform CRA_a	CNOT4 hCG_19348	Homo sapiens (Human)	572
+CNOT4		A0A024R781	A0A024R781_HUMAN	unreviewed	CCR4-NOT transcription complex, subunit 4, isoform CRA_b	CNOT4 hCG_19348	Homo sapiens (Human)	642
+CNOT4		A0A024R785	A0A024R785_HUMAN	unreviewed	CCR4-NOT transcription complex, subunit 4, isoform CRA_c	CNOT4 hCG_19348	Homo sapiens (Human)	575
+CNOT4		A0A0A0MRD2	A0A0A0MRD2_HUMAN	unreviewed	CCR4-NOT transcription complex subunit 4	CNOT4	Homo sapiens (Human)	175
+CNOT4		O95628	CNOT4_HUMAN	reviewed	CCR4-NOT transcription complex subunit 4 (EC 2.3.2.27) (CCR4-associated factor 4) (E3 ubiquitin-protein ligase CNOT4) (Potential transcriptional repressor NOT4Hp) (RING-type E3 ubiquitin transferase CNOT4)	CNOT4 NOT4	Homo sapiens (Human)	575
+CNOT6		D6R9H6	D6R9H6_HUMAN	unreviewed	CCR4-NOT transcription complex subunit 6 (Fragment)	CNOT6	Homo sapiens (Human)	234
+CNOT6		Q8TAJ0	Q8TAJ0_HUMAN	unreviewed	CNOT6 protein (cDNA, FLJ95618)	CNOT6	Homo sapiens (Human)	92
+CNOT6		Q9ULM6	CNOT6_HUMAN	reviewed	CCR4-NOT transcription complex subunit 6 (EC 3.1.13.4) (CCR4 carbon catabolite repression 4-like) (Carbon catabolite repressor protein 4 homolog) (Cytoplasmic deadenylase)	CNOT6 CCR4 CCR4a KIAA1194	Homo sapiens (Human)	557
+CXXC1		K7EJR0	K7EJR0_HUMAN	unreviewed	CXXC-type zinc finger protein 1 (Fragment)	CXXC1	Homo sapiens (Human)	231
+CXXC1		K7EKZ6	K7EKZ6_HUMAN	unreviewed	CXXC-type zinc finger protein 1 (Fragment)	CXXC1	Homo sapiens (Human)	250
+CXXC1		K7EQ21	K7EQ21_HUMAN	unreviewed	CXXC finger 1 (PHD domain), isoform CRA_c (CXXC-type zinc finger protein 1)	CXXC1 hCG_23689	Homo sapiens (Human)	613
+CXXC1		K7EQZ1	K7EQZ1_HUMAN	unreviewed	CXXC-type zinc finger protein 1 (Fragment)	CXXC1	Homo sapiens (Human)	252
+CXXC1		Q9P0U4	CXXC1_HUMAN	reviewed	CXXC-type zinc finger protein 1 (CpG-binding protein) (PHD finger and CXXC domain-containing protein 1)	CXXC1 CFP1 CGBP PCCX1 PHF18	Homo sapiens (Human)	656
+DCP1A		A0A087WT55	A0A087WT55_HUMAN	unreviewed	mRNA-decapping enzyme 1A (Fragment)	DCP1A	Homo sapiens (Human)	260
+DCP1A		A0A087WVE6	A0A087WVE6_HUMAN	unreviewed	mRNA-decapping enzyme 1A (Fragment)	DCP1A	Homo sapiens (Human)	191
+DCP1A		A0A087WXD0	A0A087WXD0_HUMAN	unreviewed	mRNA-decapping enzyme 1A	DCP1A	Homo sapiens (Human)	102
+DCP1A		A0A0S2Z5I2	A0A0S2Z5I2_HUMAN	unreviewed	DCP1 decapping enzyme-like protein A isoform 4 (Fragment)	DCP1A	Homo sapiens (Human)	307
+DCP1A		A0A0S2Z5K3	A0A0S2Z5K3_HUMAN	unreviewed	DCP1 decapping enzyme-like protein A isoform 3 (Fragment)	DCP1A	Homo sapiens (Human)	546
+DCP1A		A0A0S2Z5R3	A0A0S2Z5R3_HUMAN	unreviewed	DCP1 decapping enzyme-like protein A isoform 1 (Fragment)	DCP1A	Homo sapiens (Human)	582
+DCP1A		Q9NPI6	DCP1A_HUMAN	reviewed	mRNA-decapping enzyme 1A (EC 3.-.-.-) (Smad4-interacting transcriptional co-activator) (Transcription factor SMIF)	DCP1A SMIF	Homo sapiens (Human)	582
+DCP2		D6RCL0	D6RCL0_HUMAN	unreviewed	m7GpppN-mRNA hydrolase	DCP2	Homo sapiens (Human)	74
+DCP2		H0Y9T5	H0Y9T5_HUMAN	unreviewed	m7GpppN-mRNA hydrolase (Fragment)	DCP2	Homo sapiens (Human)	402
+DCP2		Q8IU60	DCP2_HUMAN	reviewed	m7GpppN-mRNA hydrolase (EC 3.6.1.62) (Nucleoside diphosphate-linked moiety X motif 20) (Nudix motif 20) (mRNA-decapping enzyme 2) (hDpc)	DCP2 NUDT20	Homo sapiens (Human)	420
+DCTN1		C9J1B7	C9J1B7_HUMAN	unreviewed	Dynactin subunit 1 (Fragment)	DCTN1	Homo sapiens (Human)	64
+DCTN1		C9JJD0	C9JJD0_HUMAN	unreviewed	Dynactin subunit 1 (Fragment)	DCTN1	Homo sapiens (Human)	121
+DCTN1		C9JJN7	C9JJN7_HUMAN	unreviewed	Dynactin subunit 1 (Fragment)	DCTN1	Homo sapiens (Human)	87
+DCTN1		C9JKG6	C9JKG6_HUMAN	unreviewed	Dynactin subunit 1 (Fragment)	DCTN1	Homo sapiens (Human)	135
+DCTN1		C9JTE5	C9JTE5_HUMAN	unreviewed	Dynactin subunit 1 (Fragment)	DCTN1	Homo sapiens (Human)	76
+DCTN1		C9JUI8	C9JUI8_HUMAN	unreviewed	Dynactin subunit 1 (Fragment)	DCTN1	Homo sapiens (Human)	13
+DCTN1		C9JZA4	C9JZA4_HUMAN	unreviewed	Dynactin subunit 1 (Fragment)	DCTN1	Homo sapiens (Human)	76
+DCTN1		E7EX90	E7EX90_HUMAN	unreviewed	Dynactin subunit 1	DCTN1	Homo sapiens (Human)	1256
+DCTN1		E9PCY0	E9PCY0_HUMAN	unreviewed	Dynactin subunit 1 (Fragment)	DCTN1	Homo sapiens (Human)	186
+DCTN1		L8EA71	L8EA71_HUMAN	unreviewed	Alternative protein DCTN1	DCTN1	Homo sapiens (Human)	65
+DCTN1		Q14203	DCTN1_HUMAN	reviewed	Dynactin subunit 1 (150 kDa dynein-associated polypeptide) (DAP-150) (DP-150) (p135) (p150-glued)	DCTN1	Homo sapiens (Human)	1278
+DCTN1		Q6AWB1	Q6AWB1_HUMAN	unreviewed	Dynactin subunit 1 (Putative uncharacterized protein DKFZp686E0752)	DKFZp686E0752 DCTN1	Homo sapiens (Human)	890
+DDIT4		A0A024QZQ6	A0A024QZQ6_HUMAN	unreviewed	DNA-damage-inducible transcript 4, isoform CRA_a	DDIT4 hCG_2024489	Homo sapiens (Human)	232
+DDIT4		Q9NX09	DDIT4_HUMAN	reviewed	DNA damage-inducible transcript 4 protein (HIF-1 responsive protein RTP801) (Protein regulated in development and DNA damage response 1) (REDD-1)	DDIT4 REDD1 RTP801	Homo sapiens (Human)	232
+DDX10		E9PIF2	E9PIF2_HUMAN	unreviewed	RNA helicase (EC 3.6.4.13)	DDX10	Homo sapiens (Human)	835
+DDX10		Q13206	DDX10_HUMAN	reviewed	Probable ATP-dependent RNA helicase DDX10 (EC 3.6.4.13) (DEAD box protein 10)	DDX10	Homo sapiens (Human)	875
+DDX10		Q86VR6	Q86VR6_HUMAN	unreviewed	RNA helicase (EC 3.6.4.13) (Fragment)	DDX10	Homo sapiens (Human)	745
+DKC1		C9IYT0	C9IYT0_HUMAN	unreviewed	H/ACA ribonucleoprotein complex subunit 4 (Fragment)	DKC1	Homo sapiens (Human)	258
+DKC1		H7BZF2	H7BZF2_HUMAN	unreviewed	H/ACA ribonucleoprotein complex subunit 4 (Fragment)	DKC1	Homo sapiens (Human)	76
+DKC1		H7C0M1	H7C0M1_HUMAN	unreviewed	H/ACA ribonucleoprotein complex subunit 4 (Fragment)	DKC1	Homo sapiens (Human)	229
+DKC1		H7C2Q2	H7C2Q2_HUMAN	unreviewed	H/ACA ribonucleoprotein complex subunit 4 (Fragment)	DKC1	Homo sapiens (Human)	207
+DKC1		H7C2Q9	H7C2Q9_HUMAN	unreviewed	H/ACA ribonucleoprotein complex subunit 4 (Fragment)	DKC1	Homo sapiens (Human)	169
+DKC1		O60832	DKC1_HUMAN	reviewed	H/ACA ribonucleoprotein complex subunit 4 (EC 5.4.99.-) (CBF5 homolog) (Dyskerin) (Nopp140-associated protein of 57 kDa) (Nucleolar protein NAP57) (Nucleolar protein family A member 4) (snoRNP protein DKC1)	DKC1 NOLA4	Homo sapiens (Human)	514
+DKC1		O95940	O95940_HUMAN	unreviewed	Dyskerin (Fragment)	dkc1	Homo sapiens (Human)	27
+DNAJA4		C9JDE6	C9JDE6_HUMAN	unreviewed	DnaJ homolog subfamily A member 4	DNAJA4	Homo sapiens (Human)	211
+DNAJA4		F5GWV1	F5GWV1_HUMAN	unreviewed	DnaJ homolog subfamily A member 4	DNAJA4	Homo sapiens (Human)	53
+DNAJA4		F5H170	F5H170_HUMAN	unreviewed	DnaJ homolog subfamily A member 4	DNAJA4	Homo sapiens (Human)	219
+DNAJA4		F5H300	F5H300_HUMAN	unreviewed	DnaJ homolog subfamily A member 4	DNAJA4	Homo sapiens (Human)	139
+DNAJA4		F8WF76	F8WF76_HUMAN	unreviewed	DnaJ homolog subfamily A member 4	DNAJA4	Homo sapiens (Human)	114
+DNAJA4		Q8WW22	DNJA4_HUMAN	reviewed	DnaJ homolog subfamily A member 4	DNAJA4	Homo sapiens (Human)	397
+DNAJA4		Q9P1H1	Q9P1H1_HUMAN	unreviewed	DnaJ (Hsp40) homolog, subfamily A, member 4, isoform CRA_a (PRO1472)	DNAJA4 hCG_2006274	Homo sapiens (Human)	155
+DNAJB9		Q6FIF1	Q6FIF1_HUMAN	unreviewed	DNAJB9 protein (DnaJ (Hsp40) homolog, subfamily B, member 9) (DnaJ (Hsp40) homolog, subfamily B, member 9, isoform CRA_b) (MSTP049) (cDNA FLJ34885 fis, clone NT2NE2016608, highly similar to DnaJ homolog subfamily B member 9)	DNAJB9 MST049 hCG_17113 tcag7.15	Homo sapiens (Human)	223
+DNAJB9		Q9UBS3	DNJB9_HUMAN	reviewed	DnaJ homolog subfamily B member 9 (Endoplasmic reticulum DNA J domain-containing protein 4) (ER-resident protein ERdj4) (ERdj4) (Microvascular endothelial differentiation gene 1 protein) (Mdg-1)	DNAJB9 MDG1 UNQ743/PRO1471	Homo sapiens (Human)	223
+DNAJC3		A8KA82	A8KA82_HUMAN	unreviewed	DnaJ (Hsp40) homolog, subfamily C, member 3 (cDNA FLJ77657, highly similar to Homo sapiens DnaJ (Hsp40) homolog, subfamily C, member 3 (DNAJC3), mRNA) (cDNA, FLJ93304, Homo sapiens DnaJ (Hsp40) homolog, subfamily C, member 3 (DNAJC3),mRNA)	DNAJC3 hCG_28703	Homo sapiens (Human)	504
+DNAJC3		Q13217	DNJC3_HUMAN	reviewed	DnaJ homolog subfamily C member 3 (Endoplasmic reticulum DNA J domain-containing protein 6) (ER-resident protein ERdj6) (ERdj6) (Interferon-induced, double-stranded RNA-activated protein kinase inhibitor) (Protein kinase inhibitor of 58 kDa) (Protein kinase inhibitor p58)	DNAJC3 P58IPK PRKRI	Homo sapiens (Human)	504
+DNAJC3		X6R9L0	X6R9L0_HUMAN	unreviewed	DnaJ homolog subfamily C member 3	DNAJC3	Homo sapiens (Human)	453
+EDC4		I3L0V0	I3L0V0_HUMAN	unreviewed	Enhancer of mRNA-decapping protein 4 (Fragment)	EDC4	Homo sapiens (Human)	154
+EDC4		I3L2F4	I3L2F4_HUMAN	unreviewed	Enhancer of mRNA-decapping protein 4 (Fragment)	EDC4	Homo sapiens (Human)	135
+EDC4		I3L3M2	I3L3M2_HUMAN	unreviewed	Enhancer of mRNA-decapping protein 4 (Fragment)	EDC4	Homo sapiens (Human)	176
+EDC4		Q6P2E9	EDC4_HUMAN	reviewed	Enhancer of mRNA-decapping protein 4 (Autoantigen Ge-1) (Autoantigen RCD-8) (Human enhancer of decapping large subunit) (Hedls)	EDC4 HEDLS	Homo sapiens (Human)	1401
+EDEM1		A0A024R2D5	A0A024R2D5_HUMAN	unreviewed	alpha-1,2-Mannosidase (EC 3.2.1.-)	EDEM1 hCG_21730	Homo sapiens (Human)	657
+EDEM1		F8WE67	F8WE67_HUMAN	unreviewed	ER degradation-enhancing alpha-mannosidase-like protein 1	EDEM1	Homo sapiens (Human)	53
+EDEM1		F8WER9	F8WER9_HUMAN	unreviewed	alpha-1,2-Mannosidase (EC 3.2.1.-)	EDEM1	Homo sapiens (Human)	78
+EDEM1		Q92611	EDEM1_HUMAN	reviewed	ER degradation-enhancing alpha-mannosidase-like protein 1	EDEM1 EDEM KIAA0212	Homo sapiens (Human)	657
+EEF2		M0R0I6	M0R0I6_HUMAN	unreviewed	Elongation factor 2 (Fragment)	EEF2	Homo sapiens (Human)	85
+EEF2		P13639	EF2_HUMAN	reviewed	Elongation factor 2 (EF-2)	EEF2 EF2	Homo sapiens (Human)	858
+EEF2		Q6PK56	Q6PK56_HUMAN	unreviewed	EEF2 protein (Fragment)	EEF2	Homo sapiens (Human)	583
+EIF2AK3		C9J185	C9J185_HUMAN	unreviewed	Eukaryotic translation initiation factor 2-alpha kinase 3 (Fragment)	EIF2AK3	Homo sapiens (Human)	956
+EIF2AK3		E7ER02	E7ER02_HUMAN	unreviewed	Eukaryotic translation initiation factor 2-alpha kinase 3	EIF2AK3	Homo sapiens (Human)	965
+EIF2AK3		Q9NZJ5	E2AK3_HUMAN	reviewed	Eukaryotic translation initiation factor 2-alpha kinase 3 (EC 2.7.11.1) (PRKR-like endoplasmic reticulum kinase) (Pancreatic eIF2-alpha kinase) (HsPEK)	EIF2AK3 PEK PERK	Homo sapiens (Human)	1116
+EIF2S1		G3V4T5	G3V4T5_HUMAN	unreviewed	Eukaryotic translation initiation factor 2 subunit 1 (Fragment)	EIF2S1	Homo sapiens (Human)	273
+EIF2S1		H0YJS4	H0YJS4_HUMAN	unreviewed	Eukaryotic translation initiation factor 2 subunit 1 (Fragment)	EIF2S1	Homo sapiens (Human)	252
+EIF2S1		P05198	IF2A_HUMAN	reviewed	Eukaryotic translation initiation factor 2 subunit 1 (Eukaryotic translation initiation factor 2 subunit alpha) (eIF-2-alpha) (eIF-2A) (eIF-2alpha)	EIF2S1 EIF2A	Homo sapiens (Human)	315
+EIF2S1		Q53XC0	Q53XC0_HUMAN	unreviewed	Eukaryotic translation initiation factor 2, subunit 1 alpha, 35kDa, isoform CRA_a (Full-length cDNA clone CS0DL010YH08 of B cells (Ramos cell line) of Homo sapiens (human)) (cDNA, FLJ92791, Homo sapiens eukaryotic translation initiation factor 2, subunit 1 alpha, 35kDa (EIF2S1), mRNA)	EIF2S1 hCG_21909	Homo sapiens (Human)	315
+EIF4A1		J3KRC2	J3KRC2_HUMAN	unreviewed	Eukaryotic initiation factor 4A-I	EIF4A1	Homo sapiens (Human)	85
+EIF4A1		J3KS25	J3KS25_HUMAN	unreviewed	Eukaryotic initiation factor 4A-I (Fragment)	EIF4A1	Homo sapiens (Human)	187
+EIF4A1		J3KS93	J3KS93_HUMAN	unreviewed	Eukaryotic initiation factor 4A-I (Fragment)	EIF4A1	Homo sapiens (Human)	85
+EIF4A1		J3KSP3	J3KSP3_HUMAN	unreviewed	Eukaryotic initiation factor 4A-I	EIF4A1	Homo sapiens (Human)	50
+EIF4A1		J3KSZ0	J3KSZ0_HUMAN	unreviewed	Eukaryotic initiation factor 4A-I (Fragment)	EIF4A1	Homo sapiens (Human)	230
+EIF4A1		J3KT04	J3KT04_HUMAN	unreviewed	Eukaryotic initiation factor 4A-I (Fragment)	EIF4A1	Homo sapiens (Human)	85
+EIF4A1		J3KT12	J3KT12_HUMAN	unreviewed	Eukaryotic initiation factor 4A-I	EIF4A1	Homo sapiens (Human)	341
+EIF4A1		J3KTB5	J3KTB5_HUMAN	unreviewed	Eukaryotic initiation factor 4A-I (Fragment)	EIF4A1	Homo sapiens (Human)	257
+EIF4A1		J3KTN0	J3KTN0_HUMAN	unreviewed	Eukaryotic initiation factor 4A-I (Fragment)	EIF4A1	Homo sapiens (Human)	117
+EIF4A1		J3QKZ9	J3QKZ9_HUMAN	unreviewed	Eukaryotic initiation factor 4A-I (Fragment)	EIF4A1	Homo sapiens (Human)	134
+EIF4A1		J3QL43	J3QL43_HUMAN	unreviewed	Eukaryotic initiation factor 4A-I (Fragment)	EIF4A1	Homo sapiens (Human)	271
+EIF4A1		J3QL52	J3QL52_HUMAN	unreviewed	Eukaryotic initiation factor 4A-I (Fragment)	EIF4A1	Homo sapiens (Human)	68
+EIF4A1		J3QLN6	J3QLN6_HUMAN	unreviewed	Eukaryotic initiation factor 4A-I (Fragment)	EIF4A1	Homo sapiens (Human)	163
+EIF4A1		J3QQP0	J3QQP0_HUMAN	unreviewed	Eukaryotic initiation factor 4A-I	EIF4A1	Homo sapiens (Human)	95
+EIF4A1		J3QR64	J3QR64_HUMAN	unreviewed	Eukaryotic initiation factor 4A-I (Fragment)	EIF4A1	Homo sapiens (Human)	214
+EIF4A1		J3QRP5	J3QRP5_HUMAN	unreviewed	Eukaryotic initiation factor 4A-I	EIF4A1	Homo sapiens (Human)	74
+EIF4A1		J3QS69	J3QS69_HUMAN	unreviewed	Eukaryotic initiation factor 4A-I (Fragment)	EIF4A1	Homo sapiens (Human)	300
+EIF4A1		P60842	IF4A1_HUMAN	reviewed	Eukaryotic initiation factor 4A-I (eIF-4A-I) (eIF4A-I) (EC 3.6.4.13) (ATP-dependent RNA helicase eIF4A-1)	EIF4A1 DDX2A EIF4A	Homo sapiens (Human)	406
+EIF4A1		Q9NZR9	Q9NZR9_HUMAN	unreviewed	Eukaryotic initiation factor 4AI (Fragment)	EIF4A1	Homo sapiens (Human)	25
+EIF4A2		C9JUF0	C9JUF0_HUMAN	unreviewed	Eukaryotic initiation factor 4A-II (Fragment)	EIF4A2	Homo sapiens (Human)	57
+EIF4A2		E7EMV8	E7EMV8_HUMAN	unreviewed	Eukaryotic initiation factor 4A-II (Fragment)	EIF4A2	Homo sapiens (Human)	98
+EIF4A2		E7EQG2	E7EQG2_HUMAN	unreviewed	Eukaryotic initiation factor 4A-II	EIF4A2	Homo sapiens (Human)	362
+EIF4A2		E9PBH4	E9PBH4_HUMAN	unreviewed	Eukaryotic initiation factor 4A-II	EIF4A2	Homo sapiens (Human)	96
+EIF4A2		F8WE11	F8WE11_HUMAN	unreviewed	Eukaryotic initiation factor 4A-II	EIF4A2	Homo sapiens (Human)	97
+EIF4A2		J3KSN7	J3KSN7_HUMAN	unreviewed	Eukaryotic initiation factor 4A-II (Fragment)	EIF4A2	Homo sapiens (Human)	109
+EIF4A2		Q14240	IF4A2_HUMAN	reviewed	Eukaryotic initiation factor 4A-II (eIF-4A-II) (eIF4A-II) (EC 3.6.4.13) (ATP-dependent RNA helicase eIF4A-2)	EIF4A2 DDX2B EIF4F	Homo sapiens (Human)	407
+EIF4A2		Q9NZE6	Q9NZE6_HUMAN	unreviewed	BM-010 (Eukaryotic translation initiation factor 4A, isoform 2, isoform CRA_b)	EIF4A2 hCG_1784041	Homo sapiens (Human)	312
+EIF4A3		I3L3H2	I3L3H2_HUMAN	unreviewed	Eukaryotic initiation factor 4A-III (Fragment)	EIF4A3	Homo sapiens (Human)	125
+EIF4A3		P38919	IF4A3_HUMAN	reviewed	Eukaryotic initiation factor 4A-III (eIF-4A-III) (eIF4A-III) (EC 3.6.4.13) (ATP-dependent RNA helicase DDX48) (ATP-dependent RNA helicase eIF4A-3) (DEAD box protein 48) (Eukaryotic initiation factor 4A-like NUK-34) (Eukaryotic translation initiation factor 4A isoform 3) (Nuclear matrix protein 265) (NMP 265) (hNMP 265) [Cleaved into: Eukaryotic initiation factor 4A-III, N-terminally processed]	EIF4A3 DDX48 KIAA0111	Homo sapiens (Human)	411
+EIF4E		D6RBW1	D6RBW1_HUMAN	unreviewed	Eukaryotic translation initiation factor 4E	EIF4E	Homo sapiens (Human)	245
+EIF4E		D6RFJ3	D6RFJ3_HUMAN	unreviewed	Eukaryotic translation initiation factor 4E	EIF4E	Homo sapiens (Human)	42
+EIF4E		H0Y8J7	H0Y8J7_HUMAN	unreviewed	Eukaryotic translation initiation factor 4E (Fragment)	EIF4E	Homo sapiens (Human)	155
+EIF4E		P06730	IF4E_HUMAN	reviewed	Eukaryotic translation initiation factor 4E (eIF-4E) (eIF4E) (eIF-4F 25 kDa subunit) (mRNA cap-binding protein)	EIF4E EIF4EL1 EIF4F	Homo sapiens (Human)	217
+EIF4E		Q32Q75	Q32Q75_HUMAN	unreviewed	Eukaryotic translation initiation factor 4E	EIF4E	Homo sapiens (Human)	217
+EIF4E		X5D7E3	X5D7E3_HUMAN	unreviewed	Eukaryotic translation initiation factor 4E isoform A (Fragment)	EIF4E	Homo sapiens (Human)	237
+EIF4EBP1		Q13541	4EBP1_HUMAN	reviewed	Eukaryotic translation initiation factor 4E-binding protein 1 (4E-BP1) (eIF4E-binding protein 1) (Phosphorylated heat- and acid-stable protein regulated by insulin 1) (PHAS-I)	EIF4EBP1	Homo sapiens (Human)	118
+EIF4G1		B2RU06	B2RU06_HUMAN	unreviewed	eIF4G1 protein	EIF4G1	Homo sapiens (Human)	1606
+EIF4G1		B2RU10	B2RU10_HUMAN	unreviewed	eIF4G1 protein	EIF4G1	Homo sapiens (Human)	1606
+EIF4G1		C9J2Z7	C9J2Z7_HUMAN	unreviewed	Eukaryotic translation initiation factor 4 gamma 1 (Fragment)	EIF4G1	Homo sapiens (Human)	833
+EIF4G1		C9J556	C9J556_HUMAN	unreviewed	Eukaryotic translation initiation factor 4 gamma 1 (Fragment)	EIF4G1	Homo sapiens (Human)	143
+EIF4G1		C9J6B6	C9J6B6_HUMAN	unreviewed	Eukaryotic translation initiation factor 4 gamma 1 (Fragment)	EIF4G1	Homo sapiens (Human)	757
+EIF4G1		C9J987	C9J987_HUMAN	unreviewed	Eukaryotic translation initiation factor 4 gamma 1 (Fragment)	EIF4G1	Homo sapiens (Human)	92
+EIF4G1		C9JF13	C9JF13_HUMAN	unreviewed	Eukaryotic translation initiation factor 4 gamma 1 (Fragment)	EIF4G1	Homo sapiens (Human)	903
+EIF4G1		C9JHW9	C9JHW9_HUMAN	unreviewed	Eukaryotic translation initiation factor 4 gamma 1 (Fragment)	EIF4G1	Homo sapiens (Human)	160
+EIF4G1		C9JIH5	C9JIH5_HUMAN	unreviewed	Eukaryotic translation initiation factor 4 gamma 1 (Fragment)	EIF4G1	Homo sapiens (Human)	87
+EIF4G1		C9JSU8	C9JSU8_HUMAN	unreviewed	Eukaryotic translation initiation factor 4 gamma 1 (Fragment)	EIF4G1	Homo sapiens (Human)	163
+EIF4G1		C9JWH7	C9JWH7_HUMAN	unreviewed	Eukaryotic translation initiation factor 4 gamma 1 (Fragment)	EIF4G1	Homo sapiens (Human)	127
+EIF4G1		C9JWH9	C9JWH9_HUMAN	unreviewed	Eukaryotic translation initiation factor 4 gamma 1 (Fragment)	EIF4G1	Homo sapiens (Human)	143
+EIF4G1		C9JWW9	C9JWW9_HUMAN	unreviewed	Eukaryotic translation initiation factor 4 gamma 1 (Fragment)	EIF4G1	Homo sapiens (Human)	285
+EIF4G1		C9K073	C9K073_HUMAN	unreviewed	Eukaryotic translation initiation factor 4 gamma 1 (Fragment)	EIF4G1	Homo sapiens (Human)	869
+EIF4G1		E7EUU4	E7EUU4_HUMAN	unreviewed	Eukaryotic translation initiation factor 4 gamma 1	EIF4G1	Homo sapiens (Human)	1560
+EIF4G1		E7EX73	E7EX73_HUMAN	unreviewed	Eukaryotic translation initiation factor 4 gamma 1	EIF4G1	Homo sapiens (Human)	1436
+EIF4G1		E9PGM1	E9PGM1_HUMAN	unreviewed	Eukaryotic translation initiation factor 4 gamma 1	EIF4G1	Homo sapiens (Human)	1513
+EIF4G1		F8WB97	F8WB97_HUMAN	unreviewed	Eukaryotic translation initiation factor 4 gamma 1	EIF4G1	Homo sapiens (Human)	71
+EIF4G1		F8WCF2	F8WCF2_HUMAN	unreviewed	Eukaryotic translation initiation factor 4 gamma 1	EIF4G1	Homo sapiens (Human)	50
+EIF4G1		H7C044	H7C044_HUMAN	unreviewed	Eukaryotic translation initiation factor 4 gamma 1 (Fragment)	EIF4G1	Homo sapiens (Human)	226
+EIF4G1		H7C0V6	H7C0V6_HUMAN	unreviewed	Eukaryotic translation initiation factor 4 gamma 1 (Fragment)	EIF4G1	Homo sapiens (Human)	180
+EIF4G1		Q04637	IF4G1_HUMAN	reviewed	Eukaryotic translation initiation factor 4 gamma 1 (eIF-4-gamma 1) (eIF-4G 1) (eIF-4G1) (p220)	EIF4G1 EIF4F EIF4G EIF4GI	Homo sapiens (Human)	1599
+EIF4G1		Q96I65	Q96I65_HUMAN	unreviewed	Eukaryotic translation initiation factor 4 gamma, 1 (eIF4G1 protein)	EIF4G1	Homo sapiens (Human)	645
+ERN1		O75460	ERN1_HUMAN	reviewed	Serine/threonine-protein kinase/endoribonuclease IRE1 (Endoplasmic reticulum-to-nucleus signaling 1) (Inositol-requiring protein 1) (hIRE1p) (Ire1-alpha) (IRE1a) [Includes: Serine/threonine-protein kinase (EC 2.7.11.1); Endoribonuclease (EC 3.1.26.-)]	ERN1 IRE1	Homo sapiens (Human)	977
+ERO1L		Q96HE7	ERO1A_HUMAN	reviewed	ERO1-like protein alpha (ERO1-L) (ERO1-L-alpha) (EC 1.8.4.-) (Endoplasmic oxidoreductin-1-like protein) (Endoplasmic reticulum oxidoreductase alpha) (Oxidoreductin-1-L-alpha)	ERO1A ERO1L UNQ434/PRO865	Homo sapiens (Human)	468
+EXOC2		A0A024QZT2	A0A024QZT2_HUMAN	unreviewed	Exocyst complex component 2, isoform CRA_a	EXOC2 hCG_22649	Homo sapiens (Human)	924
+EXOC2		Q2MDF5	Q2MDF5_HUMAN	unreviewed	Exocyst complex component 2 (Fragment)	EXOC2	Homo sapiens (Human)	140
+EXOC2		Q96KP1	EXOC2_HUMAN	reviewed	Exocyst complex component 2 (Exocyst complex component Sec5)	EXOC2 SEC5 SEC5L1	Homo sapiens (Human)	924
+EXOSC1		B1AMU3	B1AMU3_HUMAN	unreviewed	Exosome complex component CSL4	EXOSC1	Homo sapiens (Human)	170
+EXOSC1		B1AMU4	B1AMU4_HUMAN	unreviewed	Exosome complex component CSL4	EXOSC1	Homo sapiens (Human)	178
+EXOSC1		B1AMU7	B1AMU7_HUMAN	unreviewed	Exosome complex component CSL4 (Fragment)	EXOSC1	Homo sapiens (Human)	165
+EXOSC1		Q9Y3B2	EXOS1_HUMAN	reviewed	Exosome complex component CSL4 (Exosome component 1)	EXOSC1 CSL4 CGI-108	Homo sapiens (Human)	195
+EXOSC1		R4GMQ7	R4GMQ7_HUMAN	unreviewed	Exosome complex component CSL4 (Fragment)	EXOSC1	Homo sapiens (Human)	143
+EXOSC1		R4GNH9	R4GNH9_HUMAN	unreviewed	Exosome complex component CSL4	EXOSC1	Homo sapiens (Human)	139
+EXOSC10		K7EJ37	K7EJ37_HUMAN	unreviewed	Exosome component 10	EXOSC10	Homo sapiens (Human)	124
+EXOSC10		L8E6Y6	L8E6Y6_HUMAN	unreviewed	Alternative protein EXOSC10	EXOSC10	Homo sapiens (Human)	48
+EXOSC10		Q01780	EXOSX_HUMAN	reviewed	Exosome component 10 (EC 3.1.13.-) (Autoantigen PM/Scl 2) (P100 polymyositis-scleroderma overlap syndrome-associated autoantigen) (Polymyositis/scleroderma autoantigen 100 kDa) (PM/Scl-100) (Polymyositis/scleroderma autoantigen 2)	EXOSC10 PMSCL PMSCL2 RRP6	Homo sapiens (Human)	885
+EXOSC10		Q96G78	Q96G78_HUMAN	unreviewed	EXOSC10 protein (Fragment)	EXOSC10	Homo sapiens (Human)	61
+EXOSC2		A2VCR1	A2VCR1_HUMAN	unreviewed	EXOSC2 protein (Fragment)	EXOSC2	Homo sapiens (Human)	88
+EXOSC2		A3KFL1	A3KFL1_HUMAN	unreviewed	Exosome complex component RRP4 (Fragment)	EXOSC2	Homo sapiens (Human)	200
+EXOSC2		A3KFL2	A3KFL2_HUMAN	unreviewed	Exosome complex component RRP4	EXOSC2	Homo sapiens (Human)	285
+EXOSC2		A3KFL5	A3KFL5_HUMAN	unreviewed	Exosome complex component RRP4 (Fragment)	EXOSC2	Homo sapiens (Human)	237
+EXOSC2		Q13868	EXOS2_HUMAN	reviewed	Exosome complex component RRP4 (Exosome component 2) (Ribosomal RNA-processing protein 4)	EXOSC2 RRP4	Homo sapiens (Human)	293
+EXOSC4		E9PI41	E9PI41_HUMAN	unreviewed	Exosome complex component RRP41 (Fragment)	EXOSC4	Homo sapiens (Human)	261
+EXOSC4		E9PPI9	E9PPI9_HUMAN	unreviewed	Exosome complex component RRP41	EXOSC4	Homo sapiens (Human)	156
+EXOSC4		Q9NPD3	EXOS4_HUMAN	reviewed	Exosome complex component RRP41 (Exosome component 4) (Ribosomal RNA-processing protein 41) (p12A)	EXOSC4 RRP41 SKI6	Homo sapiens (Human)	245
+EXOSC5		M0R050	M0R050_HUMAN	unreviewed	Exosome complex component RRP46	EXOSC5	Homo sapiens (Human)	197
+EXOSC5		M0R102	M0R102_HUMAN	unreviewed	Exosome complex component RRP46 (Fragment)	EXOSC5	Homo sapiens (Human)	133
+EXOSC5		M0R289	M0R289_HUMAN	unreviewed	Exosome complex component RRP46 (Fragment)	EXOSC5	Homo sapiens (Human)	62
+EXOSC5		Q9NQT4	EXOS5_HUMAN	reviewed	Exosome complex component RRP46 (Chronic myelogenous leukemia tumor antigen 28) (Exosome component 5) (Ribosomal RNA-processing protein 46) (p12B)	EXOSC5 CML28 RRP46	Homo sapiens (Human)	235
+EXOSC9		A5PLM5	A5PLM5_HUMAN	unreviewed	Exosome component 9	EXOSC9	Homo sapiens (Human)	439
+EXOSC9		D6R905	D6R905_HUMAN	unreviewed	Exosome complex component RRP45 (Fragment)	EXOSC9	Homo sapiens (Human)	226
+EXOSC9		D6RA17	D6RA17_HUMAN	unreviewed	Exosome complex component RRP45 (Exosome component 9, isoform CRA_e)	EXOSC9 hCG_38830	Homo sapiens (Human)	242
+EXOSC9		D6RAP4	D6RAP4_HUMAN	unreviewed	Exosome complex component RRP45	EXOSC9	Homo sapiens (Human)	86
+EXOSC9		D6RIY6	D6RIY6_HUMAN	unreviewed	Exosome complex component RRP45 (Exosome component 9, isoform CRA_f)	EXOSC9 hCG_38830	Homo sapiens (Human)	423
+EXOSC9		H0Y9L5	H0Y9L5_HUMAN	unreviewed	Exosome complex component RRP45 (Fragment)	EXOSC9	Homo sapiens (Human)	172
+EXOSC9		Q06265	EXOS9_HUMAN	reviewed	Exosome complex component RRP45 (Autoantigen PM/Scl 1) (Exosome component 9) (P75 polymyositis-scleroderma overlap syndrome-associated autoantigen) (Polymyositis/scleroderma autoantigen 1) (Polymyositis/scleroderma autoantigen 75 kDa) (PM/Scl-75)	EXOSC9 PMSCL1	Homo sapiens (Human)	439
+FKBP14		A0A090N7V8	A0A090N7V8_HUMAN	unreviewed	Peptidylprolyl isomerase (EC 5.2.1.8)	FKBP14 hCG_38314 tcag7.681	Homo sapiens (Human)	211
+FKBP14		F8WBZ0	F8WBZ0_HUMAN	unreviewed	Peptidyl-prolyl cis-trans isomerase FKBP14	FKBP14	Homo sapiens (Human)	66
+FKBP14		H7C1Z9	H7C1Z9_HUMAN	unreviewed	Peptidylprolyl isomerase (EC 5.2.1.8) (Fragment)	FKBP14	Homo sapiens (Human)	89
+FKBP14		Q9NWM8	FKB14_HUMAN	reviewed	Peptidyl-prolyl cis-trans isomerase FKBP14 (PPIase FKBP14) (EC 5.2.1.8) (22 kDa FK506-binding protein) (22 kDa FKBP) (FKBP-22) (FK506-binding protein 14) (FKBP-14) (Rotamase)	FKBP14 FKBP22 UNQ322/PRO381	Homo sapiens (Human)	211
+FUS		H3BNZ4	H3BNZ4_HUMAN	unreviewed	RNA-binding protein FUS	FUS	Homo sapiens (Human)	263
+FUS		H3BPE7	H3BPE7_HUMAN	unreviewed	RNA-binding protein FUS	FUS	Homo sapiens (Human)	527
+FUS		P35637	FUS_HUMAN	reviewed	RNA-binding protein FUS (75 kDa DNA-pairing protein) (Oncogene FUS) (Oncogene TLS) (POMp75) (Translocated in liposarcoma protein)	FUS TLS	Homo sapiens (Human)	526
+FUS		Q6IBQ5	Q6IBQ5_HUMAN	unreviewed	FUS protein (Fusion (Involved in t(1216) in malignant liposarcoma), isoform CRA_a) (Fusion, derived from t(12;16) malignant liposarcoma)	FUS hCG_21147	Homo sapiens (Human)	526
+FUS		Q8TBR3	Q8TBR3_HUMAN	unreviewed	Fusion (Involved in t(1216) in malignant liposarcoma)	FUS	Homo sapiens (Human)	526
+GEMIN4		E7EN12	E7EN12_HUMAN	unreviewed	Gem-associated protein 4	GEMIN4	Homo sapiens (Human)	184
+GEMIN4		I3L1J7	I3L1J7_HUMAN	unreviewed	Gem-associated protein 4 (Fragment)	GEMIN4	Homo sapiens (Human)	70
+GEMIN4		I3L2C7	I3L2C7_HUMAN	unreviewed	Gem-associated protein 4	GEMIN4	Homo sapiens (Human)	1047
+GEMIN4		I3L399	I3L399_HUMAN	unreviewed	Gem-associated protein 4 (Fragment)	GEMIN4	Homo sapiens (Human)	296
+GEMIN4		I3L4A4	I3L4A4_HUMAN	unreviewed	Gem-associated protein 4 (Fragment)	GEMIN4	Homo sapiens (Human)	271
+GEMIN4		I3L4M4	I3L4M4_HUMAN	unreviewed	Gem-associated protein 4 (Fragment)	GEMIN4	Homo sapiens (Human)	189
+GEMIN4		P57678	GEMI4_HUMAN	reviewed	Gem-associated protein 4 (Gemin-4) (Component of gems 4) (p97)	GEMIN4	Homo sapiens (Human)	1058
+GEMIN4		Q8WUM5	Q8WUM5_HUMAN	unreviewed	Gem (Nuclear organelle) associated protein 4	GEMIN4	Homo sapiens (Human)	1058
+GOSR2		E7EQ34	E7EQ34_HUMAN	unreviewed	Golgi SNAP receptor complex member 2	GOSR2	Homo sapiens (Human)	232
+GOSR2		I3L0K1	I3L0K1_HUMAN	unreviewed	Golgi SNAP receptor complex member 2 (Fragment)	GOSR2	Homo sapiens (Human)	199
+GOSR2		I3L1K7	I3L1K7_HUMAN	unreviewed	Golgi SNAP receptor complex member 2	GOSR2	Homo sapiens (Human)	143
+GOSR2		I3L3V4	I3L3V4_HUMAN	unreviewed	Golgi SNAP receptor complex member 2 (Fragment)	GOSR2	Homo sapiens (Human)	149
+GOSR2		I3L4Z6	I3L4Z6_HUMAN	unreviewed	Golgi SNAP receptor complex member 2 (Golgi SNAP receptor complex member 2, isoform CRA_c)	GOSR2 hCG_1993582	Homo sapiens (Human)	165
+GOSR2		I3NI02	I3NI02_HUMAN	unreviewed	Golgi SNAP receptor complex member 2 (Fragment)	GOSR2	Homo sapiens (Human)	98
+GOSR2		O14653	GOSR2_HUMAN	reviewed	Golgi SNAP receptor complex member 2 (27 kDa Golgi SNARE protein) (Membrin)	GOSR2 GS27	Homo sapiens (Human)	212
+H2AFX		P16104	H2AX_HUMAN	reviewed	Histone H2AX (H2a/x) (Histone H2A.X)	H2AFX H2AX	Homo sapiens (Human)	143
+HERPUD1		A4UAE9	A4UAE9_HUMAN	unreviewed	Homocysteine-inducible endoplasmic reticulum stress-inducible ubiquitin-like domain member 1 protein	HERPUD1	Homo sapiens (Human)	275
+HERPUD1		H3BP08	H3BP08_HUMAN	unreviewed	Homocysteine-responsive endoplasmic reticulum-resident ubiquitin-like domain member 1 protein (Fragment)	HERPUD1	Homo sapiens (Human)	160
+HERPUD1		H3BQM2	H3BQM2_HUMAN	unreviewed	Homocysteine-responsive endoplasmic reticulum-resident ubiquitin-like domain member 1 protein (Fragment)	HERPUD1	Homo sapiens (Human)	226
+HERPUD1		H3BRS4	H3BRS4_HUMAN	unreviewed	Homocysteine-responsive endoplasmic reticulum-resident ubiquitin-like domain member 1 protein	HERPUD1	Homo sapiens (Human)	53
+HERPUD1		H3BTA8	H3BTA8_HUMAN	unreviewed	Homocysteine-responsive endoplasmic reticulum-resident ubiquitin-like domain member 1 protein (Fragment)	HERPUD1	Homo sapiens (Human)	109
+HERPUD1		H3BTT7	H3BTT7_HUMAN	unreviewed	Homocysteine-responsive endoplasmic reticulum-resident ubiquitin-like domain member 1 protein (Fragment)	HERPUD1	Homo sapiens (Human)	150
+HERPUD1		H3BV54	H3BV54_HUMAN	unreviewed	Homocysteine-responsive endoplasmic reticulum-resident ubiquitin-like domain member 1 protein (Fragment)	HERPUD1	Homo sapiens (Human)	150
+HERPUD1		Q15011	HERP1_HUMAN	reviewed	Homocysteine-responsive endoplasmic reticulum-resident ubiquitin-like domain member 1 protein (Methyl methanesulfonate (MMF)-inducible fragment protein 1)	HERPUD1 HERP KIAA0025 MIF1	Homo sapiens (Human)	391
+HSP90B1		F8VPC7	F8VPC7_HUMAN	unreviewed	Endoplasmin	HSP90B1	Homo sapiens (Human)	53
+HSP90B1		F8W026	F8W026_HUMAN	unreviewed	Endoplasmin (Fragment)	HSP90B1	Homo sapiens (Human)	48
+HSP90B1		H0YIV0	H0YIV0_HUMAN	unreviewed	Endoplasmin (Fragment)	HSP90B1	Homo sapiens (Human)	147
+HSP90B1		P14625	ENPL_HUMAN	reviewed	Endoplasmin (94 kDa glucose-regulated protein) (GRP-94) (Heat shock protein 90 kDa beta member 1) (Tumor rejection antigen 1) (gp96 homolog)	HSP90B1 GRP94 TRA1	Homo sapiens (Human)	803
+HSP90B1		Q96GW1	Q96GW1_HUMAN	unreviewed	Endoplasmin (HSP90B1 protein)	HSP90B1	Homo sapiens (Human)	315
+HSPA5		P11021	GRP78_HUMAN	reviewed	78 kDa glucose-regulated protein (GRP-78) (Endoplasmic reticulum lumenal Ca(2+)-binding protein grp78) (Heat shock 70 kDa protein 5) (Immunoglobulin heavy chain-binding protein) (BiP)	HSPA5 GRP78	Homo sapiens (Human)	654
+HSPA9		D6RA73	D6RA73_HUMAN	unreviewed	Stress-70 protein, mitochondrial (Fragment)	HSPA9	Homo sapiens (Human)	62
+HSPA9		D6RCD7	D6RCD7_HUMAN	unreviewed	Stress-70 protein, mitochondrial	HSPA9	Homo sapiens (Human)	42
+HSPA9		D6RDH7	D6RDH7_HUMAN	unreviewed	Stress-70 protein, mitochondrial	HSPA9	Homo sapiens (Human)	38
+HSPA9		D6RJI2	D6RJI2_HUMAN	unreviewed	Stress-70 protein, mitochondrial (Fragment)	HSPA9	Homo sapiens (Human)	95
+HSPA9		H0Y8K0	H0Y8K0_HUMAN	unreviewed	Stress-70 protein, mitochondrial (Fragment)	HSPA9	Homo sapiens (Human)	100
+HSPA9		H0Y8S0	H0Y8S0_HUMAN	unreviewed	Stress-70 protein, mitochondrial (Fragment)	HSPA9	Homo sapiens (Human)	102
+HSPA9		H0YBG6	H0YBG6_HUMAN	unreviewed	Stress-70 protein, mitochondrial (Fragment)	HSPA9	Homo sapiens (Human)	163
+HSPA9		P38646	GRP75_HUMAN	reviewed	Stress-70 protein, mitochondrial (75 kDa glucose-regulated protein) (GRP-75) (Heat shock 70 kDa protein 9) (Mortalin) (MOT) (Peptide-binding protein 74) (PBP74)	HSPA9 GRP75 HSPA9B mt-HSP70	Homo sapiens (Human)	679
+HSPA9		Q8N1C8	Q8N1C8_HUMAN	unreviewed	HSPA9 protein (Fragment)	HSPA9	Homo sapiens (Human)	681
+HYOU1		A0A024R3G0	A0A024R3G0_HUMAN	unreviewed	Hypoxia up-regulated 1, isoform CRA_a	HYOU1 hCG_95879	Homo sapiens (Human)	433
+HYOU1		A0A087WW13	A0A087WW13_HUMAN	unreviewed	Hypoxia up-regulated protein 1 (Fragment)	HYOU1	Homo sapiens (Human)	102
+HYOU1		A0A087WWI4	A0A087WWI4_HUMAN	unreviewed	Hypoxia up-regulated protein 1	HYOU1	Homo sapiens (Human)	677
+HYOU1		A0A087X054	A0A087X054_HUMAN	unreviewed	Hypoxia up-regulated protein 1	HYOU1	Homo sapiens (Human)	937
+HYOU1		A0A087X214	A0A087X214_HUMAN	unreviewed	Hypoxia up-regulated protein 1 (Fragment)	HYOU1	Homo sapiens (Human)	92
+HYOU1		E9PJ21	E9PJ21_HUMAN	unreviewed	Hypoxia up-regulated protein 1 (Fragment)	HYOU1	Homo sapiens (Human)	656
+HYOU1		J3KSR2	J3KSR2_HUMAN	unreviewed	Hypoxia up-regulated protein 1	HYOU1	Homo sapiens (Human)	38
+HYOU1		J3KTF1	J3KTF1_HUMAN	unreviewed	Hypoxia up-regulated protein 1 (Fragment)	HYOU1	Homo sapiens (Human)	224
+HYOU1		J3QL06	J3QL06_HUMAN	unreviewed	Hypoxia up-regulated protein 1 (Fragment)	HYOU1	Homo sapiens (Human)	211
+HYOU1		J3QLE9	J3QLE9_HUMAN	unreviewed	Hypoxia up-regulated protein 1 (Fragment)	HYOU1	Homo sapiens (Human)	154
+HYOU1		J3QQH7	J3QQH7_HUMAN	unreviewed	Hypoxia up-regulated protein 1 (Fragment)	HYOU1	Homo sapiens (Human)	149
+HYOU1		K7EQK2	K7EQK2_HUMAN	unreviewed	Hypoxia up-regulated protein 1	HYOU1	Homo sapiens (Human)	678
+HYOU1		Q05D91	Q05D91_HUMAN	unreviewed	HYOU1 protein (Fragment)	HYOU1	Homo sapiens (Human)	657
+HYOU1		Q6IN67	Q6IN67_HUMAN	unreviewed	HYOU1 protein	HYOU1	Homo sapiens (Human)	678
+HYOU1		Q9BST8	Q9BST8_HUMAN	unreviewed	HYOU1 protein (Hypoxia up-regulated protein 1)	HYOU1	Homo sapiens (Human)	147
+HYOU1		Q9Y4L1	HYOU1_HUMAN	reviewed	Hypoxia up-regulated protein 1 (150 kDa oxygen-regulated protein) (ORP-150) (170 kDa glucose-regulated protein) (GRP-170)	HYOU1 GRP170 ORP150	Homo sapiens (Human)	999
+IARS		A0A0A0MSX9	A0A0A0MSX9_HUMAN	unreviewed	Isoleucine--tRNA ligase, cytoplasmic	IARS	Homo sapiens (Human)	1242
+IARS		J3KR24	J3KR24_HUMAN	unreviewed	Isoleucine--tRNA ligase, cytoplasmic (Isoleucine-tRNA synthetase, isoform CRA_d)	IARS hCG_31137	Homo sapiens (Human)	1152
+IARS		P41252	SYIC_HUMAN	reviewed	Isoleucine--tRNA ligase, cytoplasmic (EC 6.1.1.5) (Isoleucyl-tRNA synthetase) (IRS) (IleRS)	IARS	Homo sapiens (Human)	1262
+IARS		Q5TCC6	Q5TCC6_HUMAN	unreviewed	Isoleucine--tRNA ligase, cytoplasmic	IARS	Homo sapiens (Human)	174
+IARS		Q5TCC9	Q5TCC9_HUMAN	unreviewed	Isoleucine--tRNA ligase, cytoplasmic (Fragment)	IARS	Homo sapiens (Human)	72
+IARS		Q5TCD1	Q5TCD1_HUMAN	unreviewed	Isoleucine--tRNA ligase, cytoplasmic (Fragment)	IARS	Homo sapiens (Human)	330
+IARS		Q6P0M4	Q6P0M4_HUMAN	unreviewed	IARS protein	IARS	Homo sapiens (Human)	1055
+IARS		Q7L4K8	Q7L4K8_HUMAN	unreviewed	IARS protein (Fragment)	IARS	Homo sapiens (Human)	481
+IFIT1		P09914	IFIT1_HUMAN	reviewed	Interferon-induced protein with tetratricopeptide repeats 1 (IFIT-1) (Interferon-induced 56 kDa protein) (IFI-56K) (P56)	IFIT1 G10P1 IFI56 IFNAI1 ISG56	Homo sapiens (Human)	478
+IGFBP1		C1K3N3	C1K3N3_HUMAN	unreviewed	Insulin-like growth factor binding protein 1 (Fragment)	IGFBP1	Homo sapiens (Human)	258
+IGFBP1		C9J6H2	C9J6H2_HUMAN	unreviewed	Insulin-like growth factor-binding protein 1	IGFBP1	Homo sapiens (Human)	216
+IGFBP1		C9JXF9	C9JXF9_HUMAN	unreviewed	Insulin-like growth factor-binding protein 1	IGFBP1	Homo sapiens (Human)	257
+IGFBP1		P08833	IBP1_HUMAN	reviewed	Insulin-like growth factor-binding protein 1 (IBP-1) (IGF-binding protein 1) (IGFBP-1) (Placental protein 12) (PP12)	IGFBP1 IBP1	Homo sapiens (Human)	259
+IGFBP1		Q6PEY6	Q6PEY6_HUMAN	unreviewed	Insulin-like growth factor binding protein 1	IGFBP1	Homo sapiens (Human)	259
+IMP3		O00425	IF2B3_HUMAN	reviewed	Insulin-like growth factor 2 mRNA-binding protein 3 (IGF2 mRNA-binding protein 3) (IMP-3) (IGF-II mRNA-binding protein 3) (KH domain-containing protein overexpressed in cancer) (hKOC) (VICKZ family member 3)	IGF2BP3 IMP3 KOC1 VICKZ3	Homo sapiens (Human)	579
+IMP3		Q8TCT8	SPP2A_HUMAN	reviewed	Signal peptide peptidase-like 2A (SPP-like 2A) (SPPL2a) (EC 3.4.23.-) (Intramembrane protease 3) (IMP-3) (Presenilin-like protein 2)	SPPL2A IMP3 PSL2 PSEC0147	Homo sapiens (Human)	520
+IMP3		Q9NV31	IMP3_HUMAN	reviewed	U3 small nucleolar ribonucleoprotein protein IMP3 (U3 snoRNP protein IMP3) (BRMS2)	IMP3 C15orf12 MRPS4	Homo sapiens (Human)	184
+KDELR3		A0A024R1R0	A0A024R1R0_HUMAN	unreviewed	ER lumen protein-retaining receptor	KDELR3 hCG_2010805	Homo sapiens (Human)	214
+KDELR3		O43731	ERD23_HUMAN	reviewed	ER lumen protein-retaining receptor 3 (KDEL endoplasmic reticulum protein retention receptor 3) (KDEL receptor 3)	KDELR3	Homo sapiens (Human)	214
+KHSRP		A0A087WTP3	A0A087WTP3_HUMAN	unreviewed	Far upstream element-binding protein 2	KHSRP	Homo sapiens (Human)	711
+KHSRP		M0QXW7	M0QXW7_HUMAN	unreviewed	Far upstream element-binding protein 2 (Fragment)	KHSRP	Homo sapiens (Human)	116
+KHSRP		M0QYG1	M0QYG1_HUMAN	unreviewed	Far upstream element-binding protein 2 (Fragment)	KHSRP	Homo sapiens (Human)	114
+KHSRP		M0QYH3	M0QYH3_HUMAN	unreviewed	Far upstream element-binding protein 2 (Fragment)	KHSRP	Homo sapiens (Human)	169
+KHSRP		M0R0C6	M0R0C6_HUMAN	unreviewed	Far upstream element-binding protein 2 (Fragment)	KHSRP	Homo sapiens (Human)	176
+KHSRP		M0R0I5	M0R0I5_HUMAN	unreviewed	Far upstream element-binding protein 2 (Fragment)	KHSRP	Homo sapiens (Human)	279
+KHSRP		M0R251	M0R251_HUMAN	unreviewed	Far upstream element-binding protein 2 (Fragment)	KHSRP	Homo sapiens (Human)	79
+KHSRP		M0R263	M0R263_HUMAN	unreviewed	Far upstream element-binding protein 2 (Fragment)	KHSRP	Homo sapiens (Human)	143
+KHSRP		M0R3J3	M0R3J3_HUMAN	unreviewed	Far upstream element-binding protein 2 (Fragment)	KHSRP	Homo sapiens (Human)	269
+KHSRP		Q92945	FUBP2_HUMAN	reviewed	Far upstream element-binding protein 2 (FUSE-binding protein 2) (KH type-splicing regulatory protein) (KSRP) (p75)	KHSRP FUBP2	Homo sapiens (Human)	711
+KIF5B		D3DRX6	D3DRX6_HUMAN	unreviewed	Kinesin-like protein	KIF5B hCG_37538	Homo sapiens (Human)	963
+KIF5B		P33176	KINH_HUMAN	reviewed	Kinesin-1 heavy chain (Conventional kinesin heavy chain) (Ubiquitous kinesin heavy chain) (UKHC)	KIF5B KNS KNS1	Homo sapiens (Human)	963
+KIF5B		Q2TA90	Q2TA90_HUMAN	unreviewed	Kinesin-like protein (Fragment)	KIF5B	Homo sapiens (Human)	350
+KIF5B		Q66K46	Q66K46_HUMAN	unreviewed	Kinesin-like protein (Fragment)	KIF5B	Homo sapiens (Human)	351
+KIF5B		Q6P164	Q6P164_HUMAN	unreviewed	Kinesin-like protein (Fragment)	KIF5B	Homo sapiens (Human)	345
+LSM1		A0A0S2Z590	A0A0S2Z590_HUMAN	unreviewed	LSM1-like protein U6 small nuclear RNA associated isoform 1 (Fragment)	LSM1	Homo sapiens (Human)	133
+LSM1		E5RH18	E5RH18_HUMAN	unreviewed	LSM1-like protein U6 small nuclear RNA associated isoform 3 (U6 snRNA-associated Sm-like protein LSm1)	LSM1	Homo sapiens (Human)	44
+LSM1		E5RJ47	E5RJ47_HUMAN	unreviewed	U6 snRNA-associated Sm-like protein LSm1	LSM1	Homo sapiens (Human)	44
+LSM1		O15116	LSM1_HUMAN	reviewed	U6 snRNA-associated Sm-like protein LSm1 (Cancer-associated Sm-like) (Small nuclear ribonuclear CaSm)	LSM1 CASM	Homo sapiens (Human)	133
+LSM4		M0QXB0	M0QXB0_HUMAN	unreviewed	U6 snRNA-associated Sm-like protein LSm4	LSM4	Homo sapiens (Human)	69
+LSM4		Q9Y4Z0	LSM4_HUMAN	reviewed	U6 snRNA-associated Sm-like protein LSm4 (Glycine-rich protein) (GRP)	LSM4	Homo sapiens (Human)	139
+LSM4		U3KQK1	U3KQK1_HUMAN	unreviewed	U6 snRNA-associated Sm-like protein LSm4	LSM4	Homo sapiens (Human)	125
+LSM4		U3KQS7	U3KQS7_HUMAN	unreviewed	U6 snRNA-associated Sm-like protein LSm4 (Fragment)	LSM4	Homo sapiens (Human)	109
+LSM4		V9GZ56	V9GZ56_HUMAN	unreviewed	U6 snRNA-associated Sm-like protein LSm4 (Fragment)	LSM4	Homo sapiens (Human)	238
+MTHFD2		B8ZZU9	B8ZZU9_HUMAN	unreviewed	Bifunctional methylenetetrahydrofolate dehydrogenase/cyclohydrolase, mitochondrial	MTHFD2	Homo sapiens (Human)	267
+MTHFD2		B9A062	B9A062_HUMAN	unreviewed	Bifunctional methylenetetrahydrofolate dehydrogenase/cyclohydrolase, mitochondrial	MTHFD2	Homo sapiens (Human)	222
+MTHFD2		F8WF06	F8WF06_HUMAN	unreviewed	Bifunctional methylenetetrahydrofolate dehydrogenase/cyclohydrolase, mitochondrial	MTHFD2	Homo sapiens (Human)	36
+MTHFD2		F8WF89	F8WF89_HUMAN	unreviewed	Bifunctional methylenetetrahydrofolate dehydrogenase/cyclohydrolase, mitochondrial	MTHFD2	Homo sapiens (Human)	37
+MTHFD2		P13995	MTDC_HUMAN	reviewed	Bifunctional methylenetetrahydrofolate dehydrogenase/cyclohydrolase, mitochondrial [Includes: NAD-dependent methylenetetrahydrofolate dehydrogenase (EC 1.5.1.15); Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)]	MTHFD2 NMDMC	Homo sapiens (Human)	350
+NFYA		A0A024RD22	A0A024RD22_HUMAN	unreviewed	Nuclear transcription factor Y, alpha, isoform CRA_a	NFYA hCG_33333	Homo sapiens (Human)	318
+NFYA		A0A0U4C5A9	A0A0U4C5A9_HUMAN	unreviewed	Nuclear transcription factor Y alpha (Nuclear transcription factor Y, alpha, isoform CRA_d)	NFYA hCG_33333	Homo sapiens (Human)	312
+NFYA		K9JA49	K9JA49_HUMAN	unreviewed	Nuclear transcription factor Y alpha isoform 1	NFYA	Homo sapiens (Human)	346
+NFYA		P23511	NFYA_HUMAN	reviewed	Nuclear transcription factor Y subunit alpha (CAAT box DNA-binding protein subunit A) (Nuclear transcription factor Y subunit A) (NF-YA)	NFYA	Homo sapiens (Human)	347
+NFYB		A0A024RBG7	A0A024RBG7_HUMAN	unreviewed	Nuclear transcription factor Y, beta, isoform CRA_c	NFYB hCG_1811685	Homo sapiens (Human)	207
+NFYB		F8VSL3	F8VSL3_HUMAN	unreviewed	Nuclear transcription factor Y subunit beta (Fragment)	NFYB	Homo sapiens (Human)	131
+NFYB		P25208	NFYB_HUMAN	reviewed	Nuclear transcription factor Y subunit beta (CAAT box DNA-binding protein subunit B) (Nuclear transcription factor Y subunit B) (NF-YB)	NFYB HAP3	Homo sapiens (Human)	207
+NHP2		D6RC52	D6RC52_HUMAN	unreviewed	H/ACA ribonucleoprotein complex subunit 2 (Fragment)	NHP2	Homo sapiens (Human)	132
+NHP2		D6RCB9	D6RCB9_HUMAN	unreviewed	H/ACA ribonucleoprotein complex subunit 2 (Fragment)	NHP2	Homo sapiens (Human)	135
+NHP2		H0YC83	H0YC83_HUMAN	unreviewed	H/ACA ribonucleoprotein complex subunit 2 (Fragment)	NHP2	Homo sapiens (Human)	85
+NHP2		J3QSY4	J3QSY4_HUMAN	unreviewed	H/ACA ribonucleoprotein complex subunit 2	NHP2	Homo sapiens (Human)	90
+NHP2		Q9NX24	NHP2_HUMAN	reviewed	H/ACA ribonucleoprotein complex subunit 2 (Nucleolar protein family A member 2) (snoRNP protein NHP2)	NHP2 NOLA2 HSPC286	Homo sapiens (Human)	153
+NOLC1		A0A0A0MRM9	A0A0A0MRM9_HUMAN	unreviewed	Nucleolar and coiled-body phosphoprotein 1 (Fragment)	NOLC1	Homo sapiens (Human)	708
+NOLC1		Q14978	NOLC1_HUMAN	reviewed	Nucleolar and coiled-body phosphoprotein 1 (140 kDa nucleolar phosphoprotein) (Nopp140) (Hepatitis C virus NS5A-transactivated protein 13) (HCV NS5A-transactivated protein 13) (Nucleolar 130 kDa protein) (Nucleolar phosphoprotein p130)	NOLC1 KIAA0035 NS5ATP13	Homo sapiens (Human)	699
+NOLC1		Q96J17	Q96J17_HUMAN	unreviewed	NOLC1 protein (Nucleolar and coiled-body phosphoprotein 1, isoform CRA_a) (cDNA FLJ32193 fis, clone PLACE6002345, highly similar to Nucleolar phosphoprotein p130)	NOLC1 hCG_25636	Homo sapiens (Human)	418
+NOLC1		S4R341	S4R341_HUMAN	unreviewed	Nucleolar and coiled-body phosphoprotein 1	NOLC1	Homo sapiens (Human)	73
+NOLC1		S4R349	S4R349_HUMAN	unreviewed	Nucleolar and coiled-body phosphoprotein 1 (Fragment)	NOLC1	Homo sapiens (Human)	258
+NOLC1		S4R3C2	S4R3C2_HUMAN	unreviewed	Nucleolar and coiled-body phosphoprotein 1 (Fragment)	NOLC1	Homo sapiens (Human)	281
+NOLC1		S4R402	S4R402_HUMAN	unreviewed	Nucleolar and coiled-body phosphoprotein 1	NOLC1	Homo sapiens (Human)	46
+NOP14		E9PFK5	E9PFK5_HUMAN	unreviewed	Nucleolar protein 14	NOP14	Homo sapiens (Human)	788
+NOP14		P78316	NOP14_HUMAN	reviewed	Nucleolar protein 14 (Nucleolar complex protein 14)	NOP14 C4orf9 NOL14 RES4-25	Homo sapiens (Human)	857
+NOP14		Q96GC8	Q96GC8_HUMAN	unreviewed	NOP14 protein (Fragment)	NOP14	Homo sapiens (Human)	468
+NOP56		A0PJ92	A0PJ92_HUMAN	unreviewed	NOP56 protein (Fragment)	NOP56	Homo sapiens (Human)	447
+NOP56		H0Y653	H0Y653_HUMAN	unreviewed	Nucleolar protein 56 (Fragment)	NOP56	Homo sapiens (Human)	219
+NOP56		H0YDU4	H0YDU4_HUMAN	unreviewed	Nucleolar protein 56 (Fragment)	NOP56	Homo sapiens (Human)	252
+NOP56		O00567	NOP56_HUMAN	reviewed	Nucleolar protein 56 (Nucleolar protein 5A)	NOP56 NOL5A	Homo sapiens (Human)	594
+NOP56		Q5JXT2	Q5JXT2_HUMAN	unreviewed	Nucleolar protein 56 (Fragment)	NOP56	Homo sapiens (Human)	281
+NOP56		Q9BSN3	Q9BSN3_HUMAN	unreviewed	NOP56 protein	NOP56	Homo sapiens (Human)	174
+NPM1		A0A0S2Z491	A0A0S2Z491_HUMAN	unreviewed	Nucleophosmin isoform 2 (Fragment)	NPM1	Homo sapiens (Human)	294
+NPM1		A0A0S2Z4G7	A0A0S2Z4G7_HUMAN	unreviewed	Nucleophosmin (Nucleolar phosphoprotein B23, numatrin), isoform CRA_f (Nucleophosmin isoform 1) (Fragment)	NPM1 hCG_1979311	Homo sapiens (Human)	265
+NPM1		A4ZU86	A4ZU86_HUMAN	unreviewed	Truncated nucleolar phosphoprotein B23	NPM1	Homo sapiens (Human)	274
+NPM1		B1PHD4	B1PHD4_HUMAN	unreviewed	Mutant NPM1 protein (Fragment)	NPM1	Homo sapiens (Human)	16
+NPM1		E5RGW4	E5RGW4_HUMAN	unreviewed	Nucleophosmin (Fragment)	NPM1	Homo sapiens (Human)	59
+NPM1		E5RI98	E5RI98_HUMAN	unreviewed	Nucleophosmin (Fragment)	NPM1	Homo sapiens (Human)	111
+NPM1		P06748	NPM_HUMAN	reviewed	Nucleophosmin (NPM) (Nucleolar phosphoprotein B23) (Nucleolar protein NO38) (Numatrin)	NPM1 NPM	Homo sapiens (Human)	294
+NPM1		Q9BTI9	Q9BTI9_HUMAN	unreviewed	NPM1 protein (Fragment)	NPM1	Homo sapiens (Human)	228
+OBFC2A		Q96AH0	SOSB2_HUMAN	reviewed	SOSS complex subunit B2 (Nucleic acid-binding protein 1) (Oligonucleotide/oligosaccharide-binding fold-containing protein 2A) (Sensor of single-strand DNA complex subunit B2) (Sensor of ssDNA subunit B2) (SOSS-B2) (Single-stranded DNA-binding protein 2) (hSSB2)	NABP1 OBFC2A SSB2	Homo sapiens (Human)	204
+PAIP1		A0A024R094	A0A024R094_HUMAN	unreviewed	Poly(A) binding protein interacting protein 1, isoform CRA_a	PAIP1 hCG_1751685	Homo sapiens (Human)	306
+PAIP1		A0A1D5RMS4	A0A1D5RMS4_HUMAN	unreviewed	Polyadenylate-binding protein-interacting protein 1 (Fragment)	PAIP1	Homo sapiens (Human)	9
+PAIP1		D6R9H8	D6R9H8_HUMAN	unreviewed	Polyadenylate-binding protein-interacting protein 1	PAIP1	Homo sapiens (Human)	266
+PAIP1		D6RD97	D6RD97_HUMAN	unreviewed	Polyadenylate-binding protein-interacting protein 1 (Fragment)	PAIP1	Homo sapiens (Human)	95
+PAIP1		D6REB4	D6REB4_HUMAN	unreviewed	Polyadenylate-binding protein-interacting protein 1	PAIP1	Homo sapiens (Human)	351
+PAIP1		D6RJ02	D6RJ02_HUMAN	unreviewed	Polyadenylate-binding protein-interacting protein 1 (Fragment)	PAIP1	Homo sapiens (Human)	168
+PAIP1		D6RJF2	D6RJF2_HUMAN	unreviewed	Polyadenylate-binding protein-interacting protein 1 (Fragment)	PAIP1	Homo sapiens (Human)	200
+PAIP1		H0YA44	H0YA44_HUMAN	unreviewed	Polyadenylate-binding protein-interacting protein 1 (Fragment)	PAIP1	Homo sapiens (Human)	49
+PAIP1		Q9H074	PAIP1_HUMAN	reviewed	Polyadenylate-binding protein-interacting protein 1 (PABP-interacting protein 1) (PAIP-1) (Poly(A)-binding protein-interacting protein 1)	PAIP1	Homo sapiens (Human)	479
+PARN		F5H1Z4	F5H1Z4_HUMAN	unreviewed	Poly(A)-specific ribonuclease PARN	PARN	Homo sapiens (Human)	207
+PARN		H3BRK1	H3BRK1_HUMAN	unreviewed	Poly(A)-specific ribonuclease PARN (Fragment)	PARN	Homo sapiens (Human)	261
+PARN		H3BT23	H3BT23_HUMAN	unreviewed	Poly(A)-specific ribonuclease PARN (Fragment)	PARN	Homo sapiens (Human)	109
+PARN		H3BVG1	H3BVG1_HUMAN	unreviewed	Poly(A)-specific ribonuclease PARN	PARN	Homo sapiens (Human)	65
+PARN		O95453	PARN_HUMAN	reviewed	Poly(A)-specific ribonuclease PARN (EC 3.1.13.4) (Deadenylating nuclease) (Deadenylation nuclease) (Polyadenylate-specific ribonuclease)	PARN DAN	Homo sapiens (Human)	639
+PDIA5		C9JY10	C9JY10_HUMAN	unreviewed	Protein disulfide-isomerase A5 (Fragment)	PDIA5	Homo sapiens (Human)	64
+PDIA5		H7C4F9	H7C4F9_HUMAN	unreviewed	Protein disulfide-isomerase A5 (Fragment)	PDIA5	Homo sapiens (Human)	83
+PDIA5		Q14554	PDIA5_HUMAN	reviewed	Protein disulfide-isomerase A5 (EC 5.3.4.1) (Protein disulfide isomerase-related protein)	PDIA5 PDIR	Homo sapiens (Human)	519
+PDIA6		C9JNG5	C9JNG5_HUMAN	unreviewed	Protein disulfide-isomerase A6 (Fragment)	PDIA6	Homo sapiens (Human)	11
+PDIA6		Q15084	PDIA6_HUMAN	reviewed	Protein disulfide-isomerase A6 (EC 5.3.4.1) (Endoplasmic reticulum protein 5) (ER protein 5) (ERp5) (Protein disulfide isomerase P5) (Thioredoxin domain-containing protein 7)	PDIA6 ERP5 P5 TXNDC7	Homo sapiens (Human)	440
+POP4		A0A0A0MQS4	A0A0A0MQS4_HUMAN	unreviewed	Ribonuclease P protein subunit p29	POP4	Homo sapiens (Human)	96
+POP4		K7EK50	K7EK50_HUMAN	unreviewed	Ribonuclease P protein subunit p29	POP4	Homo sapiens (Human)	42
+POP4		K7EQV2	K7EQV2_HUMAN	unreviewed	Ribonuclease P protein subunit p29 (Fragment)	POP4	Homo sapiens (Human)	150
+POP4		K7ERD7	K7ERD7_HUMAN	unreviewed	Ribonuclease P protein subunit p29 (Fragment)	POP4	Homo sapiens (Human)	181
+POP4		K7ESH8	K7ESH8_HUMAN	unreviewed	Ribonuclease P protein subunit p29	POP4	Homo sapiens (Human)	40
+POP4		O95707	RPP29_HUMAN	reviewed	Ribonuclease P protein subunit p29 (hPOP4) (EC 3.1.26.5)	POP4 RPP29	Homo sapiens (Human)	220
+PREB		A0A0F7RPZ8	A0A0F7RPZ8_HUMAN	unreviewed	Prometheus B	PREB	Homo sapiens (Human)	148
+PREB		B5MC98	B5MC98_HUMAN	unreviewed	Prolactin regulatory element-binding protein	PREB	Homo sapiens (Human)	359
+PREB		F8WCS5	F8WCS5_HUMAN	unreviewed	Prolactin regulatory element-binding protein	PREB	Homo sapiens (Human)	50
+PREB		H7BZX0	H7BZX0_HUMAN	unreviewed	Prolactin regulatory element-binding protein (Fragment)	PREB	Homo sapiens (Human)	22
+PREB		H7C0W3	H7C0W3_HUMAN	unreviewed	Prolactin regulatory element-binding protein (Fragment)	PREB	Homo sapiens (Human)	176
+PREB		H7C2N7	H7C2N7_HUMAN	unreviewed	Prolactin regulatory element-binding protein (Fragment)	PREB	Homo sapiens (Human)	106
+PREB		Q05DB2	Q05DB2_HUMAN	unreviewed	PREB protein (Prolactin regulatory element binding, isoform CRA_d)	PREB hCG_23709	Homo sapiens (Human)	345
+PREB		Q9HCU5	PREB_HUMAN	reviewed	Prolactin regulatory element-binding protein (Mammalian guanine nucleotide exchange factor mSec12)	PREB SEC12	Homo sapiens (Human)	417
+PSAT1		A0A024R222	A0A024R222_HUMAN	unreviewed	Phosphoserine aminotransferase (EC 2.6.1.52)	PSAT1 hCG_1984423	Homo sapiens (Human)	370
+PSAT1		A0A024R280	A0A024R280_HUMAN	unreviewed	Phosphoserine aminotransferase 1, isoform CRA_a	PSAT1 hCG_1984423	Homo sapiens (Human)	324
+PSAT1		A9LS35	A9LS35_HUMAN	unreviewed	Phosphoserine aminotransferase (Fragment)	PSAT1	Homo sapiens (Human)	20
+PSAT1		Q9Y617	SERC_HUMAN	reviewed	Phosphoserine aminotransferase (EC 2.6.1.52) (Phosphohydroxythreonine aminotransferase) (PSAT)	PSAT1 PSA	Homo sapiens (Human)	370
+RPS14		E5RH77	E5RH77_HUMAN	unreviewed	40S ribosomal protein S14	RPS14	Homo sapiens (Human)	134
+RPS14		H0YB22	H0YB22_HUMAN	unreviewed	40S ribosomal protein S14 (Fragment)	RPS14	Homo sapiens (Human)	120
+RPS14		P62263	RS14_HUMAN	reviewed	40S ribosomal protein S14 (Small ribosomal subunit protein uS11)	RPS14 PRO2640	Homo sapiens (Human)	151
+RPS14		Q15372	Q15372_HUMAN	unreviewed	Putative uncharacterized protein RPS14	RPS14	Homo sapiens (Human)	164
+RRP9		O43818	U3IP2_HUMAN	reviewed	U3 small nucleolar RNA-interacting protein 2 (RRP9 homolog) (U3 small nucleolar ribonucleoprotein-associated 55 kDa protein) (U3 snoRNP-associated 55 kDa protein) (U3-55K)	RRP9 RNU3IP2 U355K	Homo sapiens (Human)	475
+SDAD1		D6RC74	D6RC74_HUMAN	unreviewed	Protein SDA1 homolog	SDAD1	Homo sapiens (Human)	88
+SDAD1		D6RIR5	D6RIR5_HUMAN	unreviewed	Protein SDA1 homolog	SDAD1	Homo sapiens (Human)	47
+SDAD1		E7EW05	E7EW05_HUMAN	unreviewed	Protein SDA1 homolog	SDAD1	Homo sapiens (Human)	650
+SDAD1		F8W8T7	F8W8T7_HUMAN	unreviewed	Protein SDA1 homolog	SDAD1	Homo sapiens (Human)	72
+SDAD1		Q9NVU7	SDA1_HUMAN	reviewed	Protein SDA1 homolog (Nucleolar protein 130) (SDA1 domain-containing protein 1) (hSDA)	SDAD1 NUC130	Homo sapiens (Human)	687
+SEC11A		H0YKT4	H0YKT4_HUMAN	unreviewed	Signal peptidase complex catalytic subunit SEC11A	SEC11A	Homo sapiens (Human)	129
+SEC11A		H0YNA5	H0YNA5_HUMAN	unreviewed	Signal peptidase I (EC 3.4.21.89) (Fragment)	SEC11A	Homo sapiens (Human)	135
+SEC11A		H0YNG3	H0YNG3_HUMAN	unreviewed	Signal peptidase complex catalytic subunit SEC11 (EC 3.4.21.89)	SEC11A	Homo sapiens (Human)	163
+SEC11A		H0YNX5	H0YNX5_HUMAN	unreviewed	Signal peptidase complex catalytic subunit SEC11 (EC 3.4.21.89) (Fragment)	SEC11A	Homo sapiens (Human)	106
+SEC11A		P67812	SC11A_HUMAN	reviewed	Signal peptidase complex catalytic subunit SEC11A (EC 3.4.21.89) (Endopeptidase SP18) (Microsomal signal peptidase 18 kDa subunit) (SPase 18 kDa subunit) (SEC11 homolog A) (SEC11-like protein 1) (SPC18)	SEC11A SEC11L1 SPC18 SPCS4A	Homo sapiens (Human)	179
+SEC31A		A0A024A2P5	A0A024A2P5_HUMAN	unreviewed	SEC31A/ALK fusion protein (Fragment)	ALK fusion SEC31A	Homo sapiens (Human)	66
+SEC31A		D6RAB3	D6RAB3_HUMAN	unreviewed	Protein transport protein Sec31A	SEC31A	Homo sapiens (Human)	68
+SEC31A		D6RBT0	D6RBT0_HUMAN	unreviewed	Protein transport protein Sec31A (Fragment)	SEC31A	Homo sapiens (Human)	81
+SEC31A		D6RCQ9	D6RCQ9_HUMAN	unreviewed	Protein transport protein Sec31A (Fragment)	SEC31A	Homo sapiens (Human)	166
+SEC31A		D6RE64	D6RE64_HUMAN	unreviewed	Protein transport protein Sec31A (Fragment)	SEC31A	Homo sapiens (Human)	164
+SEC31A		D6REA9	D6REA9_HUMAN	unreviewed	Protein transport protein Sec31A (Fragment)	SEC31A	Homo sapiens (Human)	66
+SEC31A		D6REC0	D6REC0_HUMAN	unreviewed	Protein transport protein Sec31A (Fragment)	SEC31A	Homo sapiens (Human)	26
+SEC31A		D6REX3	D6REX3_HUMAN	unreviewed	Protein transport protein Sec31A	SEC31A	Homo sapiens (Human)	1251
+SEC31A		D6RHE8	D6RHE8_HUMAN	unreviewed	Protein transport protein Sec31A	SEC31A	Homo sapiens (Human)	92
+SEC31A		D6RHZ5	D6RHZ5_HUMAN	unreviewed	Protein transport protein Sec31A	SEC31A	Homo sapiens (Human)	877
+SEC31A		H0Y8V7	H0Y8V7_HUMAN	unreviewed	Protein transport protein Sec31A (Fragment)	SEC31A	Homo sapiens (Human)	285
+SEC31A		H0Y8W8	H0Y8W8_HUMAN	unreviewed	Protein transport protein Sec31A (Fragment)	SEC31A	Homo sapiens (Human)	383
+SEC31A		H0Y9K1	H0Y9K1_HUMAN	unreviewed	Protein transport protein Sec31A (Fragment)	SEC31A	Homo sapiens (Human)	237
+SEC31A		H0Y9T9	H0Y9T9_HUMAN	unreviewed	Protein transport protein Sec31A (Fragment)	SEC31A	Homo sapiens (Human)	235
+SEC31A		H0Y9V3	H0Y9V3_HUMAN	unreviewed	Protein transport protein Sec31A (Fragment)	SEC31A	Homo sapiens (Human)	219
+SEC31A		H0YAB3	H0YAB3_HUMAN	unreviewed	Protein transport protein Sec31A (Fragment)	SEC31A	Homo sapiens (Human)	443
+SEC31A		H0YAF5	H0YAF5_HUMAN	unreviewed	Protein transport protein Sec31A (Fragment)	SEC31A	Homo sapiens (Human)	181
+SEC31A		H7BXG7	H7BXG7_HUMAN	unreviewed	Protein transport protein Sec31A	SEC31A	Homo sapiens (Human)	969
+SEC31A		O94979	SC31A_HUMAN	reviewed	Protein transport protein Sec31A (ABP125) (ABP130) (SEC31-like protein 1) (SEC31-related protein A) (Web1-like protein)	SEC31A KIAA0905 SEC31L1 HSPC275 HSPC334	Homo sapiens (Human)	1220
+SEC31A		U3KQC9	U3KQC9_HUMAN	unreviewed	Protein transport protein Sec31A (Fragment)	SEC31A	Homo sapiens (Human)	65
+SEC31A		U3KQR3	U3KQR3_HUMAN	unreviewed	Protein transport protein Sec31A (Fragment)	SEC31A	Homo sapiens (Human)	11
+SERP1		C9JSB0	C9JSB0_HUMAN	unreviewed	Stress-associated endoplasmic reticulum protein 1	SERP1	Homo sapiens (Human)	55
+SERP1		C9JUH5	C9JUH5_HUMAN	unreviewed	Stress-associated endoplasmic reticulum protein 1	SERP1	Homo sapiens (Human)	78
+SERP1		Q9Y6X1	SERP1_HUMAN	reviewed	Stress-associated endoplasmic reticulum protein 1 (Ribosome-attached membrane protein 4)	SERP1 RAMP4	Homo sapiens (Human)	66
+SHC1		H0Y539	H0Y539_HUMAN	unreviewed	SHC-transforming protein 1 (Fragment)	SHC1	Homo sapiens (Human)	297
+SHC1		P29353	SHC1_HUMAN	reviewed	SHC-transforming protein 1 (SHC-transforming protein 3) (SHC-transforming protein A) (Src homology 2 domain-containing-transforming protein C1) (SH2 domain protein C1)	SHC1 SHC SHCA	Homo sapiens (Human)	583
+SHC1		Q5T181	Q5T181_HUMAN	unreviewed	SHC-transforming protein 1 (Fragment)	SHC1	Homo sapiens (Human)	137
+SHC1		Q5T182	Q5T182_HUMAN	unreviewed	SHC-transforming protein 1 (Fragment)	SHC1	Homo sapiens (Human)	200
+SHC1		Q5T187	Q5T187_HUMAN	unreviewed	SHC-transforming protein 1 (Fragment)	SHC1	Homo sapiens (Human)	129
+SHC1		Q5T188	Q5T188_HUMAN	unreviewed	SHC-transforming protein 1 (Fragment)	SHC1	Homo sapiens (Human)	200
+SHC1		X6R6D0	X6R6D0_HUMAN	unreviewed	SHC-transforming protein 1	SHC1	Homo sapiens (Human)	354
+SKIV2L2		D6REC7	D6REC7_HUMAN	unreviewed	Superkiller viralicidic activity 2-like 2	SKIV2L2	Homo sapiens (Human)	89
+SKIV2L2		H0Y8U3	H0Y8U3_HUMAN	unreviewed	Superkiller viralicidic activity 2-like 2 (Fragment)	SKIV2L2	Homo sapiens (Human)	88
+SKIV2L2		H0YAC4	H0YAC4_HUMAN	unreviewed	Superkiller viralicidic activity 2-like 2 (Fragment)	SKIV2L2	Homo sapiens (Human)	72
+SKIV2L2		L8E9T8	L8E9T8_HUMAN	unreviewed	Alternative protein SKIV2L2	SKIV2L2	Homo sapiens (Human)	59
+SKIV2L2		P42285	SK2L2_HUMAN	reviewed	Superkiller viralicidic activity 2-like 2 (EC 3.6.4.13) (ATP-dependent RNA helicase DOB1) (ATP-dependent RNA helicase SKIV2L2) (TRAMP-like complex helicase)	SKIV2L2 DOB1 KIAA0052 Mtr4	Homo sapiens (Human)	1042
+SKIV2L2		Q3MHC9	Q3MHC9_HUMAN	unreviewed	SKIV2L2 protein (Fragment)	SKIV2L2	Homo sapiens (Human)	67
+SLC1A4		P43007	SATT_HUMAN	reviewed	Neutral amino acid transporter A (Alanine/serine/cysteine/threonine transporter 1) (ASCT-1) (SATT) (Solute carrier family 1 member 4)	SLC1A4 ASCT1 SATT	Homo sapiens (Human)	532
+SLC30A5		D6REM2	D6REM2_HUMAN	unreviewed	Zinc transporter 5 (Fragment)	SLC30A5	Homo sapiens (Human)	71
+SLC30A5		H0Y957	H0Y957_HUMAN	unreviewed	Zinc transporter 5 (Fragment)	SLC30A5	Homo sapiens (Human)	84
+SLC30A5		H0YAH4	H0YAH4_HUMAN	unreviewed	Zinc transporter 5 (Fragment)	SLC30A5	Homo sapiens (Human)	65
+SLC30A5		Q8TAD4	ZNT5_HUMAN	reviewed	Zinc transporter 5 (ZnT-5) (Solute carrier family 30 member 5) (ZnT-like transporter 1) (hZTL1)	SLC30A5 ZNT5 ZNTL1 ZTL1 UNQ863/PRO1879	Homo sapiens (Human)	765
+SLC30A5		Q9BY48	Q9BY48_HUMAN	unreviewed	Putative disease resistance protein (Zinc transporter 5)	SLC30A5	Homo sapiens (Human)	360
+SLC7A5		A0A0C4DGL4	A0A0C4DGL4_HUMAN	unreviewed	Large neutral amino acids transporter small subunit 1 (Solute carrier family 7 (Cationic amino acid transporter, y+ system), member 5, isoform CRA_b)	SLC7A5 hCG_1789357	Homo sapiens (Human)	241
+SLC7A5		Q01650	LAT1_HUMAN	reviewed	Large neutral amino acids transporter small subunit 1 (4F2 light chain) (4F2 LC) (4F2LC) (CD98 light chain) (Integral membrane protein E16) (L-type amino acid transporter 1) (hLAT1) (Solute carrier family 7 member 5) (y+ system cationic amino acid transporter)	SLC7A5 CD98LC LAT1 MPE16	Homo sapiens (Human)	507
+SLC7A5		Q2MCL6	Q2MCL6_HUMAN	unreviewed	Large neutral amino acids transporter 1 (Fragment)	SLC7A5	Homo sapiens (Human)	71
+SPCS1		C9JBL1	C9JBL1_HUMAN	unreviewed	Signal peptidase complex subunit 1	SPCS1	Homo sapiens (Human)	80
+SPCS1		Q9Y6A9	SPCS1_HUMAN	reviewed	Signal peptidase complex subunit 1 (EC 3.4.-.-) (Microsomal signal peptidase 12 kDa subunit) (SPase 12 kDa subunit)	SPCS1 SPC12 HSPC033	Homo sapiens (Human)	102
+SPCS1		X6R2S6	X6R2S6_HUMAN	unreviewed	Signal peptidase complex subunit 1 (Signal peptidase complex subunit 1 homolog (S. cerevisiae))	SPCS1 hCG_17554	Homo sapiens (Human)	169
+SPCS3		D3DP46	D3DP46_HUMAN	unreviewed	Signal peptidase complex subunit 3 homolog (S. cerevisiae), isoform CRA_a	SPCS3 hCG_1787020	Homo sapiens (Human)	180
+SPCS3		P61009	SPCS3_HUMAN	reviewed	Signal peptidase complex subunit 3 (EC 3.4.-.-) (Microsomal signal peptidase 22/23 kDa subunit) (SPC22/23) (SPase 22/23 kDa subunit)	SPCS3 SPC22 UNQ1841/PRO3567	Homo sapiens (Human)	180
+SRPR		A0A024R3M0	A0A024R3M0_HUMAN	unreviewed	Signal recognition particle receptor ('docking protein'), isoform CRA_a	SRPR hCG_39128	Homo sapiens (Human)	414
+SRPR		P08240	SRPRA_HUMAN	reviewed	Signal recognition particle receptor subunit alpha (SR-alpha) (Docking protein alpha) (DP-alpha)	SRPRA SRPR	Homo sapiens (Human)	638
+SRPR		Q6IAX9	Q6IAX9_HUMAN	unreviewed	SRPR protein	SRPR	Homo sapiens (Human)	638
+SRPRB		C9J5Z8	C9J5Z8_HUMAN	unreviewed	Signal recognition particle receptor subunit beta (Fragment)	SRPRB	Homo sapiens (Human)	92
+SRPRB		H7C4H2	H7C4H2_HUMAN	unreviewed	Signal recognition particle receptor subunit beta (Fragment)	SRPRB	Homo sapiens (Human)	160
+SRPRB		Q549N5	Q549N5_HUMAN	unreviewed	Signal recognition particle receptor beta subunit (Signal recognition particle receptor, B subunit, isoform CRA_b)	SRPRB hCG_2023561	Homo sapiens (Human)	271
+SRPRB		Q9Y5M8	SRPRB_HUMAN	reviewed	Signal recognition particle receptor subunit beta (SR-beta) (Protein APMCF1)	SRPRB PSEC0230	Homo sapiens (Human)	271
+SSR1		C9IZQ1	C9IZQ1_HUMAN	unreviewed	Translocon-associated protein subunit alpha	SSR1	Homo sapiens (Human)	298
+SSR1		C9J3L8	C9J3L8_HUMAN	unreviewed	Translocon-associated protein subunit alpha	SSR1	Homo sapiens (Human)	265
+SSR1		C9J5W0	C9J5W0_HUMAN	unreviewed	Translocon-associated protein subunit alpha	SSR1	Homo sapiens (Human)	266
+SSR1		C9JBX5	C9JBX5_HUMAN	unreviewed	Translocon-associated protein subunit alpha	SSR1	Homo sapiens (Human)	218
+SSR1		C9JY01	C9JY01_HUMAN	unreviewed	Translocon-associated protein subunit alpha (Fragment)	SSR1	Homo sapiens (Human)	103
+SSR1		E9PAL7	E9PAL7_HUMAN	unreviewed	Translocon-associated protein subunit alpha	SSR1	Homo sapiens (Human)	291
+SSR1		P43307	SSRA_HUMAN	reviewed	Translocon-associated protein subunit alpha (TRAP-alpha) (Signal sequence receptor subunit alpha) (SSR-alpha)	SSR1 TRAPA PSEC0262	Homo sapiens (Human)	286
+STC2		E5RG57	E5RG57_HUMAN	unreviewed	Stanniocalcin-2 (Fragment)	STC2	Homo sapiens (Human)	53
+STC2		H0YB13	H0YB13_HUMAN	unreviewed	Stanniocalcin-2 (Fragment)	STC2	Homo sapiens (Human)	123
+STC2		O76061	STC2_HUMAN	reviewed	Stanniocalcin-2 (STC-2) (Stanniocalcin-related protein) (STC-related protein) (STCRP)	STC2	Homo sapiens (Human)	302
+STC2		Q6FHC9	Q6FHC9_HUMAN	unreviewed	STC2 protein (Stanniocalcin 2, isoform CRA_a) (cDNA FLJ14757 fis, clone NT2RP3003242, highly similar to Stanniocalcin-2) (cDNA FLJ38572 fis, clone HCHON2006786, highly similar to Stanniocalcin-2) (cDNA PSEC0097 fis, clone NT2RP2002139, highly similar to Stanniocalcin-2) (Fragment)	STC2 hCG_40281	Homo sapiens (Human)	302
+TARS		D6R9F8	D6R9F8_HUMAN	unreviewed	Threonine--tRNA ligase, cytoplasmic (Fragment)	TARS	Homo sapiens (Human)	129
+TARS		D6RBR8	D6RBR8_HUMAN	unreviewed	Threonine--tRNA ligase, cytoplasmic (Fragment)	TARS	Homo sapiens (Human)	50
+TARS		D6RCA5	D6RCA5_HUMAN	unreviewed	Threonine--tRNA ligase, cytoplasmic	TARS	Homo sapiens (Human)	118
+TARS		D6RCS6	D6RCS6_HUMAN	unreviewed	Threonine--tRNA ligase, cytoplasmic	TARS	Homo sapiens (Human)	66
+TARS		D6RDJ6	D6RDJ6_HUMAN	unreviewed	Threonine--tRNA ligase, cytoplasmic	TARS	Homo sapiens (Human)	131
+TARS		D6RHV7	D6RHV7_HUMAN	unreviewed	Threonine--tRNA ligase, cytoplasmic	TARS	Homo sapiens (Human)	56
+TARS		D6RJ97	D6RJ97_HUMAN	unreviewed	Threonine--tRNA ligase, cytoplasmic	TARS	Homo sapiens (Human)	55
+TARS		P26639	SYTC_HUMAN	reviewed	Threonine--tRNA ligase, cytoplasmic (EC 6.1.1.3) (Threonyl-tRNA synthetase) (ThrRS)	TARS	Homo sapiens (Human)	723
+TARS		Q5M7Z9	Q5M7Z9_HUMAN	unreviewed	TARS protein (Fragment)	TARS	Homo sapiens (Human)	682
+TATDN2		A0A024R2F3	A0A024R2F3_HUMAN	unreviewed	TatD DNase domain containing 2, isoform CRA_a	TATDN2 hCG_26732	Homo sapiens (Human)	761
+TATDN2		H7BZJ2	H7BZJ2_HUMAN	unreviewed	Putative deoxyribonuclease TATDN2 (Fragment)	TATDN2	Homo sapiens (Human)	182
+TATDN2		Q93075	TATD2_HUMAN	reviewed	Putative deoxyribonuclease TATDN2 (EC 3.1.21.-)	TATDN2 KIAA0218	Homo sapiens (Human)	761
+TSPYL2		J3KS33	J3KS33_HUMAN	unreviewed	Testis-specific Y-encoded-like protein 2 (Fragment)	TSPYL2	Homo sapiens (Human)	250
+TSPYL2		J3KST2	J3KST2_HUMAN	unreviewed	Testis-specific Y-encoded-like protein 2 (Fragment)	TSPYL2	Homo sapiens (Human)	123
+TSPYL2		Q9H2G4	TSYL2_HUMAN	reviewed	Testis-specific Y-encoded-like protein 2 (TSPY-like protein 2) (Cell division autoantigen 1) (Cutaneous T-cell lymphoma-associated antigen se20-4) (CTCL-associated antigen se20-4) (Differentially-expressed nucleolar TGF-beta1 target protein) (Nuclear protein of 79 kDa) (NP79)	TSPYL2 CDA1 DENTT TSPX HRIHFB2216	Homo sapiens (Human)	693
+TTC37		D6RCE2	D6RCE2_HUMAN	unreviewed	Tetratricopeptide repeat protein 37 (Fragment)	TTC37	Homo sapiens (Human)	611
+TTC37		D6RDA0	D6RDA0_HUMAN	unreviewed	Tetratricopeptide repeat protein 37 (Fragment)	TTC37	Homo sapiens (Human)	95
+TTC37		H0Y915	H0Y915_HUMAN	unreviewed	Tetratricopeptide repeat protein 37 (Fragment)	TTC37	Homo sapiens (Human)	33
+TTC37		H0Y964	H0Y964_HUMAN	unreviewed	Tetratricopeptide repeat protein 37 (Fragment)	TTC37	Homo sapiens (Human)	130
+TTC37		Q6PGP7	TTC37_HUMAN	reviewed	Tetratricopeptide repeat protein 37 (TPR repeat protein 37) (SKI3 homolog) (Ski3) (Tricho-hepatic-enteric syndrome protein) (Thespin)	TTC37 KIAA0372	Homo sapiens (Human)	1564
+TUBB2A		A5D906	A5D906_HUMAN	unreviewed	Tubulin beta chain (Fragment)	TUBB2A	Homo sapiens (Human)	253
+TUBB2A		A5D907	A5D907_HUMAN	unreviewed	Tubulin beta chain (Fragment)	TUBB2A	Homo sapiens (Human)	253
+TUBB2A		Q13885	TBB2A_HUMAN	reviewed	Tubulin beta-2A chain (Tubulin beta class IIa)	TUBB2A TUBB2	Homo sapiens (Human)	445
+VEGFA		A0A087WTP4	A0A087WTP4_HUMAN	unreviewed	Vascular endothelial growth factor A	VEGFA	Homo sapiens (Human)	327
+VEGFA		A0A087X1L1	A0A087X1L1_HUMAN	unreviewed	Vascular endothelial growth factor A	VEGFA	Homo sapiens (Human)	317
+VEGFA		A0A0A0MSH5	A0A0A0MSH5_HUMAN	unreviewed	Vascular endothelial growth factor A	VEGFA	Homo sapiens (Human)	395
+VEGFA		A0A0A0MSH7	A0A0A0MSH7_HUMAN	unreviewed	Vascular endothelial growth factor A	VEGFA	Homo sapiens (Human)	354
+VEGFA		A0A0A0MSI7	A0A0A0MSI7_HUMAN	unreviewed	Vascular endothelial growth factor A	VEGFA	Homo sapiens (Human)	389
+VEGFA		A0A0A0MTB2	A0A0A0MTB2_HUMAN	unreviewed	Vascular endothelial growth factor A	VEGFA	Homo sapiens (Human)	371
+VEGFA		A2A2V4	A2A2V4_HUMAN	unreviewed	Vascular endothelial growth factor A	VEGFA	Homo sapiens (Human)	163
+VEGFA		H0YBI8	H0YBI8_HUMAN	unreviewed	Vascular endothelial growth factor A (Fragment)	VEGFA	Homo sapiens (Human)	111
+VEGFA		H0YBZ0	H0YBZ0_HUMAN	unreviewed	Vascular endothelial growth factor A (Fragment)	VEGFA	Homo sapiens (Human)	323
+VEGFA		H3BLW8	H3BLW8_HUMAN	unreviewed	Vascular endothelial growth factor A	VEGFA	Homo sapiens (Human)	371
+VEGFA		J3KPA4	J3KPA4_HUMAN	unreviewed	Vascular endothelial growth factor A	VEGFA	Homo sapiens (Human)	412
+VEGFA		P15692	VEGFA_HUMAN	reviewed	Vascular endothelial growth factor A (VEGF-A) (Vascular permeability factor) (VPF)	VEGFA VEGF	Homo sapiens (Human)	232
+VEGFA		Q96FD9	Q96FD9_HUMAN	unreviewed	VEGFA protein (Fragment)	VEGFA	Homo sapiens (Human)	237
+WFS1		A0A0E3H6T4	A0A0E3H6T4_HUMAN	unreviewed	Wolframin (Fragment)	wfs1	Homo sapiens (Human)	603
+WFS1		A0A0S2Z4V4	A0A0S2Z4V4_HUMAN	unreviewed	Wolfram syndrome 1 isoform 2	WFS1	Homo sapiens (Human)	70
+WFS1		A0A0S2Z4V6	A0A0S2Z4V6_HUMAN	unreviewed	Wolfram syndrome 1 isoform 1 (Fragment)	WFS1	Homo sapiens (Human)	890
+WFS1		H0Y9G5	H0Y9G5_HUMAN	unreviewed	Wolframin (Fragment)	WFS1	Homo sapiens (Human)	252
+WFS1		O76024	WFS1_HUMAN	reviewed	Wolframin	WFS1	Homo sapiens (Human)	890
+WFS1		X2CT56	X2CT56_HUMAN	unreviewed	Truncated wolframin (Fragment)	wfs1	Homo sapiens (Human)	157
+WIPI1		A0A024R8L5	A0A024R8L5_HUMAN	unreviewed	WD repeat domain, phosphoinositide interacting 1, isoform CRA_b	WIPI1 hCG_28468	Homo sapiens (Human)	446
+WIPI1		G5EA37	G5EA37_HUMAN	unreviewed	WD repeat domain phosphoinositide-interacting protein 1 (WD repeat domain, phosphoinositide interacting 1, isoform CRA_a)	WIPI1 hCG_28468	Homo sapiens (Human)	364
+WIPI1		K7EK57	K7EK57_HUMAN	unreviewed	WD repeat domain phosphoinositide-interacting protein 1	WIPI1	Homo sapiens (Human)	369
+WIPI1		K7EKC5	K7EKC5_HUMAN	unreviewed	WD repeat domain phosphoinositide-interacting protein 1 (Fragment)	WIPI1	Homo sapiens (Human)	54
+WIPI1		K7EKN0	K7EKN0_HUMAN	unreviewed	WD repeat domain phosphoinositide-interacting protein 1 (Fragment)	WIPI1	Homo sapiens (Human)	82
+WIPI1		K7ELY0	K7ELY0_HUMAN	unreviewed	WD repeat domain phosphoinositide-interacting protein 1 (Fragment)	WIPI1	Homo sapiens (Human)	205
+WIPI1		Q5MNZ9	WIPI1_HUMAN	reviewed	WD repeat domain phosphoinositide-interacting protein 1 (WIPI-1) (Atg18 protein homolog) (WD40 repeat protein interacting with phosphoinositides of 49 kDa) (WIPI 49 kDa)	WIPI1 WIPI49	Homo sapiens (Human)	446
+XBP1		A0A024R1F0	A0A024R1F0_HUMAN	unreviewed	X-box binding protein 1, isoform CRA_b	XBP1 hCG_40980	Homo sapiens (Human)	261
+XBP1		B1AHH1	B1AHH1_HUMAN	unreviewed	X-box-binding protein 1	XBP1	Homo sapiens (Human)	211
+XBP1		B1AHH2	B1AHH2_HUMAN	unreviewed	X-box-binding protein 1	XBP1	Homo sapiens (Human)	266
+XBP1		P17861	XBP1_HUMAN	reviewed	X-box-binding protein 1 (XBP-1) (Tax-responsive element-binding protein 5) (TREB-5) [Cleaved into: X-box-binding protein 1, cytoplasmic form; X-box-binding protein 1, luminal form]	XBP1 TREB5 XBP2	Homo sapiens (Human)	261
+XPOT		A0A024RB67	A0A024RB67_HUMAN	unreviewed	Exportin, tRNA (Nuclear export receptor for tRNAs), isoform CRA_a	XPOT hCG_2014672	Homo sapiens (Human)	617
+XPOT		F5GYW6	F5GYW6_HUMAN	unreviewed	Exportin-T (Fragment)	XPOT	Homo sapiens (Human)	60
+XPOT		F5GZM3	F5GZM3_HUMAN	unreviewed	Exportin-T (Fragment)	XPOT	Homo sapiens (Human)	63
+XPOT		F8WDU6	F8WDU6_HUMAN	unreviewed	Exportin-T (Fragment)	XPOT	Homo sapiens (Human)	201
+XPOT		O43592	XPOT_HUMAN	reviewed	Exportin-T (Exportin(tRNA)) (tRNA exportin)	XPOT	Homo sapiens (Human)	962
+YIF1A		A0A087WUP4	A0A087WUP4_HUMAN	unreviewed	Protein YIF1A	YIF1A	Homo sapiens (Human)	118
+YIF1A		A6NGW1	A6NGW1_HUMAN	unreviewed	Protein YIF1A	YIF1A	Homo sapiens (Human)	241
+YIF1A		C9JST7	C9JST7_HUMAN	unreviewed	Protein YIF1A (Fragment)	YIF1A	Homo sapiens (Human)	199
+YIF1A		E9PIZ0	E9PIZ0_HUMAN	unreviewed	Protein YIF1A (Fragment)	YIF1A	Homo sapiens (Human)	160
+YIF1A		E9PK42	E9PK42_HUMAN	unreviewed	Protein YIF1A	YIF1A	Homo sapiens (Human)	53
+YIF1A		E9PP02	E9PP02_HUMAN	unreviewed	Protein YIF1A	YIF1A	Homo sapiens (Human)	158
+YIF1A		E9PS11	E9PS11_HUMAN	unreviewed	Protein YIF1A	YIF1A	Homo sapiens (Human)	79
+YIF1A		O95070	YIF1A_HUMAN	reviewed	Protein YIF1A (54TMp) (YIP1-interacting factor homolog A)	YIF1A 54TM HYIF1P YIF1	Homo sapiens (Human)	293
+YWHAZ		B0AZS6	B0AZS6_HUMAN	unreviewed	14-3-3 protein zeta/delta (cDNA, FLJ79516, highly similar to 14-3-3 protein zeta/delta)	YWHAZ	Homo sapiens (Human)	168
+YWHAZ		B7Z2E6	B7Z2E6_HUMAN	unreviewed	14-3-3 protein zeta/delta (cDNA FLJ50142, highly similar to 14-3-3 protein zeta/delta (Protein kinase Cinhibitor protein 1))	YWHAZ	Homo sapiens (Human)	125
+YWHAZ		D0PNI1	D0PNI1_HUMAN	unreviewed	Epididymis luminal protein 4 (Epididymis secretory protein Li 3) (Epididymis secretory protein Li 93) (Tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta polypeptide) (Tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, zeta polypeptide, isoform CRA_a)	YWHAZ HEL-S-3 HEL-S-93 HEL4 hCG_2009146	Homo sapiens (Human)	245
+YWHAZ		E5RGE1	E5RGE1_HUMAN	unreviewed	14-3-3 protein zeta/delta (Fragment)	YWHAZ	Homo sapiens (Human)	51
+YWHAZ		E5RIR4	E5RIR4_HUMAN	unreviewed	14-3-3 protein zeta/delta (Fragment)	YWHAZ	Homo sapiens (Human)	75
+YWHAZ		E7ESK7	E7ESK7_HUMAN	unreviewed	14-3-3 protein zeta/delta (Fragment)	YWHAZ	Homo sapiens (Human)	137
+YWHAZ		E7EVZ2	E7EVZ2_HUMAN	unreviewed	14-3-3 protein zeta/delta (Fragment)	YWHAZ	Homo sapiens (Human)	98
+YWHAZ		E7EX29	E7EX29_HUMAN	unreviewed	14-3-3 protein zeta/delta (Fragment)	YWHAZ	Homo sapiens (Human)	246
+YWHAZ		E9PD24	E9PD24_HUMAN	unreviewed	14-3-3 protein zeta/delta (Fragment)	YWHAZ	Homo sapiens (Human)	92
+YWHAZ		H0YB80	H0YB80_HUMAN	unreviewed	14-3-3 protein zeta/delta (Fragment)	YWHAZ	Homo sapiens (Human)	130
+YWHAZ		P63104	1433Z_HUMAN	reviewed	14-3-3 protein zeta/delta (Protein kinase C inhibitor protein 1) (KCIP-1)	YWHAZ	Homo sapiens (Human)	245
+ZBTB17		H0Y6X2	H0Y6X2_HUMAN	unreviewed	Zinc finger and BTB domain-containing protein 17 (Fragment)	ZBTB17	Homo sapiens (Human)	241
+ZBTB17		H7C1K8	H7C1K8_HUMAN	unreviewed	Zinc finger and BTB domain-containing protein 17 (Fragment)	ZBTB17	Homo sapiens (Human)	210
+ZBTB17		Q13105	ZBT17_HUMAN	reviewed	Zinc finger and BTB domain-containing protein 17 (Myc-interacting zinc finger protein 1) (Miz-1) (Zinc finger protein 151) (Zinc finger protein 60)	ZBTB17 MIZ1 ZNF151 ZNF60	Homo sapiens (Human)	803

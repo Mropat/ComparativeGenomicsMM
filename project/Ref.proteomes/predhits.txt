@@ -1,0 +1,4305 @@
+# BLASTP 2.2.31+
+# Query: ORF_0
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_1
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_1	tr|O84016|O84016_CHLTR	99.68	316	1	0	1	316	131	446	0.0	645
+# BLASTP 2.2.31+
+# Query: ORF_2
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_2	sp|O84025|RL31B_CHLTR	100.00	108	0	0	1	108	1	108	2e-75	217
+# BLASTP 2.2.31+
+# Query: ORF_3
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_3	sp|O84030|TRMD_CHLTR	99.66	291	1	0	1	291	62	352	0.0	596
+# BLASTP 2.2.31+
+# Query: ORF_4
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_4	sp|O84032|RNH2_CHLTR	98.62	217	3	0	1	217	1	217	5e-160	441
+# BLASTP 2.2.31+
+# Query: ORF_5
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_5	sp|O84038|Y035_CHLTR	98.44	257	4	0	1	257	1	257	0.0	523
+# BLASTP 2.2.31+
+# Query: ORF_6
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_6	tr|O84050|O84050_CHLTR	100.00	124	0	0	1	124	191	314	3e-85	250
+# BLASTP 2.2.31+
+# Query: ORF_7
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_7	sp|O84065|SYY_CHLTR	99.76	412	1	0	1	412	1	412	0.0	837
+# BLASTP 2.2.31+
+# Query: ORF_8
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_8	sp|O84066|6PGD_CHLTR	99.44	354	2	0	1	354	127	480	0.0	729
+# BLASTP 2.2.31+
+# Query: ORF_9
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_9	sp|Q9S529|Y067_CHLTR	100.00	145	0	0	1	145	182	326	3e-104	300
+# BLASTP 2.2.31+
+# Query: ORF_10
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_10	tr|O84084|O84084_CHLTR	100.00	105	0	0	1	105	456	560	6e-71	219
+# BLASTP 2.2.31+
+# Query: ORF_11
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_12
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_12	sp|O84102|ACPS_CHLTR	100.00	119	0	0	1	119	1	119	4e-85	243
+# BLASTP 2.2.31+
+# Query: ORF_13
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_13	tr|O84107|O84107_CHLTR	99.15	352	3	0	1	352	1	352	0.0	691
+# BLASTP 2.2.31+
+# Query: ORF_14
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_15
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_15	sp|P0DJI4|INCE_CHLTR	96.21	132	5	0	1	132	1	132	2e-86	248
+# BLASTP 2.2.31+
+# Query: ORF_16
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_16	sp|O84120|INCG_CHLTR	98.80	167	2	0	1	167	1	167	6e-116	325
+# BLASTP 2.2.31+
+# Query: ORF_17
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_17	sp|O84124|EFP1_CHLTR	100.00	88	0	0	1	88	98	185	3e-60	181
+# BLASTP 2.2.31+
+# Query: ORF_18
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_18	sp|O84125|BCCP_CHLTR	98.68	152	2	0	1	152	13	164	7e-107	301
+# BLASTP 2.2.31+
+# Query: ORF_19
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_19	tr|O84126|O84126_CHLTR	99.53	425	2	0	1	425	33	457	0.0	872
+# BLASTP 2.2.31+
+# Query: ORF_20
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_20	tr|O84136|O84136_CHLTR	100.00	137	0	0	1	137	1	137	2e-98	278
+# BLASTP 2.2.31+
+# Query: ORF_21
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_21	tr|O84138|O84138_CHLTR	100.00	194	0	0	1	194	46	239	5e-145	403
+# BLASTP 2.2.31+
+# Query: ORF_22
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_23
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_23	tr|O84144|O84144_CHLTR	100.00	113	0	0	1	113	173	285	6e-79	233
+# BLASTP 2.2.31+
+# Query: ORF_24
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_24	tr|O84146|O84146_CHLTR	98.08	156	3	0	1	156	130	285	3e-110	315
+# BLASTP 2.2.31+
+# Query: ORF_25
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_25	sp|O84148|DNLJ_CHLTR	99.20	125	1	0	1	125	539	663	3e-80	247
+# BLASTP 2.2.31+
+# Query: ORF_26
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_26	tr|O84154|O84154_CHLTR	100.00	120	0	0	1	120	106	225	4e-82	239
+# BLASTP 2.2.31+
+# Query: ORF_27
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_27	tr|O84167|O84167_CHLTR	100.00	99	0	0	1	99	50	148	2e-66	196
+# BLASTP 2.2.31+
+# Query: ORF_28
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_29
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_29	tr|O84169|O84169_CHLTR	98.41	63	1	0	1	63	1	63	6e-40	134
+# BLASTP 2.2.31+
+# Query: ORF_30
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_31
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_31	sp|O84172|TRPB_CHLTR	100.00	247	0	0	1	247	146	392	0.0	508
+# BLASTP 2.2.31+
+# Query: ORF_32
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_32	sp|Q59321|PYRG_CHLTR	99.40	502	3	0	1	502	38	539	0.0	1040
+# BLASTP 2.2.31+
+# Query: ORF_33
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_33	sp|O84188|G6PD_CHLTR	100.00	86	0	0	1	86	354	439	8e-59	184
+# BLASTP 2.2.31+
+# Query: ORF_34
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_34	sp|O84189|6PGL_CHLTR	100.00	77	0	0	1	77	180	256	8e-54	166
+# BLASTP 2.2.31+
+# Query: ORF_35
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_36
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_36	sp|O84220|SURE_CHLTR	99.65	283	1	0	1	283	1	283	0.0	579
+# BLASTP 2.2.31+
+# Query: ORF_37
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_37	tr|O84233|O84233_CHLTR	99.42	173	1	0	1	173	243	415	2e-120	346
+# BLASTP 2.2.31+
+# Query: ORF_38
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_38	tr|O84236|O84236_CHLTR	100.00	178	0	0	1	178	1	178	2e-127	355
+# BLASTP 2.2.31+
+# Query: ORF_39
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_39	sp|P0CD76|LPXD_CHLTR	100.00	99	0	0	1	99	256	354	3e-65	199
+# BLASTP 2.2.31+
+# Query: ORF_40
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_40	tr|O84249|O84249_CHLTR	98.70	77	1	0	1	77	353	429	1e-47	154
+# BLASTP 2.2.31+
+# Query: ORF_41
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_41	tr|O84265|O84265_CHLTR	99.35	154	1	0	1	154	43	196	3e-113	319
+# BLASTP 2.2.31+
+# Query: ORF_42
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_43
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_44
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_44	tr|O84276|O84276_CHLTR	100.00	139	0	0	1	139	1	139	2e-100	283
+# BLASTP 2.2.31+
+# Query: ORF_45
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_45	sp|O84288|CLPC_CHLTR	100.00	91	0	0	1	91	764	854	5e-57	184
+# BLASTP 2.2.31+
+# Query: ORF_46
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_46	sp|O84301|HEM3_CHLTR	100.00	241	0	0	1	241	1	241	4e-180	494
+# BLASTP 2.2.31+
+# Query: ORF_47
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_48
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_48	tr|O84326|O84326_CHLTR	97.70	87	2	0	1	87	217	303	1e-56	175
+# BLASTP 2.2.31+
+# Query: ORF_49
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_49	sp|O84333|EX7L_CHLTR	99.22	516	4	0	1	516	1	516	0.0	1058
+# BLASTP 2.2.31+
+# Query: ORF_50
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_50	sp|O84335|DXS_CHLTR	100.00	295	0	0	1	295	346	640	0.0	608
+# BLASTP 2.2.31+
+# Query: ORF_51
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_51	sp|P0CE21|KPYK_CHLTR	99.55	224	1	0	1	224	262	485	1e-166	468
+# BLASTP 2.2.31+
+# Query: ORF_52
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_52	sp|O84339|Y335_CHLTR	100.00	82	0	0	1	82	15	96	2e-56	168
+# BLASTP 2.2.31+
+# Query: ORF_53
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_53	sp|O84351|XERC_CHLTR	100.00	201	0	0	1	201	115	315	1e-149	418
+# BLASTP 2.2.31+
+# Query: ORF_54
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_54	tr|O84354|O84354_CHLTR	99.44	179	1	0	1	179	388	566	4e-122	355
+# BLASTP 2.2.31+
+# Query: ORF_55
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_55	tr|O84363|O84363_CHLTR	97.14	105	3	0	1	105	74	178	3e-69	204
+# BLASTP 2.2.31+
+# Query: ORF_56
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_56	sp|O84373|AROC_CHLTR	98.10	105	2	0	1	105	253	357	3e-70	213
+# BLASTP 2.2.31+
+# Query: ORF_57
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_57	sp|O84375|ARODE_CHLTR	100.00	313	0	0	1	313	166	478	0.0	643
+# BLASTP 2.2.31+
+# Query: ORF_58
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_58	sp|O84379|AAXC_CHLTR	100.00	447	0	0	1	447	37	483	0.0	890
+# BLASTP 2.2.31+
+# Query: ORF_59
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_59	tr|O84380|O84380_CHLTR	100.00	86	0	0	1	86	267	352	4e-56	175
+# BLASTP 2.2.31+
+# Query: ORF_60
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_60	sp|P36431|SYP_CHLTR	100.00	227	0	0	1	227	355	581	4e-169	478
+# BLASTP 2.2.31+
+# Query: ORF_61
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_61	sp|O84402|RNR_CHLTR	99.15	590	5	0	1	590	105	694	0.0	1206
+# BLASTP 2.2.31+
+# Query: ORF_62
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_62	tr|O84403|O84403_CHLTR	98.73	158	2	0	1	158	97	254	5e-115	326
+# BLASTP 2.2.31+
+# Query: ORF_63
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_63	tr|O84414|O84414_CHLTR	99.38	320	2	0	1	320	134	453	0.0	639
+# BLASTP 2.2.31+
+# Query: ORF_64
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_64	sp|O84417|PMPA_CHLTR	100.00	258	0	0	1	258	718	975	0.0	539
+# BLASTP 2.2.31+
+# Query: ORF_65
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_65	sp|O84418|PMPB_CHLTR	100.00	84	0	0	1	84	1671	1754	1e-54	179
+# BLASTP 2.2.31+
+# Query: ORF_66
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_67
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_67	sp|O84422|Y417_CHLTR	99.32	293	2	0	1	293	1	293	0.0	573
+# BLASTP 2.2.31+
+# Query: ORF_68
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_68	tr|O84426|O84426_CHLTR	100.00	90	0	0	1	90	144	233	5e-63	189
+# BLASTP 2.2.31+
+# Query: ORF_69
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_70
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_70	tr|O84440|O84440_CHLTR	99.55	223	1	0	1	223	1	223	5e-158	436
+# BLASTP 2.2.31+
+# Query: ORF_71
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_71	tr|O84448|O84448_CHLTR	99.54	438	2	0	1	438	207	644	0.0	895
+# BLASTP 2.2.31+
+# Query: ORF_72
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_72	sp|O84456|ISPT_CHLTR	100.00	225	0	0	1	225	29	253	3e-169	466
+# BLASTP 2.2.31+
+# Query: ORF_73
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_73	tr|O84459|O84459_CHLTR	99.54	216	1	0	1	216	1	216	5e-160	441
+# BLASTP 2.2.31+
+# Query: ORF_74
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_74	sp|O84462|TARP_CHLTR	100.00	217	0	0	1	217	789	1005	8e-146	431
+# BLASTP 2.2.31+
+# Query: ORF_75
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_76
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_76	sp|O84468|ISPD_CHLTR	100.00	219	0	0	1	219	1	219	2e-163	449
+# BLASTP 2.2.31+
+# Query: ORF_77
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_77	tr|O84471|O84471_CHLTR	98.59	213	3	0	1	213	1	213	4e-154	426
+# BLASTP 2.2.31+
+# Query: ORF_78
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_79
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_79	tr|O84482|O84482_CHLTR	100.00	130	0	0	1	130	192	321	6e-95	276
+# BLASTP 2.2.31+
+# Query: ORF_80
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_80	tr|O84483|O84483_CHLTR	98.08	104	2	0	1	104	67	170	4e-72	211
+# BLASTP 2.2.31+
+# Query: ORF_81
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_81	sp|P0CD73|MNMG_CHLTR	99.34	610	4	0	1	610	1	610	0.0	1253
+# BLASTP 2.2.31+
+# Query: ORF_82
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_83
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_84
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_84	sp|O84544|THIO_CHLTR	99.02	102	1	0	1	102	1	102	1e-70	205
+# BLASTP 2.2.31+
+# Query: ORF_85
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_86
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_87
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_88
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_88	tr|O84553|O84553_CHLTR	99.21	127	1	0	1	127	20	146	6e-92	261
+# BLASTP 2.2.31+
+# Query: ORF_89
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_89	tr|O84568|O84568_CHLTR	100.00	103	0	0	1	103	187	289	4e-69	207
+# BLASTP 2.2.31+
+# Query: ORF_90
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_91
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_92
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_93
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_93	sp|O84589|SYW_CHLTR	99.59	245	1	0	1	245	102	346	0.0	505
+# BLASTP 2.2.31+
+# Query: ORF_94
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_94	sp|O84590|UVRB_CHLTR	99.21	507	4	0	1	507	162	668	0.0	1029
+# BLASTP 2.2.31+
+# Query: ORF_95
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_96
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_96	tr|O84601|O84601_CHLTR	100.00	110	0	0	1	110	123	232	5e-75	221
+# BLASTP 2.2.31+
+# Query: ORF_97
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_97	sp|O84611|IXTPA_CHLTR	100.00	103	0	0	1	103	107	209	3e-73	215
+# BLASTP 2.2.31+
+# Query: ORF_98
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_98	sp|O84622|RS20_CHLTR	96.94	98	3	0	1	98	1	98	1e-62	184
+# BLASTP 2.2.31+
+# Query: ORF_99
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_99	tr|O84625|O84625_CHLTR	99.37	159	1	0	1	159	679	837	9e-110	330
+# BLASTP 2.2.31+
+# Query: ORF_100
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_101
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_101	sp|O84630|END4_CHLTR	98.96	288	3	0	1	288	1	288	0.0	595
+# BLASTP 2.2.31+
+# Query: ORF_102
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_102	sp|O84632|Y627_CHLTR	100.00	152	0	0	1	152	176	327	1e-112	322
+# BLASTP 2.2.31+
+# Query: ORF_103
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_103	tr|O84642|O84642_CHLTR	98.43	191	3	0	1	191	210	400	2e-134	382
+# BLASTP 2.2.31+
+# Query: ORF_104
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_104	tr|O84654|O84654_CHLTR	99.16	356	3	0	1	356	69	424	0.0	727
+# BLASTP 2.2.31+
+# Query: ORF_105
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_105	sp|O84670|Y663_CHLTR	99.17	121	1	0	1	121	13	133	2e-84	242
+# BLASTP 2.2.31+
+# Query: ORF_106
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_106	tr|O84671|O84671_CHLTR	99.26	135	1	0	1	135	695	829	3e-92	282
+# BLASTP 2.2.31+
+# Query: ORF_107
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_107	sp|O84673|Y666_CHLTR	100.00	83	0	0	1	83	1	83	4e-57	169
+# BLASTP 2.2.31+
+# Query: ORF_108
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_108	sp|O84678|Y671_CHLTR	98.71	232	2	1	1	231	52	283	1e-164	456
+# BLASTP 2.2.31+
+# Query: ORF_109
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_109	tr|O84679|O84679_CHLTR	100.00	87	0	0	1	87	287	373	4e-56	176
+# BLASTP 2.2.31+
+# Query: ORF_110
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_110	tr|O84690|O84690_CHLTR	100.00	279	0	0	1	279	205	483	0.0	580
+# BLASTP 2.2.31+
+# Query: ORF_111
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_111	sp|O84693|CSD_CHLTR	99.35	154	1	0	1	154	248	401	7e-108	313
+# BLASTP 2.2.31+
+# Query: ORF_112
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_112	tr|O84700|O84700_CHLTR	95.67	323	14	0	1	323	1	323	0.0	635
+# BLASTP 2.2.31+
+# Query: ORF_113
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_113	sp|O84702|Y696_CHLTR	100.00	102	0	0	1	102	291	392	3e-73	221
+# BLASTP 2.2.31+
+# Query: ORF_114
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_115
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_115	sp|O84716|PCKG_CHLTR	99.38	322	2	0	1	322	278	599	0.0	667
+# BLASTP 2.2.31+
+# Query: ORF_116
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_116	tr|O84717|O84717_CHLTR	100.00	114	0	0	1	114	654	767	6e-75	234
+# BLASTP 2.2.31+
+# Query: ORF_117
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_117	sp|O84737|RISB_CHLTR	100.00	157	0	0	6	162	1	157	8e-114	319
+# BLASTP 2.2.31+
+# Query: ORF_118
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_119
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_120
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_121
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_122
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_122	tr|O84764|O84764_CHLTR	98.82	85	1	0	1	85	161	245	2e-56	172
+# BLASTP 2.2.31+
+# Query: ORF_123
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_123	tr|O84765|O84765_CHLTR	99.06	106	1	0	1	106	280	385	4e-69	210
+# BLASTP 2.2.31+
+# Query: ORF_124
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_124	sp|O84771|MIAA_CHLTR	99.04	314	3	0	1	314	1	314	0.0	647
+# BLASTP 2.2.31+
+# Query: ORF_125
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_125	tr|O84778|O84778_CHLTR	98.79	248	3	0	1	248	99	346	3e-179	496
+# BLASTP 2.2.31+
+# Query: ORF_126
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_126	tr|O84781|O84781_CHLTR	99.35	464	3	0	1	464	74	537	0.0	956
+# BLASTP 2.2.31+
+# Query: ORF_127
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_127	tr|O84782|O84782_CHLTR	100.00	141	0	0	1	141	237	377	2e-99	289
+# BLASTP 2.2.31+
+# Query: ORF_128
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_128	tr|O84785|O84785_CHLTR	100.00	164	0	0	1	164	1	164	2e-124	347
+# BLASTP 2.2.31+
+# Query: ORF_129
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_129	sp|O84786|SYK_CHLTR	100.00	267	0	0	1	267	260	526	0.0	563
+# BLASTP 2.2.31+
+# Query: ORF_130
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_130	sp|O84799|DNAG_CHLTR	98.53	136	2	0	1	136	460	595	3e-93	280
+# BLASTP 2.2.31+
+# Query: ORF_131
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_131	tr|O84800|O84800_CHLTR	98.91	92	1	0	1	92	4	95	4e-60	177
+# BLASTP 2.2.31+
+# Query: ORF_132
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_132	sp|O84809|RL9_CHLTR	99.40	167	1	0	1	167	1	167	4e-118	330
+# BLASTP 2.2.31+
+# Query: ORF_133
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_133	sp|O84810|ISPE_CHLTR	97.60	167	4	0	1	167	122	288	1e-117	334
+# BLASTP 2.2.31+
+# Query: ORF_134
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_135
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_135	tr|O84815|O84815_CHLTR	100.00	100	0	0	1	100	1	100	3e-69	202
+# BLASTP 2.2.31+
+# Query: ORF_136
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_136	sp|O84817|PLSX_CHLTR	99.69	321	1	0	1	321	1	321	0.0	646
+# BLASTP 2.2.31+
+# Query: ORF_137
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_137	sp|O84822|GLMM_CHLTR	99.34	458	3	0	1	458	1	458	0.0	931
+# BLASTP 2.2.31+
+# Query: ORF_138
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_138	tr|O84825|O84825_CHLTR	99.50	397	2	0	1	397	1	397	0.0	780
+# BLASTP 2.2.31+
+# Query: ORF_139
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_139	sp|O84828|SUCC_CHLTR	100.00	171	0	0	1	171	216	386	9e-122	348
+# BLASTP 2.2.31+
+# Query: ORF_140
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_141
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_142
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_142	sp|O84866|Y858_CHLTR	100.00	474	0	0	1	474	128	601	0.0	984
+# BLASTP 2.2.31+
+# Query: ORF_143
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_144
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_145
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_145	tr|O84881|O84881_CHLTR	80.65	62	12	0	100	161	44	105	5e-32	108
+# BLASTP 2.2.31+
+# Query: ORF_146
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_146	sp|O84006|GATA_CHLTR	99.75	399	1	0	1	399	93	491	0.0	820
+# BLASTP 2.2.31+
+# Query: ORF_147
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_148
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_148	tr|O84019|O84019_CHLTR	100.00	96	0	0	1	96	147	242	1e-69	207
+# BLASTP 2.2.31+
+# Query: ORF_149
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_150
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_150	sp|O84026|RF1_CHLTR	100.00	89	0	0	1	89	271	359	7e-60	185
+# BLASTP 2.2.31+
+# Query: ORF_151
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_151	tr|O84028|O84028_CHLTR	99.28	279	2	0	1	279	170	448	0.0	570
+# BLASTP 2.2.31+
+# Query: ORF_152
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_152	sp|O84031|RL19_CHLTR	100.00	121	0	0	1	121	1	121	7e-85	243
+# BLASTP 2.2.31+
+# Query: ORF_153
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_153	sp|O84044|RUVB_CHLTR	99.62	265	1	0	1	265	70	334	0.0	537
+# BLASTP 2.2.31+
+# Query: ORF_154
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_154	tr|O84051|O84051_CHLTR	97.74	177	4	0	1	177	61	237	2e-129	362
+# BLASTP 2.2.31+
+# Query: ORF_155
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_155	tr|O84052|O84052_CHLTR	86.33	278	34	2	1	276	215	490	8e-137	395
+# BLASTP 2.2.31+
+# Query: ORF_156
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_157
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_158
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_158	sp|O84071|Y068_CHLTR	99.61	259	1	0	26	284	1	259	0.0	538
+# BLASTP 2.2.31+
+# Query: ORF_159
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_159	sp|O84074|DXR_CHLTR	100.00	134	0	0	1	134	246	379	5e-97	283
+# BLASTP 2.2.31+
+# Query: ORF_160
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_160	sp|O84075|Y072_CHLTR	98.59	213	3	0	1	213	407	619	5e-146	420
+# BLASTP 2.2.31+
+# Query: ORF_161
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_162
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_162	tr|O84094|O84094_CHLTR	100.00	163	0	0	1	163	204	366	6e-117	335
+# BLASTP 2.2.31+
+# Query: ORF_163
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_164
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_164	sp|O84101|TRXB_CHLTR	100.00	312	0	0	1	312	1	312	0.0	643
+# BLASTP 2.2.31+
+# Query: ORF_165
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_165	tr|O84107|O84107_CHLTR	99.57	234	1	0	1	234	423	656	1e-169	483
+# BLASTP 2.2.31+
+# Query: ORF_166
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_166	tr|O84116|O84116_CHLTR	98.97	486	5	0	1	486	1	486	0.0	978
+# BLASTP 2.2.31+
+# Query: ORF_167
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_167	sp|P0DJI5|INCF_CHLTR	98.08	104	2	0	1	104	1	104	3e-66	194
+# BLASTP 2.2.31+
+# Query: ORF_168
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_168	sp|O84128|RS9_CHLTR	100.00	77	0	0	1	77	53	129	2e-50	153
+# BLASTP 2.2.31+
+# Query: ORF_169
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_169	tr|O84137|O84137_CHLTR	100.00	338	0	0	1	338	23	360	0.0	682
+# BLASTP 2.2.31+
+# Query: ORF_170
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_170	tr|O84143|O84143_CHLTR	100.00	148	0	0	1	148	1	148	7e-109	306
+# BLASTP 2.2.31+
+# Query: ORF_171
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_171	tr|O84145|O84145_CHLTR	100.00	280	0	0	1	280	1	280	0.0	582
+# BLASTP 2.2.31+
+# Query: ORF_172
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_172	tr|O84166|O84166_CHLTR	100.00	86	0	0	1	86	1	86	4e-56	167
+# BLASTP 2.2.31+
+# Query: ORF_173
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_173	sp|P0CD75|KDSB_CHLTR	100.00	181	0	0	1	181	74	254	1e-133	374
+# BLASTP 2.2.31+
+# Query: ORF_174
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_174	sp|O84212|GSA_CHLTR	100.00	422	0	0	19	440	1	422	0.0	868
+# BLASTP 2.2.31+
+# Query: ORF_175
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_175	sp|O84217|ALF1_CHLTR	100.00	294	0	0	1	294	55	348	0.0	610
+# BLASTP 2.2.31+
+# Query: ORF_176
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_176	tr|O84247|O84247_CHLTR	100.00	304	0	0	1	304	37	340	0.0	627
+# BLASTP 2.2.31+
+# Query: ORF_177
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_178
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_178	tr|O84251|O84251_CHLTR	97.41	116	3	0	1	116	1	116	1e-80	231
+# BLASTP 2.2.31+
+# Query: ORF_179
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_180
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_180	sp|O84280|NQRB_CHLTR	100.00	103	0	0	1	103	401	503	4e-68	211
+# BLASTP 2.2.31+
+# Query: ORF_181
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_181	sp|O84283|NQRE_CHLTR	100.00	93	0	0	1	93	152	244	2e-64	193
+# BLASTP 2.2.31+
+# Query: ORF_182
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_182	tr|O84302|O84302_CHLTR	99.13	115	1	0	1	115	1	115	5e-80	230
+# BLASTP 2.2.31+
+# Query: ORF_183
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_184
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_185
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_185	tr|O84334|O84334_CHLTR	98.89	90	1	0	1	90	1	90	4e-61	180
+# BLASTP 2.2.31+
+# Query: ORF_186
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_186	sp|O84353|Y349_CHLTR	100.00	103	0	0	1	103	94	196	7e-73	214
+# BLASTP 2.2.31+
+# Query: ORF_187
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_187	sp|O84371|AROA_CHLTR	100.00	89	0	0	1	89	352	440	1e-60	189
+# BLASTP 2.2.31+
+# Query: ORF_188
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_188	sp|O84377|AAXA_CHLTR	99.18	122	1	0	1	122	340	461	1e-84	253
+# BLASTP 2.2.31+
+# Query: ORF_189
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_189	tr|O84388|O84388_CHLTR	100.00	150	0	0	1	150	94	243	5e-108	307
+# BLASTP 2.2.31+
+# Query: ORF_190
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_190	tr|O84392|O84392_CHLTR	100.00	123	0	0	1	123	569	691	6e-84	257
+# BLASTP 2.2.31+
+# Query: ORF_191
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_191	sp|O84395|DAPAT_CHLTR	100.00	394	0	0	7	400	1	394	0.0	808
+# BLASTP 2.2.31+
+# Query: ORF_192
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_193
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_194
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_195
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_196
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_197
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_197	sp|O84421|Y416_CHLTR	100.00	232	0	0	1	232	5	236	2e-176	484
+# BLASTP 2.2.31+
+# Query: ORF_198
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_198	sp|O84432|Y425_CHLTR	99.00	100	1	0	1	100	522	621	2e-66	209
+# BLASTP 2.2.31+
+# Query: ORF_199
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_199	tr|O84434|O84434_CHLTR	99.27	273	2	0	1	273	1	273	0.0	554
+# BLASTP 2.2.31+
+# Query: ORF_200
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_200	sp|O84458|KCY_CHLTR	99.10	111	1	0	1	111	106	216	3e-77	226
+# BLASTP 2.2.31+
+# Query: ORF_201
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_201	tr|O84478|O84478_CHLTR	99.62	264	1	0	1	264	1	264	0.0	537
+# BLASTP 2.2.31+
+# Query: ORF_202
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_202	sp|O84481|SYFB_CHLTR	99.48	580	3	0	1	580	211	790	0.0	1183
+# BLASTP 2.2.31+
+# Query: ORF_203
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_204
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_205
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_205	tr|O84490|O84490_CHLTR	100.00	118	0	0	1	118	4	121	8e-79	227
+# BLASTP 2.2.31+
+# Query: ORF_206
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_207
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_208
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_209
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_209	sp|O84548|UHPT_CHLTR	100.00	80	0	0	1	80	377	456	3e-50	161
+# BLASTP 2.2.31+
+# Query: ORF_210
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_210	tr|O84558|O84558_CHLTR	98.71	387	5	0	1	387	25	411	0.0	762
+# BLASTP 2.2.31+
+# Query: ORF_211
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_211	tr|O84559|O84559_CHLTR	98.96	96	1	0	1	96	1104	1199	1e-61	199
+# BLASTP 2.2.31+
+# Query: ORF_212
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_212	tr|O84560|O84560_CHLTR	100.00	159	0	0	1	159	1	159	8e-118	329
+# BLASTP 2.2.31+
+# Query: ORF_213
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_213	sp|O84562|LIPA_CHLTR	99.36	311	2	0	1	311	1	311	0.0	646
+# BLASTP 2.2.31+
+# Query: ORF_214
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_214	tr|O84565|O84565_CHLTR	98.55	138	2	0	1	138	86	223	2e-94	271
+# BLASTP 2.2.31+
+# Query: ORF_215
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_215	tr|O84566|O84566_CHLTR	100.00	77	0	0	1	77	230	306	8e-47	149
+# BLASTP 2.2.31+
+# Query: ORF_216
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_216	sp|O84588|Y584_CHLTR	100.00	98	0	0	1	98	86	183	2e-68	202
+# BLASTP 2.2.31+
+# Query: ORF_217
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_218
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_218	tr|O84614|O84614_CHLTR	98.86	88	1	0	1	88	547	634	1e-57	184
+# BLASTP 2.2.31+
+# Query: ORF_219
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_219	tr|O84615|O84615_CHLTR	98.89	90	1	0	1	90	347	436	2e-59	186
+# BLASTP 2.2.31+
+# Query: ORF_220
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_220	tr|O84623|O84623_CHLTR	97.37	266	7	0	1	266	1	266	0.0	514
+# BLASTP 2.2.31+
+# Query: ORF_221
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_222
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_223
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_223	tr|O84643|O84643_CHLTR	99.32	146	1	0	1	146	106	251	7e-103	298
+# BLASTP 2.2.31+
+# Query: ORF_224
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_224	tr|O84653|O84653_CHLTR	100.00	192	0	0	1	192	1	192	5e-141	390
+# BLASTP 2.2.31+
+# Query: ORF_225
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_225	tr|O84658|O84658_CHLTR	97.81	274	6	0	1	274	223	496	0.0	561
+# BLASTP 2.2.31+
+# Query: ORF_226
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_226	tr|O84663|O84663_CHLTR	100.00	97	0	0	1	97	1	97	1e-68	199
+# BLASTP 2.2.31+
+# Query: ORF_227
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_227	sp|O84669|HEM1_CHLTR	98.25	114	2	0	1	114	222	335	8e-81	239
+# BLASTP 2.2.31+
+# Query: ORF_228
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_228	sp|O84672|Y665_CHLTR	100.00	80	0	0	1	80	4	83	2e-54	162
+# BLASTP 2.2.31+
+# Query: ORF_229
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_229	tr|O84675|O84675_CHLTR	100.00	120	0	0	1	120	104	223	3e-85	247
+# BLASTP 2.2.31+
+# Query: ORF_230
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_230	tr|O84681|O84681_CHLTR	100.00	371	0	0	1	371	551	921	0.0	766
+# BLASTP 2.2.31+
+# Query: ORF_231
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_231	tr|O84688|O84688_CHLTR	99.06	106	1	0	1	106	975	1080	1e-68	218
+# BLASTP 2.2.31+
+# Query: ORF_232
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_232	sp|O84698|Y962_CHLTR	100.00	113	0	0	1	113	314	426	2e-71	218
+# BLASTP 2.2.31+
+# Query: ORF_233
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_234
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_234	sp|P0CD79|PSD_CHLTR	100.00	143	0	0	1	143	159	301	2e-102	295
+# BLASTP 2.2.31+
+# Query: ORF_235
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_236
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_236	tr|O84715|O84715_CHLTR	100.00	366	0	0	1	366	1	366	0.0	734
+# BLASTP 2.2.31+
+# Query: ORF_237
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_238
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_239
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_239	sp|O84735|RIBD_CHLTR	99.45	364	2	0	1	364	12	375	0.0	739
+# BLASTP 2.2.31+
+# Query: ORF_240
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_240	tr|O84740|O84740_CHLTR	100.00	79	0	0	1	79	377	455	2e-50	162
+# BLASTP 2.2.31+
+# Query: ORF_241
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_241	sp|O84741|Y736_CHLTR	99.33	150	1	0	1	150	1	150	4e-110	309
+# BLASTP 2.2.31+
+# Query: ORF_242
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_242	sp|O84757|EFP2_CHLTR	100.00	119	0	0	1	119	72	190	3e-84	243
+# BLASTP 2.2.31+
+# Query: ORF_243
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_243	tr|O84761|O84761_CHLTR	99.34	152	1	0	1	152	299	450	7e-108	314
+# BLASTP 2.2.31+
+# Query: ORF_244
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_244	sp|O84763|MURD_CHLTR	99.27	137	1	0	1	137	280	416	6e-94	276
+# BLASTP 2.2.31+
+# Query: ORF_245
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_245	sp|O84766|MURG_CHLTR	100.00	109	0	0	1	109	244	352	5e-75	225
+# BLASTP 2.2.31+
+# Query: ORF_246
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_246	tr|O84788|O84788_CHLTR	99.33	149	1	0	1	149	201	349	2e-105	304
+# BLASTP 2.2.31+
+# Query: ORF_247
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_247	tr|O84801|O84801_CHLTR	100.00	163	0	0	1	163	1	163	3e-116	325
+# BLASTP 2.2.31+
+# Query: ORF_248
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_248	tr|O84803|O84803_CHLTR	99.45	182	1	0	1	182	21	202	2e-130	364
+# BLASTP 2.2.31+
+# Query: ORF_249
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_249	sp|O84806|PTH_CHLTR	100.00	179	0	0	1	179	1	179	3e-133	370
+# BLASTP 2.2.31+
+# Query: ORF_250
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_250	sp|O84808|RS18_CHLTR	100.00	81	0	0	1	81	1	81	9e-57	168
+# BLASTP 2.2.31+
+# Query: ORF_251
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_252
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_252	sp|O84818|PMPD_CHLTR	99.12	227	2	0	1	227	1305	1531	1e-156	471
+# BLASTP 2.2.31+
+# Query: ORF_253
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_253	sp|O84823|GLMS_CHLTR	99.07	107	1	0	1	107	500	606	5e-70	218
+# BLASTP 2.2.31+
+# Query: ORF_254
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_254	tr|O84824|O84824_CHLTR	99.75	394	1	0	1	394	5	398	0.0	786
+# BLASTP 2.2.31+
+# Query: ORF_255
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_255	sp|P18584|DEGPL_CHLTR	100.00	129	0	0	1	129	369	497	6e-84	253
+# BLASTP 2.2.31+
+# Query: ORF_256
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_256	sp|O84842|RL20_CHLTR	99.19	123	1	0	1	123	1	123	1e-86	247
+# BLASTP 2.2.31+
+# Query: ORF_257
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_257	sp|O84843|SYFA_CHLTR	99.46	185	1	0	1	185	158	342	1e-138	390
+# BLASTP 2.2.31+
+# Query: ORF_258
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_258	tr|O84865|O84865_CHLTR	99.43	175	1	0	1	175	247	421	1e-121	349
+# BLASTP 2.2.31+
+# Query: ORF_259
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_259	sp|O84867|ISPH_CHLTR	99.67	307	1	0	1	307	1	307	0.0	627
+# BLASTP 2.2.31+
+# Query: ORF_260
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_261
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_261	sp|O84874|GLGB_CHLTR	100.00	177	0	0	1	177	562	738	2e-124	366
+# BLASTP 2.2.31+
+# Query: ORF_262
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_262	sp|O84879|PMPG_CHLTR	100.00	79	0	0	1	79	935	1013	4e-51	168
+# BLASTP 2.2.31+
+# Query: ORF_263
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_263	sp|O84880|PMPH_CHLTR	100.00	130	0	0	1	130	887	1016	3e-90	280
+# BLASTP 2.2.31+
+# Query: ORF_264
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_264	sp|O84883|Y875_CHLTR	96.38	138	5	0	1	138	63	200	1e-88	268
+# BLASTP 2.2.31+
+# Query: ORF_265
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_265	sp|O84007|GATB_CHLTR	100.00	85	0	0	1	85	404	488	8e-55	174
+# BLASTP 2.2.31+
+# Query: ORF_266
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_266	tr|O84017|O84017_CHLTR	100.00	130	0	0	1	130	224	353	6e-90	264
+# BLASTP 2.2.31+
+# Query: ORF_267
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_267	sp|O84022|SYI_CHLTR	98.81	84	1	0	1	84	953	1036	3e-52	172
+# BLASTP 2.2.31+
+# Query: ORF_268
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_268	sp|O84027|PRMC_CHLTR	99.24	262	2	0	1	262	29	290	0.0	541
+# BLASTP 2.2.31+
+# Query: ORF_269
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_269	sp|O84035|SYM_CHLTR	98.55	484	7	0	1	484	67	550	0.0	1001
+# BLASTP 2.2.31+
+# Query: ORF_270
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_270	sp|O84045|Y041_CHLTR	98.89	270	3	0	17	286	1	270	0.0	543
+# BLASTP 2.2.31+
+# Query: ORF_271
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_272
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_272	sp|O84049|AMPA_CHLTR	100.00	273	0	0	1	273	227	499	0.0	560
+# BLASTP 2.2.31+
+# Query: ORF_273
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_273	tr|O84057|O84057_CHLTR	98.57	700	8	1	1	698	206	905	0.0	1440
+# BLASTP 2.2.31+
+# Query: ORF_274
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_274	tr|O84058|O84058_CHLTR	99.49	195	1	0	1	195	171	365	1e-141	399
+# BLASTP 2.2.31+
+# Query: ORF_275
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_276
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_276	tr|O84063|O84063_CHLTR	99.33	593	4	0	1	593	13	605	0.0	1176
+# BLASTP 2.2.31+
+# Query: ORF_277
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_278
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_278	tr|O84105|O84105_CHLTR	100.00	102	0	0	1	102	197	298	4e-71	213
+# BLASTP 2.2.31+
+# Query: ORF_279
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_279	sp|O84110|GCH1L_CHLTR	99.20	251	2	0	1	251	1	251	0.0	516
+# BLASTP 2.2.31+
+# Query: ORF_280
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_280	sp|P0DJI3|INCD_CHLTR	97.87	141	3	0	1	141	1	141	2e-97	276
+# BLASTP 2.2.31+
+# Query: ORF_281
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_281	tr|O84132|O84132_CHLTR	98.28	233	4	0	1	233	1	233	4e-170	468
+# BLASTP 2.2.31+
+# Query: ORF_282
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_282	sp|O84147|PKN1_CHLTR	100.00	77	0	0	1	77	538	614	9e-57	181
+# BLASTP 2.2.31+
+# Query: ORF_283
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_283	tr|O84153|O84153_CHLTR	99.13	461	4	0	1	461	43	503	0.0	942
+# BLASTP 2.2.31+
+# Query: ORF_284
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_284	tr|O84168|O84168_CHLTR	100.00	108	0	0	1	108	532	639	2e-76	236
+# BLASTP 2.2.31+
+# Query: ORF_285
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_285	tr|O84169|O84169_CHLTR	100.00	112	0	0	1	112	332	443	4e-79	238
+# BLASTP 2.2.31+
+# Query: ORF_286
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_287
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_287	sp|O84200|TSAD_CHLTR	98.88	89	1	0	1	89	250	338	6e-62	190
+# BLASTP 2.2.31+
+# Query: ORF_288
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_288	tr|O84204|O84204_CHLTR	97.50	120	3	0	1	120	158	277	1e-80	237
+# BLASTP 2.2.31+
+# Query: ORF_289
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_289	tr|O84207|O84207_CHLTR	100.00	85	0	0	1	85	387	471	7e-55	174
+# BLASTP 2.2.31+
+# Query: ORF_290
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_290	tr|O84219|O84219_CHLTR	99.57	234	1	0	21	254	1	234	2e-174	479
+# BLASTP 2.2.31+
+# Query: ORF_291
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_291	sp|O84222|UBIX_CHLTR	100.00	192	0	0	1	192	1	192	2e-139	387
+# BLASTP 2.2.31+
+# Query: ORF_292
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_292	tr|O84235|O84235_CHLTR	100.00	81	0	0	1	81	35	115	9e-52	156
+# BLASTP 2.2.31+
+# Query: ORF_293
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_293	tr|O84255|O84255_CHLTR	100.00	215	0	0	1	215	1	215	6e-162	446
+# BLASTP 2.2.31+
+# Query: ORF_294
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_294	sp|O84282|NQRD_CHLTR	100.00	99	0	0	1	99	115	213	3e-69	205
+# BLASTP 2.2.31+
+# Query: ORF_295
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_296
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_296	sp|O84300|RADA_CHLTR	99.56	454	2	0	1	454	1	454	0.0	922
+# BLASTP 2.2.31+
+# Query: ORF_297
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_298
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_299
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_300
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_300	tr|O84338|O84338_CHLTR	98.97	292	3	0	1	292	175	466	0.0	576
+# BLASTP 2.2.31+
+# Query: ORF_301
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_301	tr|O84343|O84343_CHLTR	100.00	82	0	0	1	82	428	509	4e-49	159
+# BLASTP 2.2.31+
+# Query: ORF_302
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_303
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_304
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_304	sp|O84348|LON_CHLTR	100.00	151	0	0	1	151	669	819	9e-105	316
+# BLASTP 2.2.31+
+# Query: ORF_305
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_305	sp|O84350|RNZ_CHLTR	99.34	304	2	0	1	304	1	304	0.0	634
+# BLASTP 2.2.31+
+# Query: ORF_306
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_306	tr|O84352|O84352_CHLTR	98.82	169	2	0	1	169	360	528	2e-120	349
+# BLASTP 2.2.31+
+# Query: ORF_307
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_307	tr|O84362|O84362_CHLTR	98.18	110	2	0	1	110	1	110	9e-72	208
+# BLASTP 2.2.31+
+# Query: ORF_308
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_308	sp|O84372|AROK_CHLTR	100.00	184	0	0	1	184	1	184	2e-134	373
+# BLASTP 2.2.31+
+# Query: ORF_309
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_310
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_310	tr|O84394|O84394_CHLTR	100.00	178	0	0	1	178	231	408	2e-131	374
+# BLASTP 2.2.31+
+# Query: ORF_311
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_312
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_312	sp|P36426|HRCA_CHLTR	100.00	80	0	0	1	80	313	392	2e-52	166
+# BLASTP 2.2.31+
+# Query: ORF_313
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_313	sp|P17821|DNAK_CHLTR	99.69	320	1	0	1	320	341	660	0.0	639
+# BLASTP 2.2.31+
+# Query: ORF_314
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_315
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_315	sp|O84419|PMPC_CHLTR	98.81	84	1	0	1	84	1687	1770	5e-54	178
+# BLASTP 2.2.31+
+# Query: ORF_316
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_316	sp|O84420|Y415_CHLTR	99.28	276	2	0	1	276	1	276	0.0	572
+# BLASTP 2.2.31+
+# Query: ORF_317
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_317	tr|O84430|O84430_CHLTR	98.37	245	4	0	1	245	125	369	0.0	502
+# BLASTP 2.2.31+
+# Query: ORF_318
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_319
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_319	tr|O84433|O84433_CHLTR	100.00	199	0	0	1	199	171	369	1e-146	412
+# BLASTP 2.2.31+
+# Query: ORF_320
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_320	sp|O84435|MENG_CHLTR	100.00	148	0	0	1	148	82	229	5e-106	301
+# BLASTP 2.2.31+
+# Query: ORF_321
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_322
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_322	sp|O84441|ISPF_CHLTR	99.44	178	1	0	1	178	1	178	8e-132	366
+# BLASTP 2.2.31+
+# Query: ORF_323
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_324
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_325
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_326
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_327
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_327	sp|O84457|CDSA_CHLTR	98.22	169	3	0	1	169	137	305	4e-117	333
+# BLASTP 2.2.31+
+# Query: ORF_328
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_328	sp|O84460|SYR_CHLTR	97.60	125	3	0	1	125	439	563	5e-84	254
+# BLASTP 2.2.31+
+# Query: ORF_329
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_329	sp|O84467|LPXG_CHLTR	100.00	186	0	0	1	186	144	329	1e-137	387
+# BLASTP 2.2.31+
+# Query: ORF_330
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_330	sp|O84469|TRUA_CHLTR	98.92	186	2	0	1	186	82	267	2e-138	387
+# BLASTP 2.2.31+
+# Query: ORF_331
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_331	tr|O84473|O84473_CHLTR	99.43	352	2	0	1	352	1	352	0.0	712
+# BLASTP 2.2.31+
+# Query: ORF_332
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_332	tr|O84474|O84474_CHLTR	99.70	330	1	0	1	330	57	386	0.0	679
+# BLASTP 2.2.31+
+# Query: ORF_333
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_333	tr|O84475|O84475_CHLTR	100.00	178	0	0	1	178	1	178	1e-127	355
+# BLASTP 2.2.31+
+# Query: ORF_334
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_335
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_336
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_337
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_338
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_338	sp|O84549|DPO3A_CHLTR	99.74	780	2	0	1	780	458	1237	0.0	1601
+# BLASTP 2.2.31+
+# Query: ORF_339
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_339	tr|O84555|O84555_CHLTR	99.29	281	2	0	1	281	62	342	0.0	582
+# BLASTP 2.2.31+
+# Query: ORF_340
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_340	tr|O84557|O84557_CHLTR	96.78	311	10	0	58	368	15	325	0.0	619
+# BLASTP 2.2.31+
+# Query: ORF_341
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_341	sp|O84561|DLDH_CHLTR	98.78	82	1	0	1	82	384	465	8e-53	169
+# BLASTP 2.2.31+
+# Query: ORF_342
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_342	tr|O84563|O84563_CHLTR	99.00	300	3	0	1	300	27	326	0.0	610
+# BLASTP 2.2.31+
+# Query: ORF_343
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_343	tr|O84564|O84564_CHLTR	99.13	231	2	0	1	231	48	278	2e-172	476
+# BLASTP 2.2.31+
+# Query: ORF_344
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_345
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_346
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_346	tr|O84582|O84582_CHLTR	100.00	242	0	0	1	242	246	487	1e-161	456
+# BLASTP 2.2.31+
+# Query: ORF_347
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_347	sp|O84583|Y579_CHLTR	100.00	86	0	0	1	86	354	439	1e-53	170
+# BLASTP 2.2.31+
+# Query: ORF_348
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_349
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_349	sp|O84585|SYT_CHLTR	99.38	325	2	0	1	325	311	635	0.0	671
+# BLASTP 2.2.31+
+# Query: ORF_350
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_350	sp|O84586|PARA_CHLTR	99.61	255	1	0	1	255	1	255	0.0	522
+# BLASTP 2.2.31+
+# Query: ORF_351
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_351	sp|O84591|ENO_CHLTR	99.76	424	1	0	1	424	1	424	0.0	864
+# BLASTP 2.2.31+
+# Query: ORF_352
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_352	tr|O84592|O84592_CHLTR	98.58	141	2	0	1	141	510	650	2e-98	295
+# BLASTP 2.2.31+
+# Query: ORF_353
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_353	tr|O84602|O84602_CHLTR	99.07	107	1	0	1	107	29	135	1e-74	216
+# BLASTP 2.2.31+
+# Query: ORF_354
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_354	sp|O84638|HEM2_CHLTR	100.00	182	0	0	1	182	157	338	4e-134	378
+# BLASTP 2.2.31+
+# Query: ORF_355
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_355	tr|O84647|O84647_CHLTR	95.54	157	7	0	1	157	403	559	7e-106	312
+# BLASTP 2.2.31+
+# Query: ORF_356
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_356	tr|O84649|O84649_CHLTR	99.45	729	4	0	1	729	129	857	0.0	1504
+# BLASTP 2.2.31+
+# Query: ORF_357
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_358
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_358	tr|O84652|O84652_CHLTR	96.81	376	12	0	1	376	84	459	0.0	741
+# BLASTP 2.2.31+
+# Query: ORF_359
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_359	tr|O84655|O84655_CHLTR	92.13	178	14	0	1	178	1	178	1e-120	338
+# BLASTP 2.2.31+
+# Query: ORF_360
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_360	sp|P0CD80|RECA_CHLTR	99.25	266	2	0	1	266	87	352	0.0	540
+# BLASTP 2.2.31+
+# Query: ORF_361
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_361	tr|O84657|O84657_CHLTR	97.09	206	6	0	1	206	403	608	6e-146	419
+# BLASTP 2.2.31+
+# Query: ORF_362
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_362	tr|O84665|O84665_CHLTR	100.00	229	0	0	1	229	106	334	4e-171	474
+# BLASTP 2.2.31+
+# Query: ORF_363
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_363	tr|O84676|O84676_CHLTR	100.00	431	0	0	1	431	12	442	0.0	866
+# BLASTP 2.2.31+
+# Query: ORF_364
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_364	tr|O84680|O84680_CHLTR	99.59	490	2	0	1	490	1	490	0.0	1011
+# BLASTP 2.2.31+
+# Query: ORF_365
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_366
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_366	tr|O84691|O84691_CHLTR	98.86	88	1	0	1	88	168	255	7e-60	182
+# BLASTP 2.2.31+
+# Query: ORF_367
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_367	tr|O84692|O84692_CHLTR	98.23	395	7	0	1	395	1	395	0.0	810
+# BLASTP 2.2.31+
+# Query: ORF_368
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_368	sp|P0CD78|PGK_CHLTR	99.50	200	1	0	1	200	204	403	3e-140	397
+# BLASTP 2.2.31+
+# Query: ORF_369
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_369	tr|O84701|O84701_CHLTR	98.95	95	1	0	1	95	304	398	3e-63	195
+# BLASTP 2.2.31+
+# Query: ORF_370
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_370	tr|O84706|O84706_CHLTR	99.68	311	1	0	1	311	131	441	0.0	639
+# BLASTP 2.2.31+
+# Query: ORF_371
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_371	sp|O84707|SECA_CHLTR	99.50	599	3	0	1	599	371	969	0.0	1220
+# BLASTP 2.2.31+
+# Query: ORF_372
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_373
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_373	tr|O84728|O84728_CHLTR	100.00	241	0	0	1	241	1	241	2e-175	482
+# BLASTP 2.2.31+
+# Query: ORF_374
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_374	tr|O84730|O84730_CHLTR	100.00	102	0	0	1	102	83	184	5e-70	206
+# BLASTP 2.2.31+
+# Query: ORF_375
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_375	sp|O84736|RIBBA_CHLTR	99.71	347	1	0	1	347	78	424	0.0	720
+# BLASTP 2.2.31+
+# Query: ORF_376
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_376	sp|O84739|Y734_CHLTR	100.00	106	0	0	1	106	116	221	2e-73	216
+# BLASTP 2.2.31+
+# Query: ORF_377
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_377	tr|O84749|O84749_CHLTR	99.10	111	1	0	1	111	711	821	2e-73	231
+# BLASTP 2.2.31+
+# Query: ORF_378
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_378	tr|O84755|O84755_CHLTR	98.90	91	1	0	1	91	576	666	6e-59	188
+# BLASTP 2.2.31+
+# Query: ORF_379
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_379	sp|O84762|MRAY_CHLTR	100.00	144	0	0	1	144	193	336	7e-99	287
+# BLASTP 2.2.31+
+# Query: ORF_380
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_380	sp|O84767|MUDD_CHLTR	98.80	166	2	0	1	166	638	803	6e-114	340
+# BLASTP 2.2.31+
+# Query: ORF_381
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_381	tr|O84775|O84775_CHLTR	100.00	276	0	0	1	276	143	418	0.0	568
+# BLASTP 2.2.31+
+# Query: ORF_382
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_382	tr|O84780|O84780_CHLTR	99.30	143	1	0	1	143	111	253	3e-103	295
+# BLASTP 2.2.31+
+# Query: ORF_383
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_384
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_384	sp|O84826|Y819_CHLTR	100.00	238	0	0	1	238	1	238	7e-172	473
+# BLASTP 2.2.31+
+# Query: ORF_385
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_385	tr|O84829|O84829_CHLTR	96.51	86	3	0	1	86	206	291	2e-51	161
+# BLASTP 2.2.31+
+# Query: ORF_386
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_386	tr|O84831|O84831_CHLTR	99.37	316	2	0	1	316	659	974	0.0	647
+# BLASTP 2.2.31+
+# Query: ORF_387
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_387	sp|O84834|RIR1_CHLTR	99.75	799	2	0	1	799	249	1047	0.0	1674
+# BLASTP 2.2.31+
+# Query: ORF_388
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_388	tr|O84837|O84837_CHLTR	100.00	109	0	0	1	109	86	194	1e-80	234
+# BLASTP 2.2.31+
+# Query: ORF_389
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_389	tr|O84848|O84848_CHLTR	99.04	416	4	0	1	416	498	913	0.0	852
+# BLASTP 2.2.31+
+# Query: ORF_390
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_391
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_392
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_393
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_393	tr|O84871|O84871_CHLTR	99.17	482	4	0	1	482	1	482	0.0	983
+# BLASTP 2.2.31+
+# Query: ORF_394
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_394	tr|O84868|O84868_CHLTR	100.00	165	0	0	1	165	329	493	5e-121	350
+# BLASTP 2.2.31+
+# Query: ORF_395
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_395	tr|O84856|O84856_CHLTR	98.74	159	2	0	1	159	1	159	9e-110	309
+# BLASTP 2.2.31+
+# Query: ORF_396
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_396	tr|O84855|O84855_CHLTR	100.00	162	0	0	1	162	7	168	6e-110	310
+# BLASTP 2.2.31+
+# Query: ORF_397
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_397	tr|O84854|O84854_CHLTR	98.47	131	2	0	1	131	42	172	1e-89	257
+# BLASTP 2.2.31+
+# Query: ORF_398
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_399
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_399	tr|O84845|O84845_CHLTR	100.00	83	0	0	1	83	284	366	1e-52	166
+# BLASTP 2.2.31+
+# Query: ORF_400
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_400	sp|O84839|NUSB_CHLTR	99.40	168	1	0	39	206	1	168	1e-121	341
+# BLASTP 2.2.31+
+# Query: ORF_401
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_401	sp|O84804|GLGA_CHLTR	100.00	82	0	0	1	82	393	474	3e-56	178
+# BLASTP 2.2.31+
+# Query: ORF_402
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_402	tr|O84779|O84779_CHLTR	98.83	342	4	0	1	342	1	342	0.0	705
+# BLASTP 2.2.31+
+# Query: ORF_403
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_403	tr|O84772|O84772_CHLTR	100.00	169	0	0	1	169	182	350	3e-126	358
+# BLASTP 2.2.31+
+# Query: ORF_404
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_404	tr|O84760|O84760_CHLTR	99.22	512	4	0	1	512	1	512	0.0	1036
+# BLASTP 2.2.31+
+# Query: ORF_405
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_405	tr|O84756|O84756_CHLTR	99.27	273	2	0	1	273	17	289	0.0	564
+# BLASTP 2.2.31+
+# Query: ORF_406
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_407
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_408
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_409
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_409	tr|O84751|O84751_CHLTR	99.78	457	1	0	1	457	1	457	0.0	944
+# BLASTP 2.2.31+
+# Query: ORF_410
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_411
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_412
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_413
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_414
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_415
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_416
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_416	sp|O84727|GPMA_CHLTR	99.40	166	1	0	1	166	61	226	2e-121	341
+# BLASTP 2.2.31+
+# Query: ORF_417
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_417	tr|O84722|O84722_CHLTR	99.54	434	2	0	1	434	1	434	0.0	875
+# BLASTP 2.2.31+
+# Query: ORF_418
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_418	tr|O84720|O84720_CHLTR	99.34	455	3	0	1	455	1	455	0.0	938
+# BLASTP 2.2.31+
+# Query: ORF_419
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_419	sp|P38006|OMP2_CHLTR	99.45	182	1	0	1	182	159	340	2e-134	379
+# BLASTP 2.2.31+
+# Query: ORF_420
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_421
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_421	tr|O84696|O84696_CHLTR	99.05	105	1	0	1	105	217	321	6e-77	229
+# BLASTP 2.2.31+
+# Query: ORF_422
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_422	sp|O84687|RS2_CHLTR	93.70	127	8	0	1	127	156	282	4e-82	241
+# BLASTP 2.2.31+
+# Query: ORF_423
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_423	sp|O84682|MCSB_CHLTR	98.84	86	1	0	1	86	271	356	2e-58	181
+# BLASTP 2.2.31+
+# Query: ORF_424
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_425
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_425	tr|O84667|O84667_CHLTR	98.57	490	7	0	1	490	1	490	0.0	989
+# BLASTP 2.2.31+
+# Query: ORF_426
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_427
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_427	tr|O84660|O84660_CHLTR	99.40	168	1	0	1	168	72	239	4e-121	341
+# BLASTP 2.2.31+
+# Query: ORF_428
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_428	tr|O84650|O84650_CHLTR	99.01	303	3	0	1	303	32	334	0.0	623
+# BLASTP 2.2.31+
+# Query: ORF_429
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_429	tr|O84627|O84627_CHLTR	98.85	260	3	0	1	260	388	647	0.0	515
+# BLASTP 2.2.31+
+# Query: ORF_430
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_430	sp|P18333|SIGA_CHLTR	100.00	220	0	0	1	220	352	571	5e-160	454
+# BLASTP 2.2.31+
+# Query: ORF_431
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_431	tr|O84609|O84609_CHLTR	97.01	134	4	0	1	134	400	533	1e-87	264
+# BLASTP 2.2.31+
+# Query: ORF_432
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_432	tr|O84600|O84600_CHLTR	100.00	217	0	0	1	217	476	692	9e-154	442
+# BLASTP 2.2.31+
+# Query: ORF_433
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_433	tr|O84599|O84599_CHLTR	99.62	263	1	0	1	263	1	263	0.0	543
+# BLASTP 2.2.31+
+# Query: ORF_434
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_434	tr|O84596|O84596_CHLTR	59.79	97	20	1	1	78	87	183	3e-33	116
+# BLASTP 2.2.31+
+# Query: ORF_435
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_436
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_437
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_437	sp|O84584|SAMHT_CHLTR	99.39	327	2	0	1	327	1	327	0.0	642
+# BLASTP 2.2.31+
+# Query: ORF_438
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_439
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_439	sp|O84579|MUTL_CHLTR	98.82	509	6	0	1	509	68	576	0.0	1023
+# BLASTP 2.2.31+
+# Query: ORF_440
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_440	tr|O84575|O84575_CHLTR	100.00	123	0	0	1	123	379	501	3e-85	256
+# BLASTP 2.2.31+
+# Query: ORF_441
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_441	tr|O84571|O84571_CHLTR	100.00	104	0	0	1	104	71	174	4e-73	214
+# BLASTP 2.2.31+
+# Query: ORF_442
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_442	tr|O84550|O84550_CHLTR	100.00	203	0	0	1	203	87	289	2e-154	429
+# BLASTP 2.2.31+
+# Query: ORF_443
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_444
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_444	sp|O84547|SYH_CHLTR	99.36	312	2	0	1	312	117	428	0.0	636
+# BLASTP 2.2.31+
+# Query: ORF_445
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_445	tr|O84545|O84545_CHLTR	100.00	151	0	0	1	151	1	151	5e-111	311
+# BLASTP 2.2.31+
+# Query: ORF_446
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_446	sp|O84536|LPXA_CHLTR	99.40	168	1	0	1	168	113	280	5e-123	347
+# BLASTP 2.2.31+
+# Query: ORF_447
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_447	tr|O84534|O84534_CHLTR	98.26	115	2	0	1	115	184	298	6e-77	228
+# BLASTP 2.2.31+
+# Query: ORF_448
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_448	sp|O84530|RL2_CHLTR	100.00	87	0	0	1	87	198	284	5e-60	183
+# BLASTP 2.2.31+
+# Query: ORF_449
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_449	sp|P0CE05|RS17_CHLTR	100.00	83	0	0	1	83	1	83	3e-55	164
+# BLASTP 2.2.31+
+# Query: ORF_450
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_450	sp|P0CE04|RS13_CHLTR	99.18	122	1	0	1	122	1	122	4e-83	238
+# BLASTP 2.2.31+
+# Query: ORF_451
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_451	sp|O84510|RUVC_CHLTR	100.00	85	0	0	1	85	86	170	6e-57	171
+# BLASTP 2.2.31+
+# Query: ORF_452
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_452	tr|O84501|O84501_CHLTR	99.53	212	1	0	1	212	120	331	4e-157	438
+# BLASTP 2.2.31+
+# Query: ORF_453
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_453	sp|O84480|Y474_CHLTR	99.30	143	1	0	1	143	167	309	1e-101	293
+# BLASTP 2.2.31+
+# Query: ORF_454
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_455
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_455	tr|O84470|O84470_CHLTR	98.46	130	2	0	1	130	95	224	9e-94	269
+# BLASTP 2.2.31+
+# Query: ORF_456
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_456	tr|O84464|O84464_CHLTR	100.00	167	0	0	1	167	1	167	4e-123	343
+# BLASTP 2.2.31+
+# Query: ORF_457
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_457	tr|O84454|O84454_CHLTR	100.00	106	0	0	1	106	1295	1400	9e-65	209
+# BLASTP 2.2.31+
+# Query: ORF_458
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_458	tr|O84453|O84453_CHLTR	100.00	98	0	0	1	98	487	584	3e-65	204
+# BLASTP 2.2.31+
+# Query: ORF_459
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_459	sp|O84452|Y446_CHLTR	98.68	76	1	0	1	76	108	183	6e-51	156
+# BLASTP 2.2.31+
+# Query: ORF_460
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_461
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_461	sp|P0CC05|OMCA_CHLTR	100.00	88	0	0	1	88	1	88	8e-60	176
+# BLASTP 2.2.31+
+# Query: ORF_462
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_462	tr|O84442|O84442_CHLTR	98.61	288	4	0	1	288	63	350	0.0	583
+# BLASTP 2.2.31+
+# Query: ORF_463
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_463	sp|P38002|CLPP1_CHLTR	99.00	100	1	0	1	100	93	192	4e-70	207
+# BLASTP 2.2.31+
+# Query: ORF_464
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_464	sp|P66123|RL27_CHLTR	100.00	83	0	0	1	83	1	83	2e-56	167
+# BLASTP 2.2.31+
+# Query: ORF_465
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_465	sp|O84407|LPXK_CHLTR	99.19	369	3	0	1	369	1	369	0.0	749
+# BLASTP 2.2.31+
+# Query: ORF_466
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_466	sp|P36427|Y392_CHLTR	97.92	96	2	0	1	96	282	377	8e-65	199
+# BLASTP 2.2.31+
+# Query: ORF_467
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_468
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_468	sp|O84390|YHIT_CHLTR	100.00	111	0	0	1	111	1	111	8e-77	221
+# BLASTP 2.2.31+
+# Query: ORF_469
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_470
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_470	tr|O84370|O84370_CHLTR	100.00	575	0	0	1	575	1	575	0.0	1139
+# BLASTP 2.2.31+
+# Query: ORF_471
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_471	sp|O84367|AK_CHLTR	99.64	274	1	0	1	274	158	431	0.0	562
+# BLASTP 2.2.31+
+# Query: ORF_472
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_472	sp|O84366|DAPA_CHLTR	100.00	286	0	0	1	286	1	286	0.0	585
+# BLASTP 2.2.31+
+# Query: ORF_473
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_473	sp|O84359|Y355_CHLTR	100.00	212	0	0	1	212	142	353	2e-157	440
+# BLASTP 2.2.31+
+# Query: ORF_474
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_474	sp|O84358|RSMA_CHLTR	99.50	199	1	0	1	199	79	277	4e-149	415
+# BLASTP 2.2.31+
+# Query: ORF_475
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_476
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_476	sp|O84331|TRPF_CHLTR	99.52	208	1	0	1	208	1	208	3e-155	428
+# BLASTP 2.2.31+
+# Query: ORF_477
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_477	tr|O84328|O84328_CHLTR	92.81	278	13	1	1	271	83	360	5e-175	496
+# BLASTP 2.2.31+
+# Query: ORF_478
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_478	sp|P0CD71|EFTU_CHLTR	99.04	104	1	0	1	104	291	394	2e-71	217
+# BLASTP 2.2.31+
+# Query: ORF_479
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_479	sp|P0CE09|RPOB_CHLTR	100.00	80	0	0	1	80	1173	1252	5e-50	166
+# BLASTP 2.2.31+
+# Query: ORF_480
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_480	sp|O84316|RPOC_CHLTR	99.23	650	5	0	1	650	747	1396	0.0	1304
+# BLASTP 2.2.31+
+# Query: ORF_481
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_481	sp|O84310|VATA_CHLTR	99.66	590	2	0	1	590	1	590	0.0	1216
+# BLASTP 2.2.31+
+# Query: ORF_482
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_482	sp|O84307|VATI_CHLTR	98.95	191	2	0	1	191	459	649	3e-132	384
+# BLASTP 2.2.31+
+# Query: ORF_483
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_483	tr|O84305|O84305_CHLTR	99.42	171	1	0	8	178	1	171	2e-125	350
+# BLASTP 2.2.31+
+# Query: ORF_484
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_484	tr|O84298|O84298_CHLTR	98.06	155	3	0	1	155	1	155	1e-111	313
+# BLASTP 2.2.31+
+# Query: ORF_485
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_485	sp|O84296|SODM_CHLTR	98.37	123	2	0	1	123	84	206	1e-89	258
+# BLASTP 2.2.31+
+# Query: ORF_486
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_486	tr|O84293|O84293_CHLTR	100.00	95	0	0	1	95	64	158	1e-64	191
+# BLASTP 2.2.31+
+# Query: ORF_487
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_487	sp|O84289|MNMA_CHLTR	100.00	191	0	0	1	191	168	358	2e-141	398
+# BLASTP 2.2.31+
+# Query: ORF_488
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_488	tr|O84261|O84261_CHLTR	100.00	114	0	0	1	114	135	248	3e-79	232
+# BLASTP 2.2.31+
+# Query: ORF_489
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_489	sp|O84254|LGT_CHLTR	97.93	145	3	0	1	145	128	272	2e-100	288
+# BLASTP 2.2.31+
+# Query: ORF_490
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_490	tr|O84223|O84223_CHLTR	100.00	263	0	0	1	263	36	298	0.0	524
+# BLASTP 2.2.31+
+# Query: ORF_491
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_491	sp|O84213|Y211_CHLTR	100.00	117	0	0	1	117	73	189	1e-83	242
+# BLASTP 2.2.31+
+# Query: ORF_492
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_493
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_494
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_494	sp|O84192|GYRA_CHLTR	99.69	318	1	0	1	318	519	836	0.0	652
+# BLASTP 2.2.31+
+# Query: ORF_495
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_496
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_496	tr|O84158|O84158_CHLTR	100.00	109	0	0	1	109	5	113	1e-74	216
+# BLASTP 2.2.31+
+# Query: ORF_497
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_497	tr|O84150|O84150_CHLTR	100.00	157	0	0	1	157	351	507	2e-112	328
+# BLASTP 2.2.31+
+# Query: ORF_498
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_498	tr|O84114|O84114_CHLTR	99.24	395	3	0	1	395	214	608	0.0	813
+# BLASTP 2.2.31+
+# Query: ORF_499
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_499	sp|O84096|TRUB_CHLTR	100.00	119	0	0	1	119	123	241	2e-85	248
+# BLASTP 2.2.31+
+# Query: ORF_500
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_500	tr|O84092|O84092_CHLTR	100.00	708	0	0	1	708	1	708	0.0	1426
+# BLASTP 2.2.31+
+# Query: ORF_501
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_501	sp|O84089|MALQ_CHLTR	100.00	115	0	0	1	115	1	115	1e-77	237
+# BLASTP 2.2.31+
+# Query: ORF_502
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_502	tr|O84082|O84082_CHLTR	100.00	108	0	0	1	108	40	147	1e-74	217
+# BLASTP 2.2.31+
+# Query: ORF_503
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_503	sp|O84081|FOLD_CHLTR	100.00	242	0	0	1	242	46	287	2e-179	494
+# BLASTP 2.2.31+
+# Query: ORF_504
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_504	sp|O84078|DPO3B_CHLTR	100.00	366	0	0	1	366	51	416	0.0	743
+# BLASTP 2.2.31+
+# Query: ORF_505
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_505	tr|O84076|O84076_CHLTR	99.36	313	2	0	1	313	13	325	0.0	645
+# BLASTP 2.2.31+
+# Query: ORF_506
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_506	tr|O84069|O84069_CHLTR	100.00	97	0	0	1	97	62	158	1e-66	196
+# BLASTP 2.2.31+
+# Query: ORF_507
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_507	tr|O84062|O84062_CHLTR	100.00	91	0	0	1	91	1	91	2e-62	183
+# BLASTP 2.2.31+
+# Query: ORF_508
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_508	tr|O84056|O84056_CHLTR	100.00	129	0	0	1	129	20	148	1e-89	256
+# BLASTP 2.2.31+
+# Query: ORF_509
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_509	tr|O84047|O84047_CHLTR	100.00	88	0	0	1	88	80	167	2e-61	183
+# BLASTP 2.2.31+
+# Query: ORF_510
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_510	tr|O84046|O84046_CHLTR	99.61	518	2	0	1	518	149	666	0.0	1085
+# BLASTP 2.2.31+
+# Query: ORF_511
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_512
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_512	tr|O84037|O84037_CHLTR	99.71	340	1	0	1	340	2	341	0.0	683
+# BLASTP 2.2.31+
+# Query: ORF_513
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_513	tr|O84023|O84023_CHLTR	98.83	515	6	0	1	515	114	628	0.0	1061
+# BLASTP 2.2.31+
+# Query: ORF_514
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_514	tr|O84021|O84021_CHLTR	98.73	157	2	0	1	157	1	157	4e-116	325
+# BLASTP 2.2.31+
+# Query: ORF_515
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_515	sp|O84008|Y005_CHLTR	99.17	363	3	0	1	363	1	363	0.0	730
+# BLASTP 2.2.31+
+# Query: ORF_516
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_516	sp|O84882|PMPI_CHLTR	97.93	290	6	0	1	290	589	878	0.0	589
+# BLASTP 2.2.31+
+# Query: ORF_517
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_518
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_519
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_519	sp|O84872|XERD_CHLTR	99.52	208	1	0	1	208	93	300	2e-154	429
+# BLASTP 2.2.31+
+# Query: ORF_520
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_520	tr|O84869|O84869_CHLTR	100.00	95	0	0	1	95	412	506	1e-62	196
+# BLASTP 2.2.31+
+# Query: ORF_521
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_522
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_523
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_523	tr|O84861|O84861_CHLTR	100.00	80	0	0	1	80	120	199	1e-49	154
+# BLASTP 2.2.31+
+# Query: ORF_524
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_525
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_525	tr|O84833|O84833_CHLTR	100.00	218	0	0	1	218	46	263	6e-155	430
+# BLASTP 2.2.31+
+# Query: ORF_526
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_526	sp|O84832|RMUC_CHLTR	100.00	92	0	0	1	92	336	427	4e-62	192
+# BLASTP 2.2.31+
+# Query: ORF_527
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_527	tr|O84827|O84827_CHLTR	99.37	159	1	0	1	159	126	284	9e-117	331
+# BLASTP 2.2.31+
+# Query: ORF_528
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_529
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_530
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_530	sp|O84797|MUTS_CHLTR	100.00	235	0	0	1	235	586	820	3e-170	489
+# BLASTP 2.2.31+
+# Query: ORF_531
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_532
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_532	tr|O84753|O84753_CHLTR	99.60	502	2	0	1	502	578	1079	0.0	1036
+# BLASTP 2.2.31+
+# Query: ORF_533
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_533	sp|O84752|DCUP_CHLTR	100.00	154	0	0	1	154	183	336	5e-110	316
+# BLASTP 2.2.31+
+# Query: ORF_534
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_534	tr|O84742|O84742_CHLTR	99.54	219	1	0	1	219	1	219	1e-165	455
+# BLASTP 2.2.31+
+# Query: ORF_535
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_535	tr|O84732|O84732_CHLTR	99.63	272	1	0	1	272	388	659	0.0	560
+# BLASTP 2.2.31+
+# Query: ORF_536
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_536	tr|O84725|O84725_CHLTR	99.23	259	2	0	1	259	2	260	0.0	531
+# BLASTP 2.2.31+
+# Query: ORF_537
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_538
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_539
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_540
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_540	tr|O84710|O84710_CHLTR	100.00	85	0	0	1	85	326	410	2e-54	172
+# BLASTP 2.2.31+
+# Query: ORF_541
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_542
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_542	tr|O84695|O84695_CHLTR	100.00	79	0	0	1	79	198	276	4e-54	167
+# BLASTP 2.2.31+
+# Query: ORF_543
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_543	sp|Q46409|MOMPD_CHLTR	84.82	112	16	1	1	112	283	393	1e-62	194
+# BLASTP 2.2.31+
+# Query: ORF_544
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_544	sp|O84684|RRF_CHLTR	98.32	179	3	0	1	179	1	179	3e-128	357
+# BLASTP 2.2.31+
+# Query: ORF_545
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_546
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_546	tr|O84661|O84661_CHLTR	98.77	162	2	0	1	162	1	162	9e-119	332
+# BLASTP 2.2.31+
+# Query: ORF_547
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_548
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_549
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_549	sp|O84639|NQRA_CHLTR	100.00	91	0	0	1	91	375	465	2e-59	186
+# BLASTP 2.2.31+
+# Query: ORF_550
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_550	tr|O84628|O84628_CHLTR	99.59	242	1	0	1	242	191	432	2e-180	502
+# BLASTP 2.2.31+
+# Query: ORF_551
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_551	tr|O84626|O84626_CHLTR	99.19	738	6	0	1	738	95	832	0.0	1497
+# BLASTP 2.2.31+
+# Query: ORF_552
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_552	tr|O84608|O84608_CHLTR	98.97	195	2	0	1	195	1	195	4e-144	399
+# BLASTP 2.2.31+
+# Query: ORF_553
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_554
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_554	tr|O84597|O84597_CHLTR	99.47	189	1	0	1	189	1	189	4e-139	386
+# BLASTP 2.2.31+
+# Query: ORF_555
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_556
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_556	tr|O84578|O84578_CHLTR	99.25	133	1	0	1	133	224	356	8e-94	274
+# BLASTP 2.2.31+
+# Query: ORF_557
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_557	tr|O84572|O84572_CHLTR	97.37	76	2	0	1	76	76	151	2e-49	151
+# BLASTP 2.2.31+
+# Query: ORF_558
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_559
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_559	sp|O84546|SYDND_CHLTR	99.31	582	4	0	1	582	1	582	0.0	1199
+# BLASTP 2.2.31+
+# Query: ORF_560
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_560	tr|O84542|O84542_CHLTR	98.09	157	3	0	1	157	1	157	3e-113	317
+# BLASTP 2.2.31+
+# Query: ORF_561
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_561	tr|O84541|O84541_CHLTR	100.00	89	0	0	1	89	162	250	3e-61	185
+# BLASTP 2.2.31+
+# Query: ORF_562
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_562	sp|O84540|Y535_CHLTR	100.00	119	0	0	1	119	42	160	1e-86	248
+# BLASTP 2.2.31+
+# Query: ORF_563
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_563	sp|O84539|LNT_CHLTR	98.96	96	1	0	1	96	447	542	5e-62	195
+# BLASTP 2.2.31+
+# Query: ORF_564
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_564	sp|O84535|FMT_CHLTR	99.47	190	1	0	1	190	127	316	2e-137	386
+# BLASTP 2.2.31+
+# Query: ORF_565
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_566
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_566	sp|O84531|RL23_CHLTR	98.92	93	1	0	1	93	19	111	4e-63	186
+# BLASTP 2.2.31+
+# Query: ORF_567
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_567	sp|P0CD83|RL16_CHLTR	99.05	105	1	0	1	105	34	138	3e-72	210
+# BLASTP 2.2.31+
+# Query: ORF_568
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_568	sp|P0CD81|RL14_CHLTR	99.18	122	1	0	1	122	1	122	2e-84	241
+# BLASTP 2.2.31+
+# Query: ORF_569
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_569	sp|P0CE07|RS8_CHLTR	99.12	114	1	0	1	114	20	133	3e-81	233
+# BLASTP 2.2.31+
+# Query: ORF_570
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_570	sp|P0CE01|RL6_CHLTR	98.91	183	2	0	1	183	1	183	4e-132	367
+# BLASTP 2.2.31+
+# Query: ORF_571
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_571	sp|P0CD82|RL15_CHLTR	98.61	144	2	0	1	144	1	144	2e-101	286
+# BLASTP 2.2.31+
+# Query: ORF_572
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_572	sp|O84508|NDK_CHLTR	98.70	77	1	0	1	77	65	141	3e-49	150
+# BLASTP 2.2.31+
+# Query: ORF_573
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_574
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_574	tr|O84500|O84500_CHLTR	99.38	643	4	0	1	643	224	866	0.0	1311
+# BLASTP 2.2.31+
+# Query: ORF_575
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_575	tr|O84496|O84496_CHLTR	100.00	104	0	0	1	104	338	441	2e-69	213
+# BLASTP 2.2.31+
+# Query: ORF_576
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_576	tr|O84494|O84494_CHLTR	100.00	136	0	0	1	136	55	190	7e-96	273
+# BLASTP 2.2.31+
+# Query: ORF_577
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_577	tr|O84493|O84493_CHLTR	100.00	149	0	0	1	149	113	261	1e-104	299
+# BLASTP 2.2.31+
+# Query: ORF_578
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_578	sp|O84492|HEMH_CHLTR	100.00	156	0	0	1	156	159	314	4e-113	323
+# BLASTP 2.2.31+
+# Query: ORF_579
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_579	tr|O84491|O84491_CHLTR	100.00	168	0	0	1	168	165	332	2e-123	350
+# BLASTP 2.2.31+
+# Query: ORF_580
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_580	tr|O84485|O84485_CHLTR	100.00	151	0	0	1	151	342	492	4e-103	303
+# BLASTP 2.2.31+
+# Query: ORF_581
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_582
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_582	sp|O84465|RF2_CHLTR	99.55	224	1	0	1	224	146	369	8e-168	467
+# BLASTP 2.2.31+
+# Query: ORF_583
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_583	sp|O84463|Y457_CHLTR	98.55	138	2	0	1	138	101	238	3e-98	282
+# BLASTP 2.2.31+
+# Query: ORF_584
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_584	sp|P66370|RS12_CHLTR	100.00	123	0	0	1	123	1	123	8e-87	248
+# BLASTP 2.2.31+
+# Query: ORF_585
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_585	sp|O84444|EFG_CHLTR	100.00	332	0	0	1	332	363	694	0.0	679
+# BLASTP 2.2.31+
+# Query: ORF_586
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_586	sp|O84439|GLYA_CHLTR	99.38	162	1	0	1	162	336	497	2e-112	328
+# BLASTP 2.2.31+
+# Query: ORF_587
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_587	sp|O84437|DAPF_CHLTR	99.51	205	1	0	1	205	71	275	4e-153	425
+# BLASTP 2.2.31+
+# Query: ORF_588
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_588	tr|O84409|O84409_CHLTR	99.64	274	1	0	1	274	2	275	0.0	567
+# BLASTP 2.2.31+
+# Query: ORF_589
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_589	tr|O84405|O84405_CHLTR	98.71	388	5	0	1	388	1	388	0.0	776
+# BLASTP 2.2.31+
+# Query: ORF_590
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_590	sp|O84391|Y386_CHLTR	100.00	113	0	0	1	113	177	289	2e-80	237
+# BLASTP 2.2.31+
+# Query: ORF_591
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_591	sp|O84385|ARTJ_CHLTR	100.00	80	0	0	1	80	178	257	6e-53	164
+# BLASTP 2.2.31+
+# Query: ORF_592
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_592	sp|O84381|MDH_CHLTR	98.80	167	2	0	1	167	156	322	2e-121	345
+# BLASTP 2.2.31+
+# Query: ORF_593
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_594
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_595
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_595	sp|O84345|DNAJ_CHLTR	99.49	392	2	0	1	392	1	392	0.0	791
+# BLASTP 2.2.31+
+# Query: ORF_596
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_597
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_597	sp|O84340|PT1_CHLTR	98.81	84	1	0	1	84	488	571	7e-53	170
+# BLASTP 2.2.31+
+# Query: ORF_598
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_598	sp|O84322|NUSG_CHLTR	100.00	115	0	0	1	115	68	182	4e-78	227
+# BLASTP 2.2.31+
+# Query: ORF_599
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_600
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_600	tr|O84297|O84297_CHLTR	99.31	583	4	0	1	583	11	593	0.0	1195
+# BLASTP 2.2.31+
+# Query: ORF_601
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_601	tr|O84270|O84270_CHLTR	100.00	245	0	0	1	245	15	259	0.0	506
+# BLASTP 2.2.31+
+# Query: ORF_602
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_602	sp|O84267|ACCA_CHLTR	100.00	248	0	0	1	248	77	324	0.0	514
+# BLASTP 2.2.31+
+# Query: ORF_603
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_604
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_604	sp|O84242|FABH_CHLTR	99.64	274	1	0	1	274	54	327	0.0	563
+# BLASTP 2.2.31+
+# Query: ORF_605
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_605	sp|P38004|FABG_CHLTR	99.60	248	1	0	1	248	1	248	0.0	496
+# BLASTP 2.2.31+
+# Query: ORF_606
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_606	tr|O84232|O84232_CHLTR	98.60	215	3	0	1	215	1	215	4e-154	426
+# BLASTP 2.2.31+
+# Query: ORF_607
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_607	tr|O84226|O84226_CHLTR	100.00	80	0	0	1	80	191	270	2e-53	166
+# BLASTP 2.2.31+
+# Query: ORF_608
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_608	sp|O84215|RPIA_CHLTR	100.00	210	0	0	1	210	33	242	2e-154	427
+# BLASTP 2.2.31+
+# Query: ORF_609
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_610
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_610	tr|O84155|O84155_CHLTR	99.61	515	2	0	1	515	296	810	0.0	1065
+# BLASTP 2.2.31+
+# Query: ORF_611
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_612
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_613
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_613	tr|O84141|O84141_CHLTR	99.22	256	2	0	1	256	171	426	0.0	531
+# BLASTP 2.2.31+
+# Query: ORF_614
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_615
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_616
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_617
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_617	tr|O84106|O84106_CHLTR	100.00	117	0	0	1	117	182	298	2e-81	240
+# BLASTP 2.2.31+
+# Query: ORF_618
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_619
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_620
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_621
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_622
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_623
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_623	tr|O84061|O84061_CHLTR	99.46	184	1	0	1	184	184	367	4e-135	382
+# BLASTP 2.2.31+
+# Query: ORF_624
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_624	tr|O84059|O84059_CHLTR	99.59	243	1	0	1	243	1	243	0.0	504
+# BLASTP 2.2.31+
+# Query: ORF_625
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_626
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_626	tr|O84055|O84055_CHLTR	99.12	342	3	0	1	342	35	376	0.0	695
+# BLASTP 2.2.31+
+# Query: ORF_627
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_627	tr|O84054|O84054_CHLTR	96.77	248	8	0	1	248	273	520	1e-162	461
+# BLASTP 2.2.31+
+# Query: ORF_628
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_629
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_629	sp|O84039|Y036_CHLTR	100.00	78	0	0	1	78	326	403	1e-50	162
+# BLASTP 2.2.31+
+# Query: ORF_630
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_630	tr|O84036|O84036_CHLTR	99.32	146	1	0	1	146	601	746	1e-100	303
+# BLASTP 2.2.31+
+# Query: ORF_631
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_631	tr|O84018|O84018_CHLTR	100.00	98	0	0	1	98	337	434	1e-66	205
+# BLASTP 2.2.31+
+# Query: ORF_632
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_632	sp|O84011|RNH3_CHLTR	99.67	300	1	0	1	300	1	300	0.0	610
+# BLASTP 2.2.31+
+# Query: ORF_633
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_634
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_634	tr|O84004|O84004_CHLTR	100.00	90	0	0	1	90	1	90	5e-62	182
+# BLASTP 2.2.31+
+# Query: ORF_635
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_635	sp|P38008|PMPF_CHLTR	100.00	79	0	0	1	79	956	1034	9e-51	167
+# BLASTP 2.2.31+
+# Query: ORF_636
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_636	sp|O84877|PMPE_CHLTR	98.90	91	1	0	1	91	874	964	5e-60	193
+# BLASTP 2.2.31+
+# Query: ORF_637
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_637	sp|O84876|CDUB1_CHLTR	96.41	418	15	0	1	418	1	418	0.0	811
+# BLASTP 2.2.31+
+# Query: ORF_638
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_638	sp|O84875|CDUB2_CHLTR	97.09	206	6	0	1	206	134	339	6e-151	422
+# BLASTP 2.2.31+
+# Query: ORF_639
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_639	tr|O84864|O84864_CHLTR	100.00	79	0	0	1	79	489	567	1e-50	164
+# BLASTP 2.2.31+
+# Query: ORF_640
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_640	tr|O84862|O84862_CHLTR	99.37	159	1	0	1	159	431	589	1e-108	320
+# BLASTP 2.2.31+
+# Query: ORF_641
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_641	sp|O84859|MAP1_CHLTR	98.97	291	3	0	1	291	1	291	0.0	599
+# BLASTP 2.2.31+
+# Query: ORF_642
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_642	sp|O84849|PNP_CHLTR	99.49	391	2	0	1	391	305	695	0.0	798
+# BLASTP 2.2.31+
+# Query: ORF_643
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_644
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_645
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_645	tr|O84814|O84814_CHLTR	99.50	200	1	0	1	200	313	512	4e-143	408
+# BLASTP 2.2.31+
+# Query: ORF_646
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_646	tr|O84813|O84813_CHLTR	100.00	74	0	0	1	74	258	331	8e-48	152
+# BLASTP 2.2.31+
+# Query: ORF_647
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_647	sp|P0CE22|SYG_CHLTR	98.67	754	10	0	1	754	250	1003	0.0	1515
+# BLASTP 2.2.31+
+# Query: ORF_648
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_648	sp|O84783|PRIA_CHLTR	99.79	470	1	0	1	470	284	753	0.0	979
+# BLASTP 2.2.31+
+# Query: ORF_649
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_650
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_651
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_651	tr|O84768|O84768_CHLTR	98.56	139	2	0	1	139	1	139	4e-98	278
+# BLASTP 2.2.31+
+# Query: ORF_652
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_652	tr|O84759|O84759_CHLTR	98.73	79	1	0	1	79	212	290	9e-51	159
+# BLASTP 2.2.31+
+# Query: ORF_653
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_653	sp|O84754|SYA_CHLTR	99.30	716	5	0	1	716	160	875	0.0	1462
+# BLASTP 2.2.31+
+# Query: ORF_654
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_654	tr|O84750|O84750_CHLTR	98.26	172	3	0	1	172	252	423	2e-122	351
+# BLASTP 2.2.31+
+# Query: ORF_655
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_655	sp|O84744|FTSK_CHLTR	100.00	129	0	0	1	129	671	799	1e-87	270
+# BLASTP 2.2.31+
+# Query: ORF_656
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_656	tr|O84743|O84743_CHLTR	98.44	128	2	0	1	128	135	262	4e-90	261
+# BLASTP 2.2.31+
+# Query: ORF_657
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_657	tr|O84738|O84738_CHLTR	98.53	272	4	0	1	272	177	448	0.0	546
+# BLASTP 2.2.31+
+# Query: ORF_658
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_659
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_659	sp|O84734|SYS_CHLTR	100.00	102	0	0	1	102	327	428	3e-70	214
+# BLASTP 2.2.31+
+# Query: ORF_660
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_660	tr|O84733|O84733_CHLTR	100.00	109	0	0	1	109	140	248	2e-73	218
+# BLASTP 2.2.31+
+# Query: ORF_661
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_661	tr|O84731|O84731_CHLTR	98.32	179	3	0	1	179	201	379	5e-125	357
+# BLASTP 2.2.31+
+# Query: ORF_662
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_662	tr|O84726|O84726_CHLTR	99.74	384	1	0	1	384	1	384	0.0	781
+# BLASTP 2.2.31+
+# Query: ORF_663
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_663	sp|O84719|GPDA_CHLTR	99.05	105	1	0	1	105	230	334	2e-72	217
+# BLASTP 2.2.31+
+# Query: ORF_664
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_665
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_665	sp|O84712|CLPP2_CHLTR	100.00	203	0	0	1	203	1	203	7e-150	414
+# BLASTP 2.2.31+
+# Query: ORF_666
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_666	sp|O84711|CLPX_CHLTR	99.76	419	1	0	1	419	1	419	0.0	849
+# BLASTP 2.2.31+
+# Query: ORF_667
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_667	sp|O84709|DER_CHLTR	100.00	490	0	0	1	490	1	490	0.0	1013
+# BLASTP 2.2.31+
+# Query: ORF_668
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_668	tr|O84708|O84708_CHLTR	99.43	175	1	0	1	175	1	175	1e-131	365
+# BLASTP 2.2.31+
+# Query: ORF_669
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_670
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_671
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_671	sp|O84704|MNME_CHLTR	100.00	444	0	0	1	444	1	444	0.0	905
+# BLASTP 2.2.31+
+# Query: ORF_672
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_672	tr|O84703|O84703_CHLTR	100.00	143	0	0	1	143	69	211	9e-106	300
+# BLASTP 2.2.31+
+# Query: ORF_673
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_674
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_675
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_675	sp|O84686|EFTS_CHLTR	95.74	282	12	0	1	282	1	282	0.0	551
+# BLASTP 2.2.31+
+# Query: ORF_676
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_676	sp|O84685|PYRH_CHLTR	99.37	158	1	0	1	158	88	245	6e-116	328
+# BLASTP 2.2.31+
+# Query: ORF_677
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_677	tr|O84683|O84683_CHLTR	100.00	173	0	0	1	173	1	173	4e-129	359
+# BLASTP 2.2.31+
+# Query: ORF_678
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_678	sp|P0CD74|KDSA_CHLTR	99.00	100	1	0	1	100	170	269	4e-68	204
+# BLASTP 2.2.31+
+# Query: ORF_679
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_680
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_681
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_681	sp|O84637|Y632_CHLTR	100.00	177	0	0	1	177	353	529	3e-128	370
+# BLASTP 2.2.31+
+# Query: ORF_682
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_682	tr|O84633|O84633_CHLTR	99.66	291	1	0	1	291	1	291	0.0	589
+# BLASTP 2.2.31+
+# Query: ORF_683
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_683	sp|Q46378|MURJ_CHLTR	98.61	288	4	0	1	288	249	536	0.0	577
+# BLASTP 2.2.31+
+# Query: ORF_684
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_684	sp|O84621|Y616_CHLTR	99.77	429	1	0	1	429	1	429	0.0	885
+# BLASTP 2.2.31+
+# Query: ORF_685
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_685	sp|O84619|FOLKP_CHLTR	100.00	77	0	0	1	77	374	450	2e-51	164
+# BLASTP 2.2.31+
+# Query: ORF_686
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_686	tr|O84617|O84617_CHLTR	99.07	107	1	0	1	107	137	243	3e-77	227
+# BLASTP 2.2.31+
+# Query: ORF_687
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_687	sp|O84613|UNG_CHLTR	98.69	229	3	0	1	229	1	229	1e-172	474
+# BLASTP 2.2.31+
+# Query: ORF_688
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_688	tr|O84610|O84610_CHLTR	98.78	245	3	0	1	245	164	408	0.0	508
+# BLASTP 2.2.31+
+# Query: ORF_689
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_690
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_690	tr|O84596|O84596_CHLTR	99.18	366	3	0	1	366	207	572	0.0	763
+# BLASTP 2.2.31+
+# Query: ORF_691
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_691	tr|O84595|O84595_CHLTR	97.59	83	2	0	1	83	150	232	2e-54	167
+# BLASTP 2.2.31+
+# Query: ORF_692
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_692	tr|O84594|O84594_CHLTR	98.95	95	1	0	1	95	860	954	2e-69	219
+# BLASTP 2.2.31+
+# Query: ORF_693
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_694
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_694	tr|O84577|O84577_CHLTR	98.04	409	8	0	1	409	1	409	0.0	820
+# BLASTP 2.2.31+
+# Query: ORF_695
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_695	tr|O84576|O84576_CHLTR	100.00	223	0	0	1	223	538	760	1e-160	462
+# BLASTP 2.2.31+
+# Query: ORF_696
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_696	tr|O84574|O84574_CHLTR	100.00	198	0	0	1	198	194	391	2e-141	399
+# BLASTP 2.2.31+
+# Query: ORF_697
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_697	tr|O84569|O84569_CHLTR	100.00	147	0	0	1	147	1	147	3e-107	301
+# BLASTP 2.2.31+
+# Query: ORF_698
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_699
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_700
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_701
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_702
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_702	sp|O84538|LPXC_CHLTR	99.30	286	2	0	1	286	1	286	0.0	583
+# BLASTP 2.2.31+
+# Query: ORF_703
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_703	sp|O84533|RL3_CHLTR	100.00	89	0	0	1	89	133	221	6e-60	181
+# BLASTP 2.2.31+
+# Query: ORF_704
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_704	sp|O84528|RL22_CHLTR	97.30	111	3	0	1	111	1	111	2e-75	218
+# BLASTP 2.2.31+
+# Query: ORF_705
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_705	sp|O84527|RS3_CHLTR	100.00	78	0	0	1	78	142	219	2e-51	159
+# BLASTP 2.2.31+
+# Query: ORF_706
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_706	sp|P0CD88|RL5_CHLTR	98.60	143	2	0	1	143	38	180	3e-104	295
+# BLASTP 2.2.31+
+# Query: ORF_707
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_707	sp|P28539|SECY_CHLTR	100.00	77	0	0	1	77	381	457	1e-46	152
+# BLASTP 2.2.31+
+# Query: ORF_708
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_708	sp|P0CE13|G3P_CHLTR	99.38	162	1	0	1	162	173	334	3e-117	335
+# BLASTP 2.2.31+
+# Query: ORF_709
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_709	sp|O84502|TLC2_CHLTR	98.25	457	8	0	1	457	84	540	0.0	902
+# BLASTP 2.2.31+
+# Query: ORF_710
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_710	tr|O84498|O84498_CHLTR	100.00	267	0	0	1	267	198	464	0.0	537
+# BLASTP 2.2.31+
+# Query: ORF_711
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_711	tr|O84495|O84495_CHLTR	100.00	166	0	0	1	166	79	244	1e-122	345
+# BLASTP 2.2.31+
+# Query: ORF_712
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_713
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_713	tr|O84486|O84486_CHLTR	100.00	253	0	0	1	253	444	696	0.0	529
+# BLASTP 2.2.31+
+# Query: ORF_714
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_714	tr|O84484|O84484_CHLTR	98.92	93	1	0	1	93	486	578	5e-59	187
+# BLASTP 2.2.31+
+# Query: ORF_715
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_716
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_716	sp|O84461|MURA_CHLTR	100.00	100	0	0	1	100	345	444	1e-69	213
+# BLASTP 2.2.31+
+# Query: ORF_717
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_718
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_718	tr|O84455|O84455_CHLTR	99.09	110	1	0	1	110	1	110	3e-75	217
+# BLASTP 2.2.31+
+# Query: ORF_719
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_719	sp|O84451|SYE_CHLTR	99.80	506	1	0	1	506	1	506	0.0	1050
+# BLASTP 2.2.31+
+# Query: ORF_720
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_720	sp|P0CC04|OMCBD_CHLTR	99.45	547	3	0	7	553	1	547	0.0	1113
+# BLASTP 2.2.31+
+# Query: ORF_721
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_721	sp|P0CE06|RS7_CHLTR	99.36	157	1	0	1	157	1	157	9e-116	324
+# BLASTP 2.2.31+
+# Query: ORF_722
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_723
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_724
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_724	sp|O84423|OBG_CHLTR	99.10	335	3	0	1	335	1	335	0.0	669
+# BLASTP 2.2.31+
+# Query: ORF_725
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_726
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_726	sp|O84410|RISA_CHLTR	99.50	199	1	0	1	199	1	199	3e-146	404
+# BLASTP 2.2.31+
+# Query: ORF_727
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_727	tr|O84406|O84406_CHLTR	100.00	258	0	0	1	258	155	412	0.0	516
+# BLASTP 2.2.31+
+# Query: ORF_728
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_728	sp|O84404|Y399_CHLTR	99.37	158	1	0	1	158	171	328	9e-113	323
+# BLASTP 2.2.31+
+# Query: ORF_729
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_729	tr|O84389|O84389_CHLTR	100.00	117	0	0	1	117	423	539	2e-79	242
+# BLASTP 2.2.31+
+# Query: ORF_730
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_730	tr|O84386|O84386_CHLTR	100.00	278	0	0	1	278	1	278	0.0	564
+# BLASTP 2.2.31+
+# Query: ORF_731
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_731	tr|O84384|O84384_CHLTR	100.00	87	0	0	1	87	180	266	9e-59	179
+# BLASTP 2.2.31+
+# Query: ORF_732
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_732	tr|O84383|O84383_CHLTR	100.00	100	0	0	1	100	348	447	7e-69	211
+# BLASTP 2.2.31+
+# Query: ORF_733
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_733	tr|O84368|O84368_CHLTR	100.00	97	0	0	1	97	238	334	5e-70	211
+# BLASTP 2.2.31+
+# Query: ORF_734
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_734	tr|O84364|O84364_CHLTR	98.54	137	2	0	1	137	60	196	5e-92	264
+# BLASTP 2.2.31+
+# Query: ORF_735
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_736
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_736	tr|O84344|O84344_CHLTR	100.00	650	0	0	1	650	29	678	0.0	1346
+# BLASTP 2.2.31+
+# Query: ORF_737
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_737	sp|O84341|PTHP_CHLTR	98.91	92	1	0	1	92	18	109	5e-63	185
+# BLASTP 2.2.31+
+# Query: ORF_738
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_739
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_739	tr|O84328|O84328_CHLTR	100.00	166	0	0	1	166	398	563	5e-115	337
+# BLASTP 2.2.31+
+# Query: ORF_740
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_740	sp|O84320|RL1_CHLTR	98.96	96	1	0	1	96	137	232	6e-64	192
+# BLASTP 2.2.31+
+# Query: ORF_741
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_741	tr|O84306|O84306_CHLTR	100.00	141	0	0	1	141	1	141	2e-94	268
+# BLASTP 2.2.31+
+# Query: ORF_742
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_742	sp|O84294|DUT_CHLTR	100.00	145	0	0	1	145	1	145	8e-104	293
+# BLASTP 2.2.31+
+# Query: ORF_743
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_743	tr|O84291|O84291_CHLTR	97.42	387	2	2	1	387	1	379	0.0	764
+# BLASTP 2.2.31+
+# Query: ORF_744
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_744	tr|O84272|O84272_CHLTR	100.00	131	0	0	1	131	517	647	5e-90	273
+# BLASTP 2.2.31+
+# Query: ORF_745
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_745	tr|O84266|O84266_CHLTR	99.21	126	1	0	1	126	521	646	2e-84	258
+# BLASTP 2.2.31+
+# Query: ORF_746
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_746	tr|O84260|O84260_CHLTR	99.47	187	1	0	1	187	188	374	1e-134	381
+# BLASTP 2.2.31+
+# Query: ORF_747
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_747	tr|O84241|O84241_CHLTR	99.03	308	3	0	1	308	1	308	0.0	620
+# BLASTP 2.2.31+
+# Query: ORF_748
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_749
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_749	tr|O84214|O84214_CHLTR	100.00	102	0	0	1	102	47	148	1e-70	206
+# BLASTP 2.2.31+
+# Query: ORF_750
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_750	sp|O84211|SYL_CHLTR	100.00	102	0	0	1	102	718	819	2e-64	205
+# BLASTP 2.2.31+
+# Query: ORF_751
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_751	tr|O84198|O84198_CHLTR	98.46	130	2	0	1	130	234	363	8e-90	264
+# BLASTP 2.2.31+
+# Query: ORF_752
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_752	tr|O84197|O84197_CHLTR	98.78	82	1	0	1	82	389	470	4e-48	156
+# BLASTP 2.2.31+
+# Query: ORF_753
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_753	sp|O84196|TGT_CHLTR	100.00	173	0	0	1	173	200	372	7e-128	363
+# BLASTP 2.2.31+
+# Query: ORF_754
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_754	tr|O84190|O84190_CHLTR	99.39	164	1	0	1	164	127	290	2e-116	331
+# BLASTP 2.2.31+
+# Query: ORF_755
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_755	tr|O84180|O84180_CHLTR	100.00	133	0	0	1	133	106	238	6e-98	280
+# BLASTP 2.2.31+
+# Query: ORF_756
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_756	tr|O84164|O84164_CHLTR	100.00	79	0	0	1	79	1	79	4e-52	156
+# BLASTP 2.2.31+
+# Query: ORF_757
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_757	tr|O84161|O84161_CHLTR	93.20	250	3	1	1	236	61	310	5e-168	466
+# BLASTP 2.2.31+
+# Query: ORF_758
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_758	tr|O84157|O84157_CHLTR	100.00	162	0	0	1	162	1	162	1e-117	335
+# BLASTP 2.2.31+
+# Query: ORF_759
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_759	tr|O84156|O84156_CHLTR	96.05	76	1	1	1	76	310	383	9e-45	145
+# BLASTP 2.2.31+
+# Query: ORF_760
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_761
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_761	tr|O84151|O84151_CHLTR	98.03	254	5	0	1	254	62	315	0.0	518
+# BLASTP 2.2.31+
+# Query: ORF_762
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_762	tr|O84135|O84135_CHLTR	100.00	267	0	0	1	267	1	267	0.0	547
+# BLASTP 2.2.31+
+# Query: ORF_763
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_763	sp|O84130|KAD_CHLTR	100.00	235	0	0	1	235	11	245	2e-173	477
+# BLASTP 2.2.31+
+# Query: ORF_764
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_765
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_766
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_766	sp|P0C0Z7|CH60_CHLTR	100.00	113	0	0	1	113	432	544	3e-73	225
+# BLASTP 2.2.31+
+# Query: ORF_767
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_767	tr|O84108|O84108_CHLTR	100.00	303	0	0	1	303	1	303	0.0	628
+# BLASTP 2.2.31+
+# Query: ORF_768
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_768	sp|O84098|IF2_CHLTR	100.00	488	0	0	1	488	405	892	0.0	1001
+# BLASTP 2.2.31+
+# Query: ORF_769
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_769	tr|O84091|O84091_CHLTR	100.00	251	0	0	1	251	171	421	0.0	516
+# BLASTP 2.2.31+
+# Query: ORF_770
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_770	sp|O84089|MALQ_CHLTR	99.67	305	1	0	1	305	223	527	0.0	631
+# BLASTP 2.2.31+
+# Query: ORF_771
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_771	sp|O84087|Y085_CHLTR	100.00	173	0	0	1	173	407	579	2e-122	356
+# BLASTP 2.2.31+
+# Query: ORF_772
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ORF_773
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_773	sp|O84080|APBE_CHLTR	99.05	316	3	0	1	316	1	316	0.0	654
+# BLASTP 2.2.31+
+# Query: ORF_774
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_774	sp|O84077|RECF_CHLTR	99.11	112	1	0	1	112	254	365	4e-78	233
+# BLASTP 2.2.31+
+# Query: ORF_775
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_775	sp|O84068|TLC1_CHLTR	100.00	109	0	0	1	109	420	528	7e-68	211
+# BLASTP 2.2.31+
+# Query: ORF_776
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_776	sp|O84060|ISPG_CHLTR	99.47	568	3	0	1	568	35	602	0.0	1174
+# BLASTP 2.2.31+
+# Query: ORF_777
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_777	tr|O84053|O84053_CHLTR	61.33	225	35	2	1	225	364	536	2e-38	135
+# BLASTP 2.2.31+
+# Query: ORF_778
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_778	sp|O84042|DCD_CHLTR	98.84	173	2	0	1	173	18	190	3e-126	352
+# BLASTP 2.2.31+
+# Query: ORF_779
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_779	tr|O84015|O84015_CHLTR	100.00	96	0	0	1	96	169	264	1e-64	194
+# BLASTP 2.2.31+
+# Query: ORF_780
+# Database: chlamydia_ref.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ORF_780	sp|O84009|Y006_CHLTR	98.77	162	2	0	1	162	28	189	8e-110	310
+# BLASTP 2.2.31+
+# Query: ORF_781
+# Database: chlamydia_ref.fasta
+# 0 hits found
+# BLAST processed 782 queries

@@ -1,0 +1,10 @@
+1. GC statistic tool
+2. Dinucleotide statistic tool
+        Optional: compare coding and non-coding regions
+
+3. ORF finder
+4. Amino-acid/diamino-acid frequencies
+        Optional: wobble codon frequencies
+
+5. Compute distance between genomes from statistic tool output
+6. Build phylogenetic tree (Graphwiz?)
