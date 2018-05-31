@@ -1,7 +1,7 @@
 from collections import Counter
 
 
-filename = "project/Ref.proteomes/chlamydia_ref.fasta"
+filename = "project/Ref.proteomes/rhodo.fasta"
 
 proteome = []
 diaminos = {}
