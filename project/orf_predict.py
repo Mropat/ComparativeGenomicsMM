@@ -1,8 +1,8 @@
 from Bio.Seq import Seq
 import math
 from collections import Counter
-import matplotlib.pyplot as plt
 
+#Parse genome to get the sequence
 def parse(genome_file):    
     with open(genome_file, 'r') as g:
         for line in g:
@@ -10,6 +10,10 @@ def parse(genome_file):
                 continue
             else:
                 return line.strip()
+
+#Calculates general statistics for the nucleotide content of the genome. 
+#Statistics can be output by adding print statements
+#Output later reused by shannon entropy script to refine ORFs
 
 def stats(genome_file):
     
@@ -38,12 +42,15 @@ def stats(genome_file):
 
     return dinuc_dict
 
-
+#Finds all potential ORFs in all reading frames, that terminate in stop codon
+#Efficiency of the script could be improved x3 if forward and reverse strands were processed simultaneously
 
 def orfinder(genome_file):
     seq = parse(genome_file)
     revseq = str(Seq(seq).reverse_complement())
     genome_length = len(seq)
+
+#Estimates the randomness of the global genomic dinucleotide content
     glob_entropy = shannon(seq)
     print(glob_entropy)
 
@@ -55,6 +62,7 @@ def orfinder(genome_file):
         else:
             scan.append(codon)
     scan.append("*")
+
 
     for ind in range (1, genome_length-2,  3):
         codon = seq[ind] + seq[ind+1] + seq[ind+2]
@@ -96,6 +104,9 @@ def orfinder(genome_file):
             scan.append(codon)
     scan.append("*")
     
+
+#Concatenates the frames after retrieval
+
     seplist = []
     segment = ""
     for frame in scan:
@@ -104,6 +115,11 @@ def orfinder(genome_file):
             segment = ""
         segment = segment + frame
 
+#Refinement script:
+#Chooses the potential orfs starting with ATG
+#Selects the fraction of ORFs which have more unexpected
+#distribution of dinucleotides in relationship to whole genome
+
     orflist = []
     for chunk in seplist:
         fraglist = []
@@ -111,7 +127,7 @@ def orfinder(genome_file):
         for ind in range(1, len(chunk)-2, 3):
             if chunk[ind] + chunk[ind+1] + chunk[ind+2] == "ATG":
                 frag = chunk[ind:]
-                if len(frag) > 75*3 and len(frag) < 800*3 and len(frag)%3 == 0:
+                if len(frag) > 75*3 and len(frag)%3 == 0:
                     fraglist.append(frag)
 
         if len(fraglist) > 0:            
@@ -125,19 +141,23 @@ def orfinder(genome_file):
         if entlist[entmax] < glob_entropy + 0.135 and entlist[entmax] > glob_entropy:
             orflist.append(fraglist[entmax])
 
-    print (len(orflist))
+#Higher threshold of 0.135 somehat arbitrary but shows best performace
+#Extremely low entropy fragments are usually repeated elements, centromeres, and rarely code for protein
+#Extremely high entropy fragments are predicted Alanine/Leucine-rich sequences, also unlikely to code for protein
+#70-77% ORFs in reference proteomes are found within 1 std dev above average
 
-
+#Prints the ORFs to a file
     with open ("predicted_16_ent.txt", "w") as wh:
 
         orflen = len(orflist)
         for g in range(orflen):
             wh.write(">ORF_" + str(g) + "\n")
             wh.write(str(Seq(orflist[g]).translate()) + "\n")
-    print(orflist[0])       
+    print("ORFs found:")        
+    print(len(orflist))     
 
 
-
+#Script for calculating entropy of sequences based on dinucleotide statistic
 def shannon(gene):
        
     local_dict = {}
@@ -155,10 +175,7 @@ def shannon(gene):
         local_dict[key] = local_dict[key]/ (len(gene)-1)
 
     entropy = -sum((local_dict[key] * math.log2(global_probs[key])) for key in local_dict)
-
     return entropy
-
-      
  
 
 if __name__ == "__main__":

@@ -1,5 +1,4 @@
-from collections import Counter
-
+#Script calculating diamino acid frequencies in each genome
 
 filename = "project/Ref.proteomes/rhodo.fasta"
 
