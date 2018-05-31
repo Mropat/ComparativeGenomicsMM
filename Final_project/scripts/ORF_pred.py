@@ -75,7 +75,7 @@ def ORFs(genome_file):
                     if frame[j] == "TAG" or frame[j] == "TAA" or frame[j] == "TGA":
                         break
                     t = j
-                if len(ORF) > 75 and len(ORF) < 500:
+                if len(ORF) > 75 and len(ORF) < 450:
                     reverse_ORFs.append(ORF)
     
     #print(forward_ORFs[1])
@@ -101,5 +101,5 @@ def ORF_files(genome_file, output_file):
                 f.write(">orf_rev{}\n{}\n".format(ORF_number, ''.join(ORF)))
                 ORF_number += 1
 if __name__ == "__main__":
-    ORF_files("/afs/pdc.kth.se/misc/pdc/volumes/sbc/prj.sbc.dmessina.5/Comparative_Genomics/data/genomes2018/Grp4/34.fa.txt", '34.fasta')    
+    ORF_files("/afs/pdc.kth.se/misc/pdc/volumes/sbc/prj.sbc.dmessina.5/Comparative_Genomics/data/genomes2018/Grp4/04.fa.txt", '04.fasta')    
    
